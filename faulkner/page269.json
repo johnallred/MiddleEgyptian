@@ -1,0 +1,112 @@
+[
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8115022,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "Xtb",
+    "GardinerSigns": "F32 X1 D58 A15 D40",
+    "ManuelDeCodage": "F32:X1-D58-A15:D40",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">overthrow</b></span>, <sup>JEA 33, 27 (5)</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 269,
+        "IndexOnPage": 0
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8115023,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "Xtt",
+    "GardinerSigns": "F32 X1 X1 D40",
+    "ManuelDeCodage": "F32:(X1*X1)-D40",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">pluck</span> plants</b>, <sup>Bersh. II, pp. 19.23</sup>; var. <canvas class=\"res\">Aa1:(X1*X1)</canvas>\n <sup>BH I, pl. 29</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 269,
+        "IndexOnPage": 1
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8115024,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "Xdb",
+    "GardinerSigns": "F32 D46 D58 A24",
+    "ManuelDeCodage": "F32:D46-D58-A24",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">kill</b></span>, <sup>Sin. B62; Adm. 5, 12; 13, 3</sup> (dets. <canvas class=\"res\">T30:D40</canvas> ).",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 269,
+        "IndexOnPage": 2
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8115025,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "Xdr",
+    "GardinerSigns": "F32 D46 D21 D36",
+    "ManuelDeCodage": "F32:D46-D21:D36",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">rescue</b></span> (?), <sup>Peas. B1, 138</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 269,
+        "IndexOnPage": 3
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8115026,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "Xdr",
+    "GardinerSigns": "F32 D46 D21 G37",
+    "ManuelDeCodage": "F32:D46-D21:G37",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">be in discomfort</b></span> (?), <sup>Pr. 4, 3</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 269,
+        "IndexOnPage": 4
+      }
+    }
+  }
+]

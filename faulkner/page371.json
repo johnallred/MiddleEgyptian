@@ -1,0 +1,398 @@
+[
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116468,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmw",
+    "GardinerSigns": "G28 G17 Z7 G37 Z2",
+    "ManuelDeCodage": "G28-G17-Z7-G37:Z2",
+    "Res": "G28-G17-Z7-G37:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">mourning</b></span>, <sup>Sin. R9</sup>; cf. <sup>GNS 10.153</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 0
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116469,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmw",
+    "GardinerSigns": "G28 G17 G43 A7",
+    "ManuelDeCodage": "G28-G17-G43-A7",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">weakness</b></span> (?), <sup>Sm. 8, 17; P. Kah. 7, 19</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 1
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116470,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmwt",
+    "GardinerSigns": "G28 G17 G43 X1 A7 G37 Z2",
+    "ManuelDeCodage": "G28-G17-G43-X1-A7-G37:Z2",
+    "Res": "G28-G17-G43-X1-A7-G37:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">weakness</b></span>, <sup>BD 29, 11-12</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 2
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116471,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmH",
+    "GardinerSigns": "G28 G17 V28 D4",
+    "ManuelDeCodage": "G28-G17-V28-D4",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">catch sight of</b></span>, <b><span style=\"color: #BF0000\">espy</b></span>, <sup>Sin. B25; Adm. 7, 12; 8, 5</sup>; <b><span style=\"color: #BF0000\">look</b></span>, <i><span style=\"color: #0070BF\">n</i></span> ‘<i>at</i>’, <sup>Urk. IV, 364, 15</sup>; <i><span style=\"color: #0070BF\">r</i></span> \n ‘<i>at</i>’, <sup>Pr. 6, 11</sup>; <i><span style=\"color: #0070BF\">sti m gmH aSA</i></span> ‘<i>pierce</i> (<i>s’one</i>) <i>with much staring</i>’, <sup>Pr. 6, 11-7,1</sup>; <i><span style=\"color: #0070BF\">gmH wA</i></span> ‘<i>far-sighted</i>’, ‘<i>perspicacious</i>’, <sup>Barns., Ram. p. 5</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 3
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116472,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmHt",
+    "GardinerSigns": "G28 G17 V28 X1 S28",
+    "ManuelDeCodage": "G28-G17-V28-X1:S28",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">candle</b></span>, <sup>Siut, pl. 8, 305</sup>; var. <canvas class=\"res\">G28-V28-X1:S28</canvas> <sup>pl. 7, 296</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 4
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116473,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmHt",
+    "GardinerSigns": "G28 V28 X1 D3",
+    "ManuelDeCodage": "G28-V28-X1:D3",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">plaited hair</b></span>, <sup>Urk. IV, 200, 16</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 5
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116474,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmHsw",
+    "GardinerSigns": "W11 G17 V28 M23 G43 G158",
+    "ManuelDeCodage": "W11-G17-V28-M23-G43-G158",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">hawk</b></span>, <sup>Pyr. 280</sup>; varr. <canvas class=\"res\">G28-G17-V28-S29-G158a-A40</canvas> <sup>Urk. IV, 943, 3</sup>; <canvas class=\"res\">W11:N35-V28-S29-G43-G158</canvas> <sup>Pyr. \n 1048</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 6
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116475,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gmgm",
+    "GardinerSigns": "G28 G17 G28 G17 Z9",
+    "ManuelDeCodage": "G28-G17-G28-G17-Z9",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">smash</span> boxes</b>, <sup>Adm. 3, 5</sup> (det. <canvas class=\"res\">Z9:D40</canvas> ); <b>ink-wells</b>, <sup>TR 10, 9</sup>; <b><span style=\"color: #BF0000\">tear up</span> books</b>, <sup>TR 9, 3</sup> ( <canvas class=\"res\">W11-G17-W11-G17-Z9</canvas> ); <b><span style=\"color: #BF0000\">break</b></span>, of trees, <sup>Sh. S. 59</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 7
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116476,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gn",
+    "GardinerSigns": "W11 N35 R88",
+    "ManuelDeCodage": "W11:N35-R88",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">stand</span> for ritual bowl</b>, <sup>Urk. IV, 1296, 5</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 8
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116477,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnw",
+    "GardinerSigns": "W11 N35 W24 Z7 M3 Z2",
+    "ManuelDeCodage": "W11:N35-W24-Z7-M3:Z2",
+    "Res": "W11:N35-W24-Z7-M3:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">branches</b></span> (?) <b>of trees</b>, <sup>Adm. 4, 14</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 9
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116478,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnwt",
+    "GardinerSigns": "W11 N35 W24 G43 X1 T19 V12 N33A",
+    "ManuelDeCodage": "W11:N35-W24-G43-X1-T19-V12:N33A",
+    "Res": "W11:N35-W24-G43-X1-T19-V12:N33*[sep=0.5]N33*[sep=0.5] N33",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">records</b></span>, <b><span style=\"color: #BF0000\">annals</b></span>, <sup>Urk. IV, 86, 3</sup>; varr. <canvas class=\"res\">W11:N35-W24-G43-X1-T19-T19-T19-Y1:Y1:Y1</canvas> <sup>166, 3</sup>; <canvas class=\"res\">W11:N35-W24:X1-T19-T19-T19</canvas>\n <sup>500, 13</sup>; <canvas class=\"res\">W11:N35:X1-T19-Y1:Z2</canvas> <sup>358, 15</sup>; <canvas class=\"res\">T19-W24:X1-V12:Z2</canvas> <sup>Gr. p. 514, T19</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 10
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116479,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnwty",
+    "GardinerSigns": "T19 X1 Z4 A24 A1",
+    "ManuelDeCodage": "T19-X1:Z4-A24-A1",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">sculptor</b></span>, <sup>AEO I, 66*</sup>; var. <canvas class=\"res\">T19-T19</canvas> <sup>Gr. loc. cit</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 11
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116480,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnbtw",
+    "GardinerSigns": "W11 N35 D58 X1 G43 D3 A40 Z3",
+    "ManuelDeCodage": "W11:N35-D58-X1-G43-D3-A40-Z3",
+    "Res": "W11:N35-D58-X1-G43-D3-A40-Z1:[sep=0.3]Z1:[sep=0.3]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">a foreign people from Pwēnet</b></span>, <sup>Urk. IV, 695, 6</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 12
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116481,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnf",
+    "GardinerSigns": "W11 N35 I9 D20 A2",
+    "ManuelDeCodage": "W11:N35-I9:D20-A2",
+    "Res": null,
+    "Translations": {
+      "translation": "var. of <i><span style=\"color: #0070BF\">gfn</i></span> ‘<i>rebuff</i>’.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 13
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116482,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnn",
+    "GardinerSigns": "W11 N35 N35 A7",
+    "ManuelDeCodage": "W11:N35:N35-A7",
+    "Res": null,
+    "Translations": {
+      "translation": "vb. 2gem. <b><span style=\"color: #BF0000\">be weak</b></span>, <sup>Sm. 4, 14; Urk. IV, 502, 8; 1280, 2</sup>; <b><span style=\"color: #BF0000\">be soft</b></span>, <sup>Eb. 105, 2; Sm. 6, 13</sup>.<br>Var. <canvas class=\"res\">W11-N35:D35-A7</canvas> <sup>Urk. IV, 943, 4</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 14
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116483,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnnwt",
+    "GardinerSigns": "W11 N35 W24 Z7 X1 A7 G37 Z2",
+    "ManuelDeCodage": "W11:N35-W24-Z7:X1-A7-G37:Z2",
+    "Res": "W11:N35-W24-Z7:X1-A7-G37:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">weakness</b></span> (?), <sup>Adm. 5, 13</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 15
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116484,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnnwy",
+    "GardinerSigns": "W11 N35 W24 Z7 M17 M17 F51 Z2",
+    "ManuelDeCodage": "W11:N35-W24-Z7-M17-M17-F51:Z2",
+    "Res": "W11:N35-W24-Z7-M17-M17-F51:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">suet</b></span> (?), <sup>COA III, pl. 93, 234</sup>; varr. <canvas class=\"res\">W11:N35-W24-Z7-F51:Z2</canvas>  \n <sup>235</sup>; <canvas class=\"res\">W11:N35:N35-W24:empty[shade]-empty[shade]</canvas> <sup>236</sup>; cf. <sup>p. \n 174</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 16
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116485,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "gnX",
+    "GardinerSigns": "W11 N35 F32 N34",
+    "ManuelDeCodage": "W11:N35-F32:N34",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">mount</span> poles</b>, <i><span style=\"color: #0070BF\">m</i></span> ‘<i>in</i>’ gold, <sup>Westc. 7, 13</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 371,
+        "IndexOnPage": 17
+      }
+    }
+  }
+]

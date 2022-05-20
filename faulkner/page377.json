@@ -1,0 +1,376 @@
+[
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116548,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tAHt",
+    "GardinerSigns": "X1 U30 G1 V28 X1 W24 Z2",
+    "ManuelDeCodage": "X1:U30-G1-V28-X1:W24:Z2",
+    "Res": "X1:U30-G1-V28-X1:W24:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">lees</b></span>, <b><span style=\"color: #BF0000\">dregs</b></span>, <sup>GAS 58</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 0
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116549,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tAS",
+    "GardinerSigns": "X1 U30 G1 N37 Z9 N23",
+    "ManuelDeCodage": "X1:U30-G1-N37:(Z9*N23)",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">boundary</b></span>, <sup>Sin. B71.80; BH I, 25, 41; Les. 84, 5</sup>; varr. <canvas class=\"res\">(X1*U30):N37-N21</canvas>\n <sup>Urk. IV, 7, 2</sup>; <canvas class=\"res\">(X1*U30):N37-Z9</canvas> <sup>1277, 13</sup>; <canvas class=\"res\">X1:N37-Z9:(N21*Z1)</canvas> <sup>1744, 5</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 1
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116550,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tAS",
+    "GardinerSigns": "X1 N37 Z9 D54",
+    "ManuelDeCodage": "X1:N37-Z9:D54",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">fix the limits of</b></span>, <sup>BD 27, 16</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 2
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116551,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tit",
+    "GardinerSigns": "U33 X1 Z1 O39",
+    "ManuelDeCodage": "U33-X1:Z1-O39",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">pestle</b></span> (?), <sup>Gr. p. 520, U33</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 3
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116552,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tit",
+    "GardinerSigns": "V39 X1 Z1",
+    "ManuelDeCodage": "V39-X1:Z1",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">an amulet</b></span>, late var. <canvas class=\"res\">U33-X1:Z1-V39</canvas> , <sup>Gr. p. 508, (V39)</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 4
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116553,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "ti",
+    "GardinerSigns": "U33 M17",
+    "ManuelDeCodage": "U33-M17",
+    "Res": null,
+    "Translations": {
+      "translation": "non-encl. part., var. <canvas class=\"res\">U33</canvas> , <sup>Gr. §§119, 4; 212; 243; 324</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 5
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116554,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "ty, tr",
+    "GardinerSigns": "X1 Z4",
+    "ManuelDeCodage": "X1:Z4",
+    "Res": null,
+    "Translations": {
+      "translation": "varr. of part. <i><span style=\"color: #0070BF\">tr</i></span>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 6
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116555,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "ty, tr",
+    "GardinerSigns": "X1 M6",
+    "ManuelDeCodage": "X1-M6",
+    "Res": null,
+    "Translations": {
+      "translation": "varr. of part. <i><span style=\"color: #0070BF\">tr</i></span>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 6
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116556,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tit",
+    "GardinerSigns": "X1 M17 X1 D17",
+    "ManuelDeCodage": "X1-M17-X1:D17",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">image</b></span>, <sup>Urk. IV, 84, 17</sup> (with det. <canvas class=\"res\">Y1a</canvas> ); <sup>887, 2</sup>; <b><span style=\"color: #BF0000\">form</b></span>, <b><span style=\"color: #BF0000\">shape</b></span>, <sup>157, 11; Th. T. S. IV, 20</sup>; <b><span style=\"color: #BF0000\">figure</b></span>, <sup>Urk. IV, 53, 17</sup>; <b><span style=\"color: #BF0000\">design</b></span>, <sup>1074, 8</sup>; <b>written <span style=\"color: #BF0000\">sign</b></span>, <sup>BH I, 26, 164</sup> (dets. <canvas class=\"res\">F18[mirror]:F18[mirror]</canvas> pl.!); a text is collated <i><span style=\"color: #0070BF\">ti(t) r ti(t)</i></span> ‘<i>s. by s.</i>’, <sup>Iouiya, pl. 33, 30</sup>.<br>Varr. <canvas class=\"res\">V13-M17-X1:D17</canvas> <sup>Urk. IV, 157, 11</sup>; <canvas class=\"res\">X1:D17</canvas> <sup>53, 17</sup>; <canvas class=\"res\">M17-X1:D17</canvas> <sup>1319, 18</sup>; <canvas class=\"res\">V13-M17-D17</canvas> <sup>Iouiya, loc. cit</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 7
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116557,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tiA",
+    "GardinerSigns": "X1 M17 G1 F18",
+    "ManuelDeCodage": "X1-M17-G1-F18",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">acute pain</b></span>, <sup>Sm. 3, 9.13; P. Kah. 5, 16; 6, 8</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 8
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116558,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tiA",
+    "GardinerSigns": "X1 M17 G1 F18 A2",
+    "ManuelDeCodage": "X1-M17-G1-F18-A2",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">shriek</b></span>, <sup>P. Kah. 6, 25</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 9
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116559,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "ty",
+    "GardinerSigns": "U33 M17 M17 A21A",
+    "ManuelDeCodage": "U33-M17-M17-A21A",
+    "Res": "U33-M17-M17-A21",
+    "Translations": {
+      "translation": "var. of <i><span style=\"color: #0070BF\">ity</i></span> ‘<i>sovereign</i>’.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 10
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116560,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tiw",
+    "GardinerSigns": "U33 Z7 A2",
+    "ManuelDeCodage": "U33-Z7-A2",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">yes</b></span>, <sup>Gr. §258</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 11
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116561,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tiHw",
+    "GardinerSigns": "U33 V28 G43 M2",
+    "ManuelDeCodage": "U33-V28-G43-M2",
+    "Res": null,
+    "Translations": {
+      "translation": "see under <i><span style=\"color: #0070BF\">tHwy</i></span>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 12
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116562,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tisw",
+    "GardinerSigns": "U33 M23 G43 M3",
+    "ManuelDeCodage": "U33-M23-G43-M3",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">quarterstaff</b></span>, <sup>Ken-amun, 18</sup>; var. <canvas class=\"res\">G1-M23-G43-M3</canvas> <sup>Urk. IV, 1344, 17</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 13
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116563,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "tiSps",
+    "GardinerSigns": "U33 A51 M3",
+    "ManuelDeCodage": "U33-A51-M3",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">a tree and its spice</b></span> (?), <sup>Urk. IV, 329, 7</sup>; varr. <canvas class=\"res\">U33-A52-S29-stack(M1,M3)</canvas> <sup>1375, 15</sup>; <canvas class=\"res\">U33-A50-S29-N33:Z2</canvas> <sup>Sh. S. 163</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 14
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8116564,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "titi",
+    "GardinerSigns": "X1 M17 X1 M17 D54",
+    "ManuelDeCodage": "X1-M17-X1-M17-D54",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">trample on</span> foe</b>, <sup>Sin. B61; RB 56, 16</sup>; dets. <canvas class=\"res\">D40</canvas>\n <sup>Urk. IV, 613, 1</sup>; <canvas class=\"res\">A459</canvas> <sup>621, 9</sup>; <canvas class=\"res\">D56</canvas> <sup>1290, 15</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 377,
+        "IndexOnPage": 15
+      }
+    }
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114927,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "Xt",
+    "GardinerSigns": "F32 X1 Z1",
+    "ManuelDeCodage": "F32:(X1*Z1)",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">belly</span></b>, <sup>Sh. S. 68; Pr. 10, 9</sup>; <b><span style=\"color: #BF0000\">womb</b></span>, <sup>Westc. 9, 7; 10, 9; Urk. V, 42, 12</sup>; <b><span style=\"color: #BF0000\">body</b></span>, <sup>Sin. B39.255</sup>; \n <b><span style=\"color: #BF0000\">sole</span> of foot</b>, <sup>Sm. 4, 15</sup>; <i><span style=\"color: #0070BF\">imyw-Xt</i></span> ‘<i>thoughts</i>’, <sup>Urk. IV, 971, 2</sup>; <i><span style=\"color: #0070BF\">sxr-Xt</i></span> ‘<i>thought</i>’, <sup>Peas. B1, 209</sup>.<br>Var. <canvas class=\"res\">F32</canvas>\n <sup>RB 115, 3</sup>; <canvas class=\"res\">F32:F32:F32</canvas> pl., <sup>Urk. IV, 201, 1</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 0
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114928,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "Xt",
+    "GardinerSigns": "F32 X1 Z1 A1 B1 Z2",
+    "ManuelDeCodage": "F32:(X1*Z1)-(A1*B1):Z2",
+    "Res": "F32:(X1*Z1)-(A1*B1):Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">body</span> of gods</b> or <b>men</b>, <sup>Siut, pl. 1, 1</sup> ( <canvas class=\"res\">F32:(D12*X1)</canvas> ); <sup>Peas. B1, 190</sup>; <b><span style=\"color: #BF0000\">generation</b></span>, \n <sup>GAS 82</sup>; <b><span style=\"color: #BF0000\">people</b></span>, <sup>Les. 69, 15</sup> ( <canvas class=\"res\">F32:(X1*Z2)</canvas> ).",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 1
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114929,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAt",
+    "GardinerSigns": "K4 X1 Z1 K5",
+    "ManuelDeCodage": "K4:(X1*Z1)-K5",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">oxyrhynchus</b></span> (<i>Mormyrus kannume</i>), <sup>P. Ram. III, A16</sup>; cf. <sup>Barns, Ram. p. \r\n 18</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 2
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114930,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAt",
+    "GardinerSigns": "K4 X1 AA2",
+    "ManuelDeCodage": "K4:(X1*Aa2)",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">corpse</b></span>, <sup>Les. 69, 1</sup>; dets. <canvas class=\"res\">D12</canvas> <sup>Urk. IV, 617, 3</sup>; <canvas class=\"res\">A55</canvas> <sup>64, 16</sup>; var. <canvas class=\"res\">K1:(X1*G1)-A14</canvas> <sup>481, 5</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 3
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114931,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAyt",
+    "GardinerSigns": "K4 G1 M17 M17 X1 AA2 Z2",
+    "ManuelDeCodage": "K4-G1-M17-M17-X1-Aa2:Z2",
+    "Res": "K4-G1-M17-M17-X1-Aa2:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">heap of corpses</b></span>, <sup>Sh. S. 132</sup>; var. <canvas class=\"res\">K4-G1-X1-A14-Z3</canvas> <sup>Urk. IV, 5, 7</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 4
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114932,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAt",
+    "GardinerSigns": "K4 G1 X1 AA2 Z3",
+    "ManuelDeCodage": "K4-G1-X1:Aa2-Z3",
+    "Res": "K4-G1-X1:Aa2-Z1:[sep=0.3]Z1:[sep=0.3]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">disease</b></span>, <sup>Eb. 8, 13</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 5
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114933,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAt",
+    "GardinerSigns": "K4 G1 X1 N23",
+    "ManuelDeCodage": "K4-G1-X1:N23",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">marsh</b></span>, <sup>Sin, R66</sup>, cf. <sup>GNS 87</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 6
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114934,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAA",
+    "GardinerSigns": "K4 G1 G1 M3",
+    "ManuelDeCodage": "K4-G1-G1-M3",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">clothes-peg</b></span> (?), <sup>JEA 42, 39 (III)</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 7
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114935,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAA",
+    "GardinerSigns": "K4 G1 G1 Y1",
+    "ManuelDeCodage": "K4-G1-G1-Y1",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">resolute</b></span> (?), <sup>Äg. Stud. 113</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 8
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114936,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAy",
+    "GardinerSigns": "K4 G1 M17 M17 A24",
+    "ManuelDeCodage": "K4-G1-M17-M17-A24",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">thwart</span> someone</b>, var. det. <canvas class=\"res\">A2</canvas> , <sup>CT I, 154</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 9
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114937,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAbt",
+    "GardinerSigns": "K4 G1 D58 X1 V1",
+    "ManuelDeCodage": "K4-G1-D58-X1:V1",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">curl</span> on</b> <canvas class=\"res\">S3</canvas> , <sup>Hymnen, 6, 1; 14, 2</sup> (pl. !); var. <canvas class=\"res\">K4-D58-V1</canvas> <sup>Urk. IV, 200, 15</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 10
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114938,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAb",
+    "GardinerSigns": "K4 G1 D58 U1",
+    "ManuelDeCodage": "K4-G1-D58-U1",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">clavicle</b></span>, var. dets. <canvas class=\"res\">N11:F51</canvas> , <sup>P. Ed. Smith, 348</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 11
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114939,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAb",
+    "GardinerSigns": "K4 G1 D58 U1 M3",
+    "ManuelDeCodage": "K4-G1-D58-U1-M3",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">sickle</b></span>, <sup>Urk. V, 161, 17</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 12
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114940,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAb",
+    "GardinerSigns": "K4 G1 D58 U1B",
+    "ManuelDeCodage": "K4-G1-D58-U1B",
+    "Res": "K4-G1-D58-U1b",
+    "Translations": {
+      "translation": "adj. <b><span style=\"color: #BF0000\">crooked</b></span>:<br>n. <b><span style=\"color: #BF0000\">crookedness</b></span>:<br>adv. <b><span style=\"color: #BF0000\">crookedly</b></span>, <sup>JEA 9, 11, n. 8; 28, 18.19</sup>; det. <canvas class=\"res\">D41</canvas> <sup>Sm. 5, 21</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 13
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114941,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAbt",
+    "GardinerSigns": "K4 G1 D58 X1 Z5 G37 Z2",
+    "ManuelDeCodage": "K4-G1-D58-X1:Z5-G37:Z2",
+    "Res": "K4-G1-D58-X1:Z5-G37:Z1*[sep=2.0]Z1*[sep=2.0]Z1",
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">crookedness</b></span>, <sup>RB 118, 5</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 14
+      }
+    }
+  },
+  {
+    "Id": {
+      "Timestamp": 1613535769,
+      "Machine": 16648859,
+      "Pid": 19577,
+      "Increment": 8114942,
+      "CreationTime": "/Date(1613535769000)/"
+    },
+    "Transliteration": "XAbb",
+    "GardinerSigns": "K4 G1 D58 D58 F19 F19",
+    "ManuelDeCodage": "K4-G1-D58-D58-F19:F19",
+    "Res": null,
+    "Translations": {
+      "translation": "<b><span style=\"color: #BF0000\">crookedness</b></span>, <sup>JEA 9, 11, n. 8</sup>.",
+      "TranslationMetadata": {
+        "PartOfSpeech": null,
+        "DictionaryName": 4,
+        "Page": 263,
+        "IndexOnPage": 15
+      }
+    }
+  }
+]
