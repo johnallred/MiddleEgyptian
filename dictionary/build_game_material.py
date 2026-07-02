@@ -792,6 +792,39 @@ A card game in which players collect hieroglyphic signs to spell out
 ancient Egyptian words. The first player to the target score wins
 (8 points at 2 players, 7 at 3, 6 at 4 — see "Win condition" below).
 
+## Isis and the secret name of Ra: why names are the game
+
+The Egyptians told a story about what it means to know a name. Ra, the
+sun god, ruled everything under the sky he crossed each day, and the
+deepest root of his power was his **true name** — spoken at the moment
+of creation and hidden ever since, for in Egypt, to know a thing's
+true name was to hold power over the thing itself. As Ra grew old, the
+goddess Isis, already the greatest magician among the gods, set her
+mind on the one power still beyond her. She gathered a drop of the
+aging god's spittle where it fell to earth, worked it into clay, and
+shaped a serpent out of Ra's own substance. It struck him on his daily
+walk, and no god could cure a venom drawn from his own essence. Isis
+could — for a price. Ra offered her treasure, dominion, every honor in
+creation; she refused them all. Only when the poison had nearly put
+out the sun did he draw her close and breathe his secret name into her
+ear. She spoke it, the venom obeyed her, and Ra lived. But the name
+now lived in Isis too, and with it a share of the oldest authority in
+the world. Nothing was taken back; nothing could be. She left that
+lakeside as "the great sorceress, mistress of the gods, who knows Ra
+by his name."
+
+The Egyptians did not treat this as only a story. A person carried two
+names, one public and one guarded; a name carved in a tomb kept its
+owner alive in eternity, and chiseling it away was a second, final
+death. To assemble the signs of a name was to reach into the thing it
+named.
+
+That is the game in front of you. Every word card is a name waiting to
+be learned. Gather the right signs, spell it out, and the word becomes
+yours — knowledge scored as points. Like Isis, you don't win by being
+the strongest at the table; you win by knowing the signs, waiting for
+your moment, and speaking the name first.
+
 ## Components
 
 The starter deck contains three card types:
