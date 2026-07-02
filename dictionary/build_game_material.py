@@ -86,6 +86,33 @@ TIER_NAMES = {1: "trivial", 2: "easy", 3: "medium-easy", 4: "medium",
 GRAMMAR_MARKERS = {"Z1", "Z2", "Z3", "Z2A", "Z2B", "Z2C", "Z2D",
                    "Z3A", "Z3B", "Z4", "Z4A", "Z4B"}
 
+# ----- honorific transposition support (optional advanced rule) -----
+# Signs whose presence marks a word as containing a divine or royal
+# element. Word cards containing one get "honorific_transposition": true;
+# matching sign cards get "honorific": true. All C-category signs
+# (anthropomorphic deities) qualify via the prefix check below.
+HONORIFIC_SIGNS = {
+    "R8", "R8a",                                    # nTr, god-sign
+    "N5", "N6",                                     # sun disc (Ra)
+    "G7",                                           # falcon on standard
+    "A40", "A41", "A42", "A43", "A44", "A45", "A46",  # seated gods/kings
+    "M23",                                          # sedge (nsw, king)
+    "L2",                                           # bee (bity, king)
+    "S1", "S2", "S3", "S4", "S5", "S6", "S7",       # crowns
+}
+
+
+def is_honorific_sign(sign: str) -> bool:
+    if sign in HONORIFIC_SIGNS:
+        return True
+    # All C-category signs are anthropomorphic deities.
+    return len(sign) >= 2 and sign[0] == "C" and sign[1].isdigit()
+
+# Size of the shared determinative side pool generated per deck
+# (optional advanced rule: determinative bonus).
+DET_SIDE_DECK_UNIQUE = 24
+DET_SIDE_DECK_TOP_COPIES = 8   # this many most-used dets get 2 copies
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -224,6 +251,14 @@ def build_word_index(entries, phonetic_signs, determinatives):
         sign_count = len(spellings[0])
         pos_total = rec["pos_counter"]
         primary_pos = pos_total.most_common(1)[0][0] if pos_total else None
+        # Determinatives documented in this word's raw writings (they get
+        # stripped from playable spellings, but the optional determinative-
+        # bonus rule needs them back).
+        dets = set()
+        for writing in rec["raw_writings"]:
+            for s in writing:
+                if s in determinatives and s not in GRAMMAR_MARKERS:
+                    dets.add(s)
         result[translit] = {
             "spellings": [list(t) for t in spellings],
             "english_glosses": rec["english_glosses"][:6],
@@ -231,6 +266,7 @@ def build_word_index(entries, phonetic_signs, determinatives):
             "all_pos_cores": sorted(pos_total.keys()),
             "sources": sorted(rec["sources"]),
             "shortest_sign_count": sign_count,
+            "determinatives": sorted(dets),
         }
     return result
 
@@ -241,6 +277,13 @@ def build_word_index(entries, phonetic_signs, determinatives):
 
 
 def write_word_files(word_index, phonetic_signs):
+    # The words/ tree is fully generated: clear it first. (The collision
+    # suffix logic below exists for DISTINCT transliterations that share a
+    # safe filename — rerunning into a non-empty tree would misread every
+    # existing file as a collision and write 9,466 suffixed duplicates.)
+    import shutil
+    if WORDS_DIR.exists():
+        shutil.rmtree(WORDS_DIR)
     WORDS_DIR.mkdir(parents=True, exist_ok=True)
 
     # Make subdirs by shortest sign count
@@ -253,6 +296,7 @@ def write_word_files(word_index, phonetic_signs):
 
     counts = Counter()
     collisions = Counter()
+    _used_stems: set = set()
     written = 0
     for translit, info in word_index.items():
         n = info["shortest_sign_count"]
@@ -262,10 +306,17 @@ def write_word_files(word_index, phonetic_signs):
         counts[bucket_name] += 1
 
         base = safe_filename(translit)
-        path = bucket_dir / f"{base}.json"
-        if path.exists():
+        # Collision handling must not rely on path.exists(): transliterations
+        # are CASE-SENSITIVE (t vs T are different phonemes) but the target
+        # filesystem may be case-insensitive (macOS), where "in.json" and
+        # "iN.json" are the same file and one would silently overwrite the
+        # other. Track used names casefolded instead.
+        stem = base
+        while (bucket_name, stem.lower()) in _used_stems:
             collisions[base] += 1
-            path = bucket_dir / f"{base}__{collisions[base]+1}.json"
+            stem = f"{base}__{collisions[base]+1}"
+        _used_stems.add((bucket_name, stem.lower()))
+        path = bucket_dir / f"{stem}.json"
 
         # Build the per-word record with annotated spelling
         spellings_annotated = []
@@ -297,6 +348,7 @@ def write_word_files(word_index, phonetic_signs):
             "primary_pos": info["primary_pos_core"],
             "all_pos": info["all_pos_cores"],
             "sources": info["sources"],
+            "determinatives": info.get("determinatives", []),
             "spellings": spellings_annotated,
         }
 
@@ -336,7 +388,8 @@ def scaled_picks(target_total: int) -> dict[int, int]:
 
 def build_deck(word_index, phonetic_signs, logograms,
                picks_per_tier_override: dict[int, int] | None = None,
-               content_filter: str = "family"):
+               content_filter: str = "family",
+               determinatives: dict | None = None):
     """
     content_filter:
       "family"          — exclude sexual-anatomy signs and explicit glosses
@@ -466,6 +519,10 @@ def build_deck(word_index, phonetic_signs, logograms,
             valid_spellings = [sp for sp in valid_spellings if len(sp) > 1]
             if not valid_spellings:
                 continue
+            # v8.11: honorific transposition marker — the word contains a
+            # divine or royal sign in at least one playable spelling.
+            honorific = any(is_honorific_sign(s)
+                            for sp in valid_spellings for s in sp)
             card = {
                 "card_id": f"word_{safe_filename(translit)}_{n}",
                 "type": "word",
@@ -478,6 +535,10 @@ def build_deck(word_index, phonetic_signs, logograms,
                 "valid_spellings": valid_spellings,
                 "sources": info["sources"],
             }
+            if honorific:
+                card["honorific_transposition"] = True
+            # Raw candidate determinatives (filtered to the side deck later)
+            card["_det_candidates"] = info.get("determinatives", [])
             if content_filter == "archaeological":
                 # Tag (don't exclude) words with mature content
                 if not is_family_safe(translit, info.get("english_glosses", []),
@@ -514,7 +575,7 @@ def build_deck(word_index, phonetic_signs, logograms,
             return
         seen.add(sign)
         info = phonetic_signs.get(sign, {})
-        sign_deck.append({
+        entry = {
             "card_id": f"sign_{sign}",
             "type": "phonetic",
             "phonetic_class": info.get("class", kind),
@@ -523,7 +584,10 @@ def build_deck(word_index, phonetic_signs, logograms,
             "description": info.get("description", ""),
             "usage_in_word_pool": sign_usage.get(sign, 0),
             "copies": copies,
-        })
+        }
+        if is_honorific_sign(sign):
+            entry["honorific"] = True   # divine/royal marker (optional rule)
+        sign_deck.append(entry)
 
     # Bucket signs by phonetic class
     by_class = defaultdict(list)
@@ -731,6 +795,41 @@ def build_deck(word_index, phonetic_signs, logograms,
         if len(logogram_cards) >= LOGOGRAM_CAP:
             break
 
+    # ----- DETERMINATIVE SIDE DECK (optional advanced rule support) -----
+    # Pick the most-used determinatives across THIS deck's words, then
+    # annotate each word card with (up to 3) of its determinatives that
+    # actually appear in the side deck — cards never reference a
+    # classifier you can't claim.
+    if determinatives is None:
+        _, _, determinatives = load_sign_data()
+    det_usage = Counter()
+    for card in word_cards:
+        for dsign in card.get("_det_candidates", []):
+            det_usage[dsign] += 1
+    side_det_signs = [d for d, _ in det_usage.most_common(DET_SIDE_DECK_UNIQUE)]
+    side_det_set = set(side_det_signs)
+    determinative_deck = []
+    for rank, dsign in enumerate(side_det_signs):
+        dinfo = determinatives.get(dsign) or determinatives.get(norm_sign(dsign)) or {}
+        desc = (dinfo.get("description")
+                or phonetic_signs.get(dsign, {}).get("description", ""))
+        determinative_deck.append({
+            "card_id": f"det_{dsign}",
+            "type": "determinative",
+            "sign_code": dsign,
+            "description": desc,
+            "words_in_deck_using": det_usage[dsign],
+            "copies": 2 if rank < DET_SIDE_DECK_TOP_COPIES else 1,
+        })
+    n_words_with_dets = 0
+    for card in word_cards:
+        usable = [d for d in card.pop("_det_candidates", [])
+                  if d in side_det_set]
+        usable.sort(key=lambda d: -det_usage[d])
+        if usable:
+            card["appropriate_determinatives"] = usable[:3]
+            n_words_with_dets += 1
+
     deck = {
         "name": "Middle Egyptian Hieroglyphic Card Game — Starter Set",
         "version": "1.5",
@@ -746,6 +845,11 @@ def build_deck(word_index, phonetic_signs, logograms,
             },
             "distinct_signs_needed_by_words": len(needed_signs),
             "sign_coverage_complete": len(needed_signs - {c["sign_code"] for c in sign_deck}) == 0,
+            "determinative_cards": len(determinative_deck),
+            "determinative_total_copies": sum(c["copies"] for c in determinative_deck),
+            "word_cards_with_determinatives": n_words_with_dets,
+            "word_cards_honorific": sum(1 for c in word_cards
+                                        if c.get("honorific_transposition")),
         },
         "configuration": {
             # v8.10 production ruleset — keep in sync with rules.md and
@@ -776,6 +880,7 @@ def build_deck(word_index, phonetic_signs, logograms,
         },
         "sign_deck": sign_deck,
         "logogram_deck": logogram_cards,
+        "determinative_deck": determinative_deck,
         "word_deck": word_cards,
     }
     return deck
@@ -1048,17 +1153,25 @@ playtest lands.
 
 ## Optional advanced rules
 
-- **Determinative bonus**: keep a small side deck of determinative cards.
-  When you complete a word card, you may play an appropriate
-  determinative for +1 point. The determinative cards have semantic
-  categories on them (`A1` man, `D54` motion, `Y1` abstract, etc.) and
-  the word card lists which are appropriate.
+- **Determinative bonus** (raise targets by 2 when using it): the deck
+  includes a 24-card **determinative side pool** of silent classifier
+  signs (`D54` walking legs for motion, `A2` man with hand to mouth for
+  speech and eating, `A1` seated man, and so on). Lay it out face-up at
+  setup. When you complete a word whose card lists appropriate
+  determinatives, you may claim ONE matching determinative card from
+  the pool for **+1 point**. Supplies are limited: once a classifier's
+  copies are claimed, they're gone until the next game. This rule adds
+  roughly 4-5 points per game, so **play to targets of 10 / 9 / 8**
+  (at 2 / 3 / 4 players) instead of the standard 8 / 7 / 6 —
+  simulator-validated to keep game length and comeback health intact.
 
-- **Honorific transposition**: if a word contains a divine or royal
-  reference, you earn +1 point by pointing this out as you complete it
-  and placing the divine sign first when you arrange the finished word
-  — exactly as Egyptian scribes did. The bonus rewards attentive
-  scribes who know which sign is the god.
+- **Honorific transposition**: word cards bearing the **honorific
+  marker** contain a divine or royal sign in their spelling (the
+  god-sign `R8`, the sun disc `N5`, crowns, deity figures — the same
+  signs are marked on their sign cards). Completing such a word earns
+  +1 point IF you place the divine sign first when you arrange the
+  finished word and point out why — exactly as Egyptian scribes did.
+  Adds about 1 point per game; no target adjustment needed.
 
 - **Phonetic complement bonus**: for any biliteral or triliteral you
   play, you may also play an "unnecessary" uniliteral that repeats one of

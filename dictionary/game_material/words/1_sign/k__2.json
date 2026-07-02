@@ -1,19 +1,24 @@
 {
-  "transliteration": "k",
+  "transliteration": ".k",
   "english_glosses": [
     "you",
-    "suff. pron. 2m. sg. thou"
+    "I",
+    "your"
   ],
   "shortest_sign_count": 1,
   "difficulty_tier": "trivial",
   "point_value": 1,
   "primary_pos": "pronoun",
   "all_pos": [
-    "pronoun"
+    "pronoun",
+    "verb"
   ],
   "sources": [
-    "Dickson",
-    "Faulkner"
+    "Vygus"
+  ],
+  "determinatives": [
+    "A1",
+    "G7"
   ],
   "spellings": [
     {
@@ -27,6 +32,27 @@
           "mnemonic": "k",
           "class": "uniliteral",
           "description": "basket with right handle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V31",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
         }
       ]
     }

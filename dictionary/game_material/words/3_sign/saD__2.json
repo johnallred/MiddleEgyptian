@@ -1,7 +1,8 @@
 {
-  "transliteration": "SaD",
+  "transliteration": "saD",
   "english_glosses": [
-    "cut off"
+    "make hale",
+    "(unknown)"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
@@ -11,22 +12,24 @@
     "verb"
   ],
   "sources": [
+    "Dickson",
     "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
-        "N37",
+        "S29",
         "D36",
         "I10"
       ],
       "sign_count": 3,
       "annotated": [
         {
-          "sign": "N37",
-          "mnemonic": "S",
+          "sign": "S29",
+          "mnemonic": "s",
           "class": "uniliteral",
-          "description": "pool"
+          "description": "folded cloth"
         },
         {
           "sign": "D36",
@@ -39,6 +42,41 @@
           "mnemonic": "D",
           "class": "uniliteral",
           "description": "cobra"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "V26",
+        "D46",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V26",
+          "mnemonic": "aD",
+          "class": "biliteral",
+          "description": "netting needle"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
         }
       ]
     }

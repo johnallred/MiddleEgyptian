@@ -1,7 +1,7 @@
 {
-  "transliteration": "nSs",
+  "transliteration": "nsS",
   "english_glosses": [
-    "flour"
+    "(a plant)"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
@@ -13,12 +13,15 @@
   "sources": [
     "Vygus"
   ],
+  "determinatives": [
+    "N33"
+  ],
   "spellings": [
     {
       "signs": [
         "N35",
-        "N37",
-        "O34"
+        "F20",
+        "N37"
       ],
       "sign_count": 3,
       "annotated": [
@@ -29,16 +32,16 @@
           "description": "ripple of water"
         },
         {
+          "sign": "F20",
+          "mnemonic": "ns",
+          "class": "biliteral",
+          "description": "tongue"
+        },
+        {
           "sign": "N37",
           "mnemonic": "S",
           "class": "uniliteral",
           "description": "pool"
-        },
-        {
-          "sign": "O34",
-          "mnemonic": "z",
-          "class": "uniliteral",
-          "description": "bolt"
         }
       ]
     }

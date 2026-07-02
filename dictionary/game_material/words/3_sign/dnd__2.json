@@ -1,32 +1,37 @@
 {
-  "transliteration": "DnD",
+  "transliteration": "dnd",
   "english_glosses": [
-    "anger"
+    "slaughter (animals)",
+    "slaughter animals"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
   "point_value": 2,
-  "primary_pos": "noun",
+  "primary_pos": "verb",
   "all_pos": [
-    "noun"
+    "verb"
   ],
   "sources": [
+    "Faulkner",
     "Vygus"
+  ],
+  "determinatives": [
+    "T30"
   ],
   "spellings": [
     {
       "signs": [
-        "I10",
+        "D46",
         "N35",
-        "I10"
+        "D46"
       ],
       "sign_count": 3,
       "annotated": [
         {
-          "sign": "I10",
-          "mnemonic": "D",
+          "sign": "D46",
+          "mnemonic": "d",
           "class": "uniliteral",
-          "description": "cobra"
+          "description": "hand"
         },
         {
           "sign": "N35",
@@ -35,10 +40,10 @@
           "description": "ripple of water"
         },
         {
-          "sign": "I10",
-          "mnemonic": "D",
+          "sign": "D46",
+          "mnemonic": "d",
           "class": "uniliteral",
-          "description": "cobra"
+          "description": "hand"
         }
       ]
     }

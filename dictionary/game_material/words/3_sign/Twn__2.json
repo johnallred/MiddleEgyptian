@@ -1,53 +1,25 @@
 {
-  "transliteration": "twn",
+  "transliteration": "<Twn",
   "english_glosses": [
-    "rise",
-    "a plant (used to make woven bag)",
-    "prize"
+    "rise"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
   "point_value": 2,
-  "primary_pos": "noun",
+  "primary_pos": "verb",
   "all_pos": [
-    "noun",
     "verb"
   ],
   "sources": [
-    "Faulkner",
-    "Vygus"
+    "Faulkner"
+  ],
+  "determinatives": [
+    "A24",
+    "E1"
   ],
   "spellings": [
     {
       "signs": [
-        "V13",
-        "E34",
-        "N35"
-      ],
-      "sign_count": 3,
-      "annotated": [
-        {
-          "sign": "V13",
-          "mnemonic": "T",
-          "class": "uniliteral",
-          "description": "rope"
-        },
-        {
-          "sign": "E34",
-          "mnemonic": "wn",
-          "class": "biliteral",
-          "description": "hare"
-        },
-        {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        }
-      ]
-    },
-    {
-      "signs": [
         "X1",
         "E34",
         "N35"
@@ -71,76 +43,6 @@
           "mnemonic": "n",
           "class": "uniliteral",
           "description": "ripple of water"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "X1",
-        "E34",
-        "N35",
-        "M2"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
-        },
-        {
-          "sign": "E34",
-          "mnemonic": "wn",
-          "class": "biliteral",
-          "description": "hare"
-        },
-        {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        },
-        {
-          "sign": "M2",
-          "mnemonic": "Hn",
-          "class": "biliteral",
-          "description": "plant"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "X1",
-        "E34",
-        "N35",
-        "Z7"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
-        },
-        {
-          "sign": "E34",
-          "mnemonic": "wn",
-          "class": "biliteral",
-          "description": "hare"
-        },
-        {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        },
-        {
-          "sign": "Z7",
-          "mnemonic": "W",
-          "class": "uniliteral",
-          "description": "hieratic quail chick"
         }
       ]
     }

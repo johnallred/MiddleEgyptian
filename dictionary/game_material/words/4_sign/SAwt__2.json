@@ -1,47 +1,52 @@
 {
-  "transliteration": "Sawt",
+  "transliteration": "SAwt",
   "english_glosses": [
-    "letter writing",
-    "cake"
+    "shoal",
+    "Coriander (Coriandrum sativum)",
+    "kale",
+    "fitting things"
   ],
   "shortest_sign_count": 4,
   "difficulty_tier": "medium",
   "point_value": 4,
-  "primary_pos": "verb",
+  "primary_pos": "noun",
   "all_pos": [
-    "noun",
-    "verb"
+    "noun"
   ],
   "sources": [
     "Vygus"
   ],
+  "determinatives": [
+    "N23",
+    "P1"
+  ],
   "spellings": [
     {
       "signs": [
-        "N37",
-        "D36",
-        "Z7",
+        "M8",
+        "G1",
+        "G43",
         "X1"
       ],
       "sign_count": 4,
       "annotated": [
         {
-          "sign": "N37",
-          "mnemonic": "S",
-          "class": "uniliteral",
-          "description": "pool"
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
         },
         {
-          "sign": "D36",
-          "mnemonic": "a",
+          "sign": "G1",
+          "mnemonic": "A",
           "class": "uniliteral",
-          "description": "forearm"
+          "description": "Egyptian vulture"
         },
         {
-          "sign": "Z7",
-          "mnemonic": "W",
+          "sign": "G43",
+          "mnemonic": "w",
           "class": "uniliteral",
-          "description": "hieratic quail chick"
+          "description": "quail chick"
         },
         {
           "sign": "X1",
@@ -53,32 +58,25 @@
     },
     {
       "signs": [
-        "N37",
-        "D36",
-        "X1",
+        "M8",
+        "G1",
         "G43",
         "X1",
-        "V12"
+        "M2"
       ],
-      "sign_count": 6,
+      "sign_count": 5,
       "annotated": [
         {
-          "sign": "N37",
-          "mnemonic": "S",
-          "class": "uniliteral",
-          "description": "pool"
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
         },
         {
-          "sign": "D36",
-          "mnemonic": "a",
+          "sign": "G1",
+          "mnemonic": "A",
           "class": "uniliteral",
-          "description": "forearm"
-        },
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
+          "description": "Egyptian vulture"
         },
         {
           "sign": "G43",
@@ -93,10 +91,52 @@
           "description": "flat loaf"
         },
         {
-          "sign": "V12",
-          "mnemonic": "arq",
-          "class": "triliteral",
-          "description": "string"
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "Z7",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
         }
       ]
     }

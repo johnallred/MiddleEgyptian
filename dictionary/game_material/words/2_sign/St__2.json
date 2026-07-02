@@ -1,9 +1,12 @@
 {
-  "transliteration": "sT",
+  "transliteration": "St",
   "english_glosses": [
-    "perfume",
-    "var. of particle isT.",
-    "var. of sti ‘impregnate’."
+    "tax - payers",
+    "taxpayers",
+    "assessment",
+    "coll. tax-payers",
+    "Tax Master",
+    "tortoise"
   ],
   "shortest_sign_count": 2,
   "difficulty_tier": "easy",
@@ -13,84 +16,91 @@
     "noun"
   ],
   "sources": [
+    "Dickson",
     "Faulkner",
     "Vygus"
+  ],
+  "determinatives": [
+    "A1",
+    "A24",
+    "N33",
+    "Z9"
   ],
   "spellings": [
     {
       "signs": [
-        "S29",
-        "V13"
+        "N37",
+        "X1"
       ],
       "sign_count": 2,
       "annotated": [
         {
-          "sign": "S29",
-          "mnemonic": "s",
+          "sign": "N37",
+          "mnemonic": "S",
           "class": "uniliteral",
-          "description": "folded cloth"
+          "description": "pool"
         },
         {
-          "sign": "V13",
-          "mnemonic": "T",
+          "sign": "X1",
+          "mnemonic": "t",
           "class": "uniliteral",
-          "description": "rope"
+          "description": "flat loaf"
         }
       ]
     },
     {
       "signs": [
-        "S29",
-        "V13",
-        "F29"
+        "N37",
+        "X1",
+        "I2"
       ],
       "sign_count": 3,
       "annotated": [
         {
-          "sign": "S29",
-          "mnemonic": "s",
+          "sign": "N37",
+          "mnemonic": "S",
           "class": "uniliteral",
-          "description": "folded cloth"
+          "description": "pool"
         },
         {
-          "sign": "V13",
-          "mnemonic": "T",
+          "sign": "X1",
+          "mnemonic": "t",
           "class": "uniliteral",
-          "description": "rope"
+          "description": "flat loaf"
         },
         {
-          "sign": "F29",
-          "mnemonic": "sti",
-          "class": "triliteral",
-          "description": "cow&#x27;s skin pierced by arrow"
+          "sign": "I2",
+          "mnemonic": "Styw",
+          "class": "4plus",
+          "description": "turtle"
         }
       ]
     },
     {
       "signs": [
-        "S29",
-        "V13",
-        "V33"
+        "N37",
+        "X1",
+        "X1"
       ],
       "sign_count": 3,
       "annotated": [
         {
-          "sign": "S29",
-          "mnemonic": "s",
+          "sign": "N37",
+          "mnemonic": "S",
           "class": "uniliteral",
-          "description": "folded cloth"
+          "description": "pool"
         },
         {
-          "sign": "V13",
-          "mnemonic": "T",
+          "sign": "X1",
+          "mnemonic": "t",
           "class": "uniliteral",
-          "description": "rope"
+          "description": "flat loaf"
         },
         {
-          "sign": "V33",
-          "mnemonic": "sSr",
-          "class": "triliteral",
-          "description": "bag"
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
         }
       ]
     }

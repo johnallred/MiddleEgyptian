@@ -2287,8 +2287,45 @@ Mode retune flag, and an updated notes template.
 
 ---
 
-**End of project guide v12 (v8.10 ruleset, three modes, three-tier
-agent roster).** With this file plus `Entries2.json`,
+## 30. v8.11: the optional advanced rules got their components
+
+An audit found two of the four printed optional rules unplayable for
+lack of materials. Both gaps are now closed across all 14 decks
+(details + scoring data:
+`playtest_results/OPTIONAL_RULES_PLAYTEST_REPORT.md`).
+
+**Determinative bonus:** every deck now ships a `determinative_deck`
+(24 unique classifier cards, top 8 doubled, 32 copies), and word cards
+carry `appropriate_determinatives` (up to 3, restricted to the side
+pool; 103-138 of 165 words covered per deck). Mechanics were made
+concrete in rules.md: face-up pool, claim one matching card per
+completion for +1, supply-limited. **Play to 10/9/8 targets with this
+rule** — uncompensated it shortens games ~a third (the sim measured
+4.3-5.6 bonus points/game); +2 targets restore baseline pacing and
+comeback health.
+
+**Honorific transposition:** word cards containing a divine/royal sign
+carry `honorific_transposition: true` and the signs themselves carry
+`honorific: true` (R8, N5/N6, G7, C-category, A40-46, M23, L2, S1-7;
+see `HONORIFIC_SIGNS` in the builder). ~1 point/game; no target
+change.
+
+**Data plumbing:** `build_word_index()` now derives each word's
+documented determinatives from its raw writings (they were previously
+stripped and discarded); per-word files in `words/` carry the full
+list. Engine: `WordCard.determinatives` / `.honorific`,
+`GameConfig.determinative_bonus` / `.honorific_bonus` (default off).
+
+**Incidental bug fixed:** `write_word_files` lost 23 case-colliding
+word files per build on case-insensitive filesystems (macOS) and
+created suffixed duplicates when rerun into a non-empty tree.
+Collision tracking is now casefolded and the tree is cleared before
+regeneration; 9,466 records = 9,466 files, verified.
+
+---
+
+**End of project guide v13 (v8.11: complete optional-rule components,
+three modes, three-tier agent roster).** With this file plus `Entries2.json`,
 `res_signinfo.js`, and the `game_material/` outputs, an AI can:
 
 - Generate themed expansion decks at any size with `--content-filter

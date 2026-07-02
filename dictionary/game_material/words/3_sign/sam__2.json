@@ -1,25 +1,32 @@
 {
-  "transliteration": "sAm",
+  "transliteration": "sam",
   "english_glosses": [
-    "burn up",
-    "caus. burn up"
+    "wash down (medicine)",
+    "caus. wash down medicine",
+    "(a fish ?)",
+    "Wormwood (Artemisia absinthium)"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
   "point_value": 2,
   "primary_pos": "verb",
   "all_pos": [
+    "noun",
     "verb"
   ],
   "sources": [
     "Faulkner",
     "Vygus"
   ],
+  "determinatives": [
+    "A2",
+    "F10"
+  ],
   "spellings": [
     {
       "signs": [
         "S29",
-        "G1",
+        "D36",
         "G17"
       ],
       "sign_count": 3,
@@ -31,10 +38,10 @@
           "description": "folded cloth"
         },
         {
-          "sign": "G1",
-          "mnemonic": "A",
+          "sign": "D36",
+          "mnemonic": "a",
           "class": "uniliteral",
-          "description": "Egyptian vulture"
+          "description": "forearm"
         },
         {
           "sign": "G17",
@@ -46,10 +53,45 @@
     },
     {
       "signs": [
+        "O34",
+        "D36",
+        "G17",
+        "K4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "K4",
+          "mnemonic": "XA",
+          "class": "biliteral",
+          "description": "elephant-snout fish"
+        }
+      ]
+    },
+    {
+      "signs": [
         "S29",
-        "U1",
-        "G1",
-        "G17"
+        "D36",
+        "G17",
+        "M2"
       ],
       "sign_count": 4,
       "annotated": [
@@ -60,22 +102,64 @@
           "description": "folded cloth"
         },
         {
-          "sign": "U1",
-          "mnemonic": "mA",
-          "class": "biliteral",
-          "description": "sickle"
-        },
-        {
-          "sign": "G1",
-          "mnemonic": "A",
+          "sign": "D36",
+          "mnemonic": "a",
           "class": "uniliteral",
-          "description": "Egyptian vulture"
+          "description": "forearm"
         },
         {
           "sign": "G17",
           "mnemonic": "m",
           "class": "uniliteral",
           "description": "owl"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "D36",
+        "G17",
+        "Z7",
+        "M2"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
         }
       ]
     }

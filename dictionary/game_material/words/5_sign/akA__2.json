@@ -1,58 +1,59 @@
 {
-  "transliteration": "akA",
+  "transliteration": "akA ?",
   "english_glosses": [
-    "claw"
+    "(unknown)"
   ],
   "shortest_sign_count": 5,
   "difficulty_tier": "medium-hard",
   "point_value": 7,
-  "primary_pos": "noun",
+  "primary_pos": "unknown",
   "all_pos": [
-    "noun"
+    "unknown"
   ],
   "sources": [
     "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
-        "D36",
-        "V31",
-        "G1",
-        "D56",
-        "D56"
+        "O29",
+        "Y1",
+        "N29",
+        "D21",
+        "D52"
       ],
       "sign_count": 5,
       "annotated": [
         {
-          "sign": "D36",
-          "mnemonic": "a",
-          "class": "uniliteral",
-          "description": "forearm"
-        },
-        {
-          "sign": "V31",
-          "mnemonic": "k",
-          "class": "uniliteral",
-          "description": "basket with right handle"
-        },
-        {
-          "sign": "G1",
-          "mnemonic": "A",
-          "class": "uniliteral",
-          "description": "Egyptian vulture"
-        },
-        {
-          "sign": "D56",
-          "mnemonic": "rd",
+          "sign": "O29",
+          "mnemonic": "aA",
           "class": "biliteral",
-          "description": "leg"
+          "description": "horizontal wooden column"
         },
         {
-          "sign": "D56",
-          "mnemonic": "rd",
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D52",
+          "mnemonic": "mt",
           "class": "biliteral",
-          "description": "leg"
+          "description": "phallus"
         }
       ]
     }

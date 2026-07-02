@@ -1,7 +1,7 @@
 {
-  "transliteration": "Aa",
+  "transliteration": "AA",
   "english_glosses": [
-    "hesitate"
+    "mound of ruins"
   ],
   "shortest_sign_count": 2,
   "difficulty_tier": "easy",
@@ -11,13 +11,18 @@
     "noun"
   ],
   "sources": [
+    "Dickson",
+    "Faulkner",
     "Vygus"
+  ],
+  "determinatives": [
+    "N23"
   ],
   "spellings": [
     {
       "signs": [
         "G1",
-        "D36"
+        "G1"
       ],
       "sign_count": 2,
       "annotated": [
@@ -28,10 +33,10 @@
           "description": "Egyptian vulture"
         },
         {
-          "sign": "D36",
-          "mnemonic": "a",
+          "sign": "G1",
+          "mnemonic": "A",
           "class": "uniliteral",
-          "description": "forearm"
+          "description": "Egyptian vulture"
         }
       ]
     }

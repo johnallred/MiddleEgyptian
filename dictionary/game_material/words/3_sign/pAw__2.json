@@ -1,9 +1,7 @@
 {
-  "transliteration": "paw",
+  "transliteration": "pAw?",
   "english_glosses": [
-    "flames ?",
-    "fire",
-    "flames (?)"
+    "aux. vb. 3inf. with past meaning"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
@@ -13,16 +11,15 @@
     "noun"
   ],
   "sources": [
-    "Dickson",
-    "Faulkner",
-    "Vygus"
+    "Faulkner"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
         "Q3",
-        "D36",
-        "G43"
+        "G40",
+        "G1"
       ],
       "sign_count": 3,
       "annotated": [
@@ -33,16 +30,16 @@
           "description": "stool"
         },
         {
-          "sign": "D36",
-          "mnemonic": "a",
-          "class": "uniliteral",
-          "description": "forearm"
+          "sign": "G40",
+          "mnemonic": "pA",
+          "class": "biliteral",
+          "description": "pintail flying"
         },
         {
-          "sign": "G43",
-          "mnemonic": "w",
+          "sign": "G1",
+          "mnemonic": "A",
           "class": "uniliteral",
-          "description": "quail chick"
+          "description": "Egyptian vulture"
         }
       ]
     }

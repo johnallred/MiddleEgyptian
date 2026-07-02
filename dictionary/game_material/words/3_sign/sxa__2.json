@@ -1,56 +1,62 @@
 {
-  "transliteration": "sXA",
+  "transliteration": "sxa",
   "english_glosses": [
-    "to pull"
+    "to crown",
+    "procession",
+    "cause to appear",
+    "to cause to appear"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
   "point_value": 2,
   "primary_pos": "verb",
   "all_pos": [
+    "noun",
     "verb"
   ],
   "sources": [
     "Vygus"
   ],
+  "determinatives": [
+    "A40"
+  ],
   "spellings": [
     {
       "signs": [
-        "S29",
-        "F32",
-        "G1"
+        "O34",
+        "N28",
+        "D36"
       ],
       "sign_count": 3,
       "annotated": [
         {
-          "sign": "S29",
-          "mnemonic": "s",
+          "sign": "O34",
+          "mnemonic": "z",
           "class": "uniliteral",
-          "description": "folded cloth"
+          "description": "bolt"
         },
         {
-          "sign": "F32",
-          "mnemonic": "X",
-          "class": "uniliteral",
-          "description": "animal&#x27;s belly"
+          "sign": "N28",
+          "mnemonic": "xa",
+          "class": "biliteral",
+          "description": "rays of sun over hill"
         },
         {
-          "sign": "G1",
-          "mnemonic": "A",
+          "sign": "D36",
+          "mnemonic": "a",
           "class": "uniliteral",
-          "description": "Egyptian vulture"
+          "description": "forearm"
         }
       ]
     },
     {
       "signs": [
         "S29",
-        "K4",
-        "G1",
-        "Z7",
+        "N28",
+        "D36",
         "Y1"
       ],
-      "sign_count": 5,
+      "sign_count": 4,
       "annotated": [
         {
           "sign": "S29",
@@ -59,28 +65,57 @@
           "description": "folded cloth"
         },
         {
-          "sign": "K4",
-          "mnemonic": "XA",
+          "sign": "N28",
+          "mnemonic": "xa",
           "class": "biliteral",
-          "description": "elephant-snout fish"
+          "description": "rays of sun over hill"
         },
         {
-          "sign": "G1",
-          "mnemonic": "A",
+          "sign": "D36",
+          "mnemonic": "a",
           "class": "uniliteral",
-          "description": "Egyptian vulture"
-        },
-        {
-          "sign": "Z7",
-          "mnemonic": "W",
-          "class": "uniliteral",
-          "description": "hieratic quail chick"
+          "description": "forearm"
         },
         {
           "sign": "Y1",
           "mnemonic": "mDAt",
           "class": "4plus",
           "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "N28",
+        "D36",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N28",
+          "mnemonic": "xa",
+          "class": "biliteral",
+          "description": "rays of sun over hill"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
         }
       ]
     }

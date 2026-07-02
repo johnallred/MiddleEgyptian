@@ -1,58 +1,20 @@
 {
-  "transliteration": "n",
+  "transliteration": ".n",
   "english_glosses": [
-    "to",
-    "we",
-    "not {used instead of D35}",
-    "prep.",
-    "pron. 1pl. we",
-    "of"
+    "we"
   ],
   "shortest_sign_count": 1,
   "difficulty_tier": "trivial",
   "point_value": 1,
-  "primary_pos": "preposition",
+  "primary_pos": "pronoun",
   "all_pos": [
-    "noun",
-    "particle",
-    "preposition",
-    "pronoun",
-    "unknown"
+    "pronoun"
   ],
   "sources": [
-    "Dickson",
-    "Faulkner",
     "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
-    {
-      "signs": [
-        "G17"
-      ],
-      "sign_count": 1,
-      "annotated": [
-        {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "I9"
-      ],
-      "sign_count": 1,
-      "annotated": [
-        {
-          "sign": "I9",
-          "mnemonic": "f",
-          "class": "uniliteral",
-          "description": "horned viper"
-        }
-      ]
-    },
     {
       "signs": [
         "N35"
@@ -83,15 +45,22 @@
     },
     {
       "signs": [
-        "W24"
+        "N35",
+        "N35"
       ],
-      "sign_count": 1,
+      "sign_count": 2,
       "annotated": [
         {
-          "sign": "W24",
-          "mnemonic": "nw",
-          "class": "biliteral",
-          "description": "bowl"
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
         }
       ]
     }

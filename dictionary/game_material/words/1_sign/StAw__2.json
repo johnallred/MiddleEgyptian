@@ -1,8 +1,7 @@
 {
-  "transliteration": "sTAw",
+  "transliteration": "StAw",
   "english_glosses": [
-    "injury",
-    "secretions"
+    "mysteries {cryptic}"
   ],
   "shortest_sign_count": 1,
   "difficulty_tier": "trivial",
@@ -14,151 +13,21 @@
   "sources": [
     "Vygus"
   ],
+  "determinatives": [
+    "Z8"
+  ],
   "spellings": [
     {
       "signs": [
-        "V2"
+        "G39"
       ],
       "sign_count": 1,
       "annotated": [
         {
-          "sign": "V2",
-          "mnemonic": "sTA",
-          "class": "triliteral",
-          "description": "combination of O34 O34 and V1 V1"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V2",
-        "G43"
-      ],
-      "sign_count": 2,
-      "annotated": [
-        {
-          "sign": "V2",
-          "mnemonic": "sTA",
-          "class": "triliteral",
-          "description": "combination of O34 O34 and V1 V1"
-        },
-        {
-          "sign": "G43",
-          "mnemonic": "w",
-          "class": "uniliteral",
-          "description": "quail chick"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V2",
-        "X1"
-      ],
-      "sign_count": 2,
-      "annotated": [
-        {
-          "sign": "V2",
-          "mnemonic": "sTA",
-          "class": "triliteral",
-          "description": "combination of O34 O34 and V1 V1"
-        },
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V2",
-        "X1",
-        "G43"
-      ],
-      "sign_count": 3,
-      "annotated": [
-        {
-          "sign": "V2",
-          "mnemonic": "sTA",
-          "class": "triliteral",
-          "description": "combination of O34 O34 and V1 V1"
-        },
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
-        },
-        {
-          "sign": "G43",
-          "mnemonic": "w",
-          "class": "uniliteral",
-          "description": "quail chick"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V2",
-        "X1",
-        "Z7"
-      ],
-      "sign_count": 3,
-      "annotated": [
-        {
-          "sign": "V2",
-          "mnemonic": "sTA",
-          "class": "triliteral",
-          "description": "combination of O34 O34 and V1 V1"
-        },
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
-        },
-        {
-          "sign": "Z7",
-          "mnemonic": "W",
-          "class": "uniliteral",
-          "description": "hieratic quail chick"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "S29",
-        "V2",
-        "G1",
-        "Z7"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "S29",
-          "mnemonic": "s",
-          "class": "uniliteral",
-          "description": "folded cloth"
-        },
-        {
-          "sign": "V2",
-          "mnemonic": "sTA",
-          "class": "triliteral",
-          "description": "combination of O34 O34 and V1 V1"
-        },
-        {
-          "sign": "G1",
-          "mnemonic": "A",
-          "class": "uniliteral",
-          "description": "Egyptian vulture"
-        },
-        {
-          "sign": "Z7",
-          "mnemonic": "W",
-          "class": "uniliteral",
-          "description": "hieratic quail chick"
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
         }
       ]
     }

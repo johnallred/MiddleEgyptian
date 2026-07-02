@@ -17,7 +17,11 @@
       "expert": 0
     },
     "distinct_signs_needed_by_words": 66,
-    "sign_coverage_complete": true
+    "sign_coverage_complete": true,
+    "determinative_cards": 24,
+    "determinative_total_copies": 32,
+    "word_cards_with_determinatives": 42,
+    "word_cards_honorific": 2
   },
   "configuration": {
     "ruleset_version": "8.10",
@@ -316,16 +320,6 @@
       "copies": 4
     },
     {
-      "card_id": "sign_F16",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "F16",
-      "mnemonic": "db",
-      "description": "horn",
-      "usage_in_word_pool": 11,
-      "copies": 4
-    },
-    {
       "card_id": "sign_D56",
       "type": "phonetic",
       "phonetic_class": "biliteral",
@@ -333,26 +327,6 @@
       "mnemonic": "rd",
       "description": "leg",
       "usage_in_word_pool": 2,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_U33",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "U33",
-      "mnemonic": "ti",
-      "description": "pestle",
-      "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_F34",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "F34",
-      "mnemonic": "ib",
-      "description": "heart",
-      "usage_in_word_pool": 1,
       "copies": 1
     },
     {
@@ -366,12 +340,122 @@
       "copies": 3
     },
     {
-      "card_id": "sign_O29",
+      "card_id": "sign_M2",
       "type": "phonetic",
       "phonetic_class": "biliteral",
-      "sign_code": "O29",
-      "mnemonic": "aA",
-      "description": "horizontal wooden column",
+      "sign_code": "M2",
+      "mnemonic": "Hn",
+      "description": "plant",
+      "usage_in_word_pool": 6,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G29",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G29",
+      "mnemonic": "bA",
+      "description": "saddle-billed stork",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F18",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F18",
+      "mnemonic": "Hw",
+      "description": "tusk",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N41",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N41",
+      "mnemonic": "id",
+      "description": "well with ripple of water",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_D59",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D59",
+      "mnemonic": "ab",
+      "description": "combination of D58 D58 and D36 D36",
+      "usage_in_word_pool": 8,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G47",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G47",
+      "mnemonic": "TA",
+      "description": "duckling",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V6",
+      "mnemonic": "Ss",
+      "description": "cord with ends upward",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Y5",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "Y5",
+      "mnemonic": "mn",
+      "description": "game board",
+      "usage_in_word_pool": 7,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_F16",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F16",
+      "mnemonic": "db",
+      "description": "horn",
+      "usage_in_word_pool": 11,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_O1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O1",
+      "mnemonic": "pr",
+      "description": "house",
+      "usage_in_word_pool": 7,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_D28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D28",
+      "mnemonic": "kA",
+      "description": "arms in kA -posture",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_M3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M3",
+      "mnemonic": "xt",
+      "description": "branch",
       "usage_in_word_pool": 3,
       "copies": 2
     },
@@ -386,6 +470,46 @@
       "copies": 3
     },
     {
+      "card_id": "sign_N1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N1",
+      "mnemonic": "pt",
+      "description": "sky",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U33",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U33",
+      "mnemonic": "ti",
+      "description": "pestle",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O29",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O29",
+      "mnemonic": "aA",
+      "description": "horizontal wooden column",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_D52",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D52",
+      "mnemonic": "mt",
+      "description": "phallus",
+      "usage_in_word_pool": 78,
+      "copies": 4
+    },
+    {
       "card_id": "sign_G40",
       "type": "phonetic",
       "phonetic_class": "biliteral",
@@ -396,14 +520,35 @@
       "copies": 2
     },
     {
-      "card_id": "sign_G47",
+      "card_id": "sign_N5",
       "type": "phonetic",
       "phonetic_class": "biliteral",
-      "sign_code": "G47",
-      "mnemonic": "TA",
-      "description": "duckling",
-      "usage_in_word_pool": 4,
-      "copies": 2
+      "sign_code": "N5",
+      "mnemonic": "ra",
+      "description": "sun",
+      "usage_in_word_pool": 1,
+      "copies": 1,
+      "honorific": true
+    },
+    {
+      "card_id": "sign_F34",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F34",
+      "mnemonic": "ib",
+      "description": "heart",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D1",
+      "mnemonic": "tp",
+      "description": "head in profile",
+      "usage_in_word_pool": 1,
+      "copies": 1
     },
     {
       "card_id": "sign_U28",
@@ -412,26 +557,6 @@
       "sign_code": "U28",
       "mnemonic": "DA",
       "description": "fire-drill",
-      "usage_in_word_pool": 7,
-      "copies": 3
-    },
-    {
-      "card_id": "sign_G29",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "G29",
-      "mnemonic": "bA",
-      "description": "saddle-billed stork",
-      "usage_in_word_pool": 3,
-      "copies": 2
-    },
-    {
-      "card_id": "sign_Y5",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "Y5",
-      "mnemonic": "mn",
-      "description": "game board",
       "usage_in_word_pool": 7,
       "copies": 3
     },
@@ -446,132 +571,12 @@
       "copies": 1
     },
     {
-      "card_id": "sign_D1",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "D1",
-      "mnemonic": "tp",
-      "description": "head in profile",
-      "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_M3",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "M3",
-      "mnemonic": "xt",
-      "description": "branch",
-      "usage_in_word_pool": 3,
-      "copies": 2
-    },
-    {
-      "card_id": "sign_V6",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "V6",
-      "mnemonic": "Ss",
-      "description": "cord with ends upward",
-      "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_N1",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "N1",
-      "mnemonic": "pt",
-      "description": "sky",
-      "usage_in_word_pool": 2,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_N5",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "N5",
-      "mnemonic": "ra",
-      "description": "sun",
-      "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
       "card_id": "sign_G41",
       "type": "phonetic",
       "phonetic_class": "biliteral",
       "sign_code": "G41",
       "mnemonic": "xn",
       "description": "pintail alighting",
-      "usage_in_word_pool": 2,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_D52",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "D52",
-      "mnemonic": "mt",
-      "description": "phallus",
-      "usage_in_word_pool": 78,
-      "copies": 4
-    },
-    {
-      "card_id": "sign_D59",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "D59",
-      "mnemonic": "ab",
-      "description": "combination of D58 D58 and D36 D36",
-      "usage_in_word_pool": 8,
-      "copies": 3
-    },
-    {
-      "card_id": "sign_O1",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "O1",
-      "mnemonic": "pr",
-      "description": "house",
-      "usage_in_word_pool": 7,
-      "copies": 3
-    },
-    {
-      "card_id": "sign_N41",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "N41",
-      "mnemonic": "id",
-      "description": "well with ripple of water",
-      "usage_in_word_pool": 3,
-      "copies": 2
-    },
-    {
-      "card_id": "sign_M2",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "M2",
-      "mnemonic": "Hn",
-      "description": "plant",
-      "usage_in_word_pool": 6,
-      "copies": 3
-    },
-    {
-      "card_id": "sign_D28",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "D28",
-      "mnemonic": "kA",
-      "description": "arms in kA -posture",
-      "usage_in_word_pool": 4,
-      "copies": 2
-    },
-    {
-      "card_id": "sign_F18",
-      "type": "phonetic",
-      "phonetic_class": "biliteral",
-      "sign_code": "F18",
-      "mnemonic": "Hw",
-      "description": "tusk",
       "usage_in_word_pool": 2,
       "copies": 1
     },
@@ -723,7 +728,8 @@
       "mnemonic": "sw",
       "description": "sedge",
       "usage_in_word_pool": 0,
-      "copies": 1
+      "copies": 1,
+      "honorific": true
     },
     {
       "card_id": "sign_T34",
@@ -1116,14 +1122,14 @@
       "copies": 1
     },
     {
-      "card_id": "sign_A50",
+      "card_id": "sign_D50",
       "type": "phonetic",
       "phonetic_class": "triliteral",
-      "sign_code": "A50",
-      "mnemonic": "Sps",
-      "description": "noble on chair",
-      "usage_in_word_pool": 1,
-      "copies": 1
+      "sign_code": "D50",
+      "mnemonic": "Dba",
+      "description": "finger vertically",
+      "usage_in_word_pool": 12,
+      "copies": 3
     },
     {
       "card_id": "sign_W10",
@@ -1136,14 +1142,14 @@
       "copies": 1
     },
     {
-      "card_id": "sign_O36",
+      "card_id": "sign_U31",
       "type": "phonetic",
       "phonetic_class": "triliteral",
-      "sign_code": "O36",
-      "mnemonic": "inb",
-      "description": "wall",
-      "usage_in_word_pool": 3,
-      "copies": 2
+      "sign_code": "U31",
+      "mnemonic": "rtH",
+      "description": "baker&#x27;s rake",
+      "usage_in_word_pool": 1,
+      "copies": 1
     },
     {
       "card_id": "sign_F44",
@@ -1153,36 +1159,6 @@
       "mnemonic": "iwa",
       "description": "leg-bone with meat",
       "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_A17",
-      "type": "phonetic",
-      "phonetic_class": "triliteral",
-      "sign_code": "A17",
-      "mnemonic": "Xrd",
-      "description": "child sitting with hand to mouth",
-      "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_D27",
-      "type": "phonetic",
-      "phonetic_class": "triliteral",
-      "sign_code": "D27",
-      "mnemonic": "mnD",
-      "description": "small breast",
-      "usage_in_word_pool": 6,
-      "copies": 2
-    },
-    {
-      "card_id": "sign_V12",
-      "type": "phonetic",
-      "phonetic_class": "triliteral",
-      "sign_code": "V12",
-      "mnemonic": "arq",
-      "description": "string",
-      "usage_in_word_pool": 2,
       "copies": 1
     },
     {
@@ -1206,14 +1182,34 @@
       "copies": 2
     },
     {
-      "card_id": "sign_V19",
+      "card_id": "sign_V12",
       "type": "phonetic",
       "phonetic_class": "triliteral",
-      "sign_code": "V19",
-      "mnemonic": "mDt",
-      "description": "hobble with cross-bar",
-      "usage_in_word_pool": 1,
+      "sign_code": "V12",
+      "mnemonic": "arq",
+      "description": "string",
+      "usage_in_word_pool": 2,
       "copies": 1
+    },
+    {
+      "card_id": "sign_D27",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D27",
+      "mnemonic": "mnD",
+      "description": "small breast",
+      "usage_in_word_pool": 6,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_O36",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O36",
+      "mnemonic": "inb",
+      "description": "wall",
+      "usage_in_word_pool": 3,
+      "copies": 2
     },
     {
       "card_id": "sign_T14",
@@ -1226,6 +1222,36 @@
       "copies": 3
     },
     {
+      "card_id": "sign_V19",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V19",
+      "mnemonic": "mDt",
+      "description": "hobble with cross-bar",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_A17",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A17",
+      "mnemonic": "Xrd",
+      "description": "child sitting with hand to mouth",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_A50",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A50",
+      "mnemonic": "Sps",
+      "description": "noble on chair",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
       "card_id": "sign_V37",
       "type": "phonetic",
       "phonetic_class": "triliteral",
@@ -1234,26 +1260,6 @@
       "description": "bandage",
       "usage_in_word_pool": 2,
       "copies": 1
-    },
-    {
-      "card_id": "sign_U31",
-      "type": "phonetic",
-      "phonetic_class": "triliteral",
-      "sign_code": "U31",
-      "mnemonic": "rtH",
-      "description": "baker&#x27;s rake",
-      "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_D50",
-      "type": "phonetic",
-      "phonetic_class": "triliteral",
-      "sign_code": "D50",
-      "mnemonic": "Dba",
-      "description": "finger vertically",
-      "usage_in_word_pool": 12,
-      "copies": 3
     },
     {
       "card_id": "sign_W11",
@@ -1303,7 +1309,8 @@
       "mnemonic": "nTr",
       "description": "cloth on pole",
       "usage_in_word_pool": 0,
-      "copies": 1
+      "copies": 1,
+      "honorific": true
     },
     {
       "card_id": "sign_D19",
@@ -1616,26 +1623,6 @@
       "copies": 1
     },
     {
-      "card_id": "sign_O49",
-      "type": "phonetic",
-      "phonetic_class": "4plus",
-      "sign_code": "O49",
-      "mnemonic": "niwt",
-      "description": "village",
-      "usage_in_word_pool": 1,
-      "copies": 1
-    },
-    {
-      "card_id": "sign_Y1",
-      "type": "phonetic",
-      "phonetic_class": "4plus",
-      "sign_code": "Y1",
-      "mnemonic": "mDAt",
-      "description": "scroll with ties",
-      "usage_in_word_pool": 24,
-      "copies": 1
-    },
-    {
       "card_id": "sign_G32",
       "type": "phonetic",
       "phonetic_class": "4plus",
@@ -1653,6 +1640,27 @@
       "mnemonic": "dSrt",
       "description": "red crown",
       "usage_in_word_pool": 1,
+      "copies": 1,
+      "honorific": true
+    },
+    {
+      "card_id": "sign_O49",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "O49",
+      "mnemonic": "niwt",
+      "description": "village",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Y1",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "Y1",
+      "mnemonic": "mDAt",
+      "description": "scroll with ties",
+      "usage_in_word_pool": 24,
       "copies": 1
     },
     {
@@ -1835,6 +1843,200 @@
       "effect": "Instantly completes the matching word card."
     }
   ],
+  "determinative_deck": [
+    {
+      "card_id": "det_F51",
+      "type": "determinative",
+      "sign_code": "F51",
+      "description": "piece of flesh",
+      "words_in_deck_using": 16,
+      "copies": 2
+    },
+    {
+      "card_id": "det_D53",
+      "type": "determinative",
+      "sign_code": "D53",
+      "description": "liquid issuing from phallus",
+      "words_in_deck_using": 11,
+      "copies": 2
+    },
+    {
+      "card_id": "det_A2",
+      "type": "determinative",
+      "sign_code": "A2",
+      "description": "seated man with hand to mouth",
+      "words_in_deck_using": 8,
+      "copies": 2
+    },
+    {
+      "card_id": "det_A1",
+      "type": "determinative",
+      "sign_code": "A1",
+      "description": "seated man",
+      "words_in_deck_using": 7,
+      "copies": 2
+    },
+    {
+      "card_id": "det_D54",
+      "type": "determinative",
+      "sign_code": "D54",
+      "description": "legs walking",
+      "words_in_deck_using": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "det_F27",
+      "type": "determinative",
+      "sign_code": "F27",
+      "description": "skin of cow with bent tail",
+      "words_in_deck_using": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "det_O39",
+      "type": "determinative",
+      "sign_code": "O39",
+      "description": "stone",
+      "words_in_deck_using": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "det_B1",
+      "type": "determinative",
+      "sign_code": "B1",
+      "description": "seated woman",
+      "words_in_deck_using": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "det_M33",
+      "type": "determinative",
+      "sign_code": "M33",
+      "description": "3 grains horizontally",
+      "words_in_deck_using": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "det_G11",
+      "type": "determinative",
+      "sign_code": "G11",
+      "description": "image of falcon",
+      "words_in_deck_using": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "det_Aa2",
+      "type": "determinative",
+      "sign_code": "Aa2",
+      "description": "",
+      "words_in_deck_using": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "det_D6",
+      "type": "determinative",
+      "sign_code": "D6",
+      "description": "eye with painted upper lid",
+      "words_in_deck_using": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "det_N21",
+      "type": "determinative",
+      "sign_code": "N21",
+      "description": "short tongue of land",
+      "words_in_deck_using": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "det_N33",
+      "type": "determinative",
+      "sign_code": "N33",
+      "description": "grain",
+      "words_in_deck_using": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "det_S28",
+      "type": "determinative",
+      "sign_code": "S28",
+      "description": "cloth with fringe on top and S29 S29",
+      "words_in_deck_using": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "det_A40",
+      "type": "determinative",
+      "sign_code": "A40",
+      "description": "seated god",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_G7",
+      "type": "determinative",
+      "sign_code": "G7",
+      "description": "falcon on R12 R12",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_U9",
+      "type": "determinative",
+      "sign_code": "U9",
+      "description": "grain-measure with grain",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_N34",
+      "type": "determinative",
+      "sign_code": "N34",
+      "description": "ingot of metal",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_Aa19",
+      "type": "determinative",
+      "sign_code": "Aa19",
+      "description": "",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_Z8",
+      "type": "determinative",
+      "sign_code": "Z8",
+      "description": "oval",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_G37",
+      "type": "determinative",
+      "sign_code": "G37",
+      "description": "sparrow",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_N36",
+      "type": "determinative",
+      "sign_code": "N36",
+      "description": "canal",
+      "words_in_deck_using": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "det_A24",
+      "type": "determinative",
+      "sign_code": "A24",
+      "description": "man striking with both hands",
+      "words_in_deck_using": 1,
+      "copies": 1
+    }
+  ],
   "word_deck": [
     {
       "card_id": "word_it_1",
@@ -1898,6 +2100,11 @@
         "Faulkner",
         "Lexicon",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A1",
+        "M33",
+        "A40"
       ]
     },
     {
@@ -1969,6 +2176,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51",
+        "O39",
+        "N34"
       ]
     },
     {
@@ -2021,6 +2233,9 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53"
       ]
     },
     {
@@ -2060,6 +2275,12 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "honorific_transposition": true,
+      "appropriate_determinatives": [
+        "F51",
+        "G11",
+        "M33"
       ]
     },
     {
@@ -2099,6 +2320,9 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -2147,6 +2371,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53",
+        "Aa19",
+        "Z8"
       ]
     },
     {
@@ -2184,6 +2413,9 @@
       "sources": [
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -2226,6 +2458,9 @@
       "sources": [
         "Dickson",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "G11"
       ]
     },
     {
@@ -2262,6 +2497,11 @@
         "Faulkner",
         "Lexicon",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D54",
+        "Aa2",
+        "G37"
       ]
     },
     {
@@ -2399,6 +2639,10 @@
         "Faulkner",
         "Lexicon",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A2",
+        "D6"
       ]
     },
     {
@@ -2444,6 +2688,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51",
+        "F27",
+        "O39"
       ]
     },
     {
@@ -2526,6 +2775,10 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53",
+        "A2"
       ]
     },
     {
@@ -2575,6 +2828,9 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -2630,6 +2886,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51",
+        "A2",
+        "F27"
       ]
     },
     {
@@ -2708,6 +2969,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A2",
+        "A1",
+        "S28"
       ]
     },
     {
@@ -2781,6 +3047,9 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A1"
       ]
     },
     {
@@ -2809,6 +3078,9 @@
       "sources": [
         "Dickson",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53"
       ]
     },
     {
@@ -2870,6 +3142,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51",
+        "F27",
+        "N33"
       ]
     },
     {
@@ -2903,6 +3180,9 @@
         "Faulkner",
         "Lexicon",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53"
       ]
     },
     {
@@ -2974,6 +3254,11 @@
         "Faulkner",
         "Lexicon",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A1",
+        "D54",
+        "N21"
       ]
     },
     {
@@ -3012,6 +3297,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53",
+        "A2",
+        "S28"
       ]
     },
     {
@@ -3065,6 +3355,11 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "honorific_transposition": true,
+      "appropriate_determinatives": [
+        "F27",
+        "Aa2"
       ]
     },
     {
@@ -3097,6 +3392,10 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51",
+        "A1"
       ]
     },
     {
@@ -3136,6 +3435,9 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53"
       ]
     },
     {
@@ -3198,6 +3500,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A1"
       ]
     },
     {
@@ -3220,6 +3525,9 @@
       ],
       "sources": [
         "Dickson"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -3248,6 +3556,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -3297,6 +3608,10 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53",
+        "D54"
       ]
     },
     {
@@ -3325,6 +3640,10 @@
         "Faulkner",
         "Lexicon",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53",
+        "D54"
       ]
     },
     {
@@ -3507,6 +3826,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -3530,6 +3852,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -3599,6 +3924,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53"
       ]
     },
     {
@@ -3622,6 +3950,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "D53"
       ]
     },
     {
@@ -3650,6 +3981,9 @@
         "Dickson",
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     },
     {
@@ -3683,6 +4017,9 @@
       "sources": [
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A2"
       ]
     },
     {
@@ -3743,6 +4080,11 @@
       "sources": [
         "Faulkner",
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A2",
+        "A1",
+        "D6"
       ]
     },
     {
@@ -3776,6 +4118,9 @@
       "sources": [
         "Dickson",
         "Lexicon"
+      ],
+      "appropriate_determinatives": [
+        "B1"
       ]
     },
     {
@@ -3827,6 +4172,10 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51",
+        "O39"
       ]
     },
     {
@@ -3852,6 +4201,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "A2"
       ]
     },
     {
@@ -3908,6 +4260,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "B1"
       ]
     },
     {
@@ -3971,6 +4326,9 @@
       ],
       "sources": [
         "Faulkner"
+      ],
+      "appropriate_determinatives": [
+        "B1"
       ]
     },
     {
@@ -4019,6 +4377,9 @@
       ],
       "sources": [
         "Vygus"
+      ],
+      "appropriate_determinatives": [
+        "F51"
       ]
     }
   ],

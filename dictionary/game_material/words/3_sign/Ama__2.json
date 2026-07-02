@@ -1,143 +1,61 @@
 {
-  "transliteration": "amA",
+  "transliteration": "Ama",
   "english_glosses": [
-    "turn sour",
-    "(a plant",
-    "become sour"
+    "a perching bird",
+    "mediterranean gull",
+    "a bird (Egyptian plover"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
   "point_value": 2,
   "primary_pos": "noun",
   "all_pos": [
-    "noun",
-    "verb"
+    "noun"
   ],
   "sources": [
+    "Dickson",
+    "Faulkner",
     "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
-        "D36",
-        "U1",
-        "G1"
+        "G1",
+        "G1",
+        "D36"
       ],
       "sign_count": 3,
       "annotated": [
         {
-          "sign": "D36",
-          "mnemonic": "a",
+          "sign": "G1",
+          "mnemonic": "A",
           "class": "uniliteral",
-          "description": "forearm"
-        },
-        {
-          "sign": "U1",
-          "mnemonic": "mA",
-          "class": "biliteral",
-          "description": "sickle"
+          "description": "Egyptian vulture"
         },
         {
           "sign": "G1",
           "mnemonic": "A",
           "class": "uniliteral",
           "description": "Egyptian vulture"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "D36",
-        "Z7",
-        "G17"
-      ],
-      "sign_count": 3,
-      "annotated": [
+        },
         {
           "sign": "D36",
           "mnemonic": "a",
           "class": "uniliteral",
           "description": "forearm"
-        },
-        {
-          "sign": "Z7",
-          "mnemonic": "W",
-          "class": "uniliteral",
-          "description": "hieratic quail chick"
-        },
-        {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
         }
       ]
     },
     {
       "signs": [
-        "D36",
-        "U1",
         "G1",
         "G17",
-        "G43"
-      ],
-      "sign_count": 5,
-      "annotated": [
-        {
-          "sign": "D36",
-          "mnemonic": "a",
-          "class": "uniliteral",
-          "description": "forearm"
-        },
-        {
-          "sign": "U1",
-          "mnemonic": "mA",
-          "class": "biliteral",
-          "description": "sickle"
-        },
-        {
-          "sign": "G1",
-          "mnemonic": "A",
-          "class": "uniliteral",
-          "description": "Egyptian vulture"
-        },
-        {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
-        },
-        {
-          "sign": "G43",
-          "mnemonic": "w",
-          "class": "uniliteral",
-          "description": "quail chick"
-        }
-      ]
-    },
-    {
-      "signs": [
         "D36",
-        "U1",
-        "G1",
-        "G17",
-        "G43",
-        "M2"
+        "G38"
       ],
-      "sign_count": 6,
+      "sign_count": 4,
       "annotated": [
-        {
-          "sign": "D36",
-          "mnemonic": "a",
-          "class": "uniliteral",
-          "description": "forearm"
-        },
-        {
-          "sign": "U1",
-          "mnemonic": "mA",
-          "class": "biliteral",
-          "description": "sickle"
-        },
         {
           "sign": "G1",
           "mnemonic": "A",
@@ -151,16 +69,16 @@
           "description": "owl"
         },
         {
-          "sign": "G43",
-          "mnemonic": "w",
+          "sign": "D36",
+          "mnemonic": "a",
           "class": "uniliteral",
-          "description": "quail chick"
+          "description": "forearm"
         },
         {
-          "sign": "M2",
-          "mnemonic": "Hn",
+          "sign": "G38",
+          "mnemonic": "gb",
           "class": "biliteral",
-          "description": "plant"
+          "description": "white-fronted goose"
         }
       ]
     }

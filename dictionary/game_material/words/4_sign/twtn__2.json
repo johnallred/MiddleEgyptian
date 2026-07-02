@@ -1,24 +1,26 @@
 {
-  "transliteration": "twTn",
+  "transliteration": "twtn",
   "english_glosses": [
-    "rare pron. 2pl. you"
+    "bewails ?",
+    "you"
   ],
   "shortest_sign_count": 4,
   "difficulty_tier": "medium",
   "point_value": 4,
-  "primary_pos": "noun",
+  "primary_pos": "interjection",
   "all_pos": [
-    "noun"
+    "interjection"
   ],
   "sources": [
-    "Faulkner"
+    "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
         "X1",
         "G43",
-        "V13",
+        "X1",
         "N35"
       ],
       "sign_count": 4,
@@ -36,10 +38,52 @@
           "description": "quail chick"
         },
         {
-          "sign": "V13",
-          "mnemonic": "T",
+          "sign": "X1",
+          "mnemonic": "t",
           "class": "uniliteral",
-          "description": "rope"
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "G43",
+        "U33",
+        "X1",
+        "N35"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
         },
         {
           "sign": "N35",

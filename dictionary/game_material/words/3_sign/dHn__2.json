@@ -1,7 +1,7 @@
 {
-  "transliteration": "Dhn",
+  "transliteration": "dHn",
   "english_glosses": [
-    "dance position"
+    "wing"
   ],
   "shortest_sign_count": 3,
   "difficulty_tier": "medium-easy",
@@ -13,32 +13,35 @@
   "sources": [
     "Vygus"
   ],
+  "determinatives": [
+    "H5"
+  ],
   "spellings": [
     {
       "signs": [
-        "I10",
-        "O4",
-        "N35"
+        "D46",
+        "V28",
+        "S3"
       ],
       "sign_count": 3,
       "annotated": [
         {
-          "sign": "I10",
-          "mnemonic": "D",
+          "sign": "D46",
+          "mnemonic": "d",
           "class": "uniliteral",
-          "description": "cobra"
+          "description": "hand"
         },
         {
-          "sign": "O4",
-          "mnemonic": "h",
+          "sign": "V28",
+          "mnemonic": "H",
           "class": "uniliteral",
-          "description": "shelter"
+          "description": "wick"
         },
         {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
+          "sign": "S3",
+          "mnemonic": "dSrt",
+          "class": "4plus",
+          "description": "red crown"
         }
       ]
     }

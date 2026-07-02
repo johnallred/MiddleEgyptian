@@ -58,6 +58,8 @@ class WordCard:
     points: int
     valid_spellings: list[list[str]]   # each spelling is a list of sign codes
     pos: Optional[str]
+    determinatives: list = field(default_factory=list)  # v8.11 optional rule
+    honorific: bool = False                             # v8.11 optional rule
 
     def __repr__(self):
         return f"Word({self.translit}, {self.points}pt)"
@@ -109,6 +111,7 @@ class GameRecord:
     first_scorer_seat: int = -1   # seat that scored the FIRST word of the game
     first_scorer_won: bool = False
     mulligans_used: int = 0       # total word mulligans across all players
+    bonus_points: int = 0         # v8.11 optional-rule bonus points awarded
     seed: int = 0
 
 
@@ -137,6 +140,8 @@ def load_deck() -> tuple[list[SignCard], list[WordCard], list[LogogramCard]]:
             points=c["point_value"],
             valid_spellings=c["valid_spellings"],
             pos=c.get("primary_pos"),
+            determinatives=c.get("appropriate_determinatives") or [],
+            honorific=c.get("honorific_transposition", False),
         ) for c in deck["word_deck"]
     ]
 
@@ -149,6 +154,23 @@ def load_deck() -> tuple[list[SignCard], list[WordCard], list[LogogramCard]]:
     ]
 
     return sign_pool, word_pool, logogram_pool
+
+
+_DET_SUPPLY_CACHE: dict = {}
+
+
+def load_determinative_supply() -> dict:
+    """{sign_code: copies} for the deck's determinative side pool (v8.11
+    optional rule). Cached per deck path."""
+    key = str(DECK_PATH)
+    if key not in _DET_SUPPLY_CACHE:
+        with open(DECK_PATH) as f:
+            deck = json.load(f)
+        _DET_SUPPLY_CACHE[key] = {
+            c["sign_code"]: c.get("copies", 1)
+            for c in deck.get("determinative_deck", [])
+        }
+    return dict(_DET_SUPPLY_CACHE[key])
 
 
 # =============================================================================
@@ -657,6 +679,16 @@ class GameConfig:
                                     # 60.1% to 53.5% with skill expression
                                     # intact (CATCHUP_PLAYTEST_REPORT.md).
                                     # Set 0 for pre-v8.9 comparison runs.
+    determinative_bonus: bool = False
+                                    # v8.11 OPTIONAL RULE: on completing a
+                                    # word, claim one matching determinative
+                                    # card from the shared side pool for +1
+                                    # point (supply-limited; the deck ships a
+                                    # determinative_deck). Off by default —
+                                    # it's an optional advanced rule.
+    honorific_bonus: bool = False  # v8.11 OPTIONAL RULE: +1 when completing
+                                    # a word flagged honorific_transposition
+                                    # (models players who always notice).
     coop_mode: bool = False        # v9 CANDIDATE (co-op/solo): all players
                                     # are one team. Victory = TEAM total
                                     # reaches points_to_win before the sign
@@ -968,6 +1000,28 @@ def simulate_game(seed: int, sign_pool, word_pool, logogram_pool, cfg: GameConfi
             else:
                 pl.hand_signs.append(c)
 
+    # v8.11 optional advanced rules (both default off)
+    det_supply = (load_determinative_supply()
+                  if cfg.determinative_bonus else None)
+    bonus_points_total = 0
+
+    def optional_bonuses(word) -> int:
+        """+1 for claiming a matching determinative from the shared pool
+        (supply-limited), +1 for an honorific word. Models players who
+        always take the bonus — the upper bound."""
+        nonlocal bonus_points_total
+        pts = 0
+        if det_supply is not None and word.determinatives:
+            for dsign in word.determinatives:
+                if det_supply.get(dsign, 0) > 0:
+                    det_supply[dsign] -= 1
+                    pts += 1
+                    break
+        if cfg.honorific_bonus and word.honorific:
+            pts += 1
+        bonus_points_total += pts
+        return pts
+
     def on_score(scorer_idx, victim=None):
         """v8.9 catch-up hooks, fired every time a word is scored."""
         nonlocal first_scorer_seat, token_holder
@@ -1195,6 +1249,7 @@ def simulate_game(seed: int, sign_pool, word_pool, logogram_pool, cfg: GameConfi
                             stolen_words.append(target.active_word.translit)
                             completed_words.append(target.active_word.translit)
                             steals_executed += 1
+                        p.score += optional_bonuses(target.active_word)
                         on_score(i, victim=target if target is not p else None)
                         target.active_word = draw_word_card(word_deck, target, cfg)
                         p.hand_logos.remove(log)
@@ -1211,7 +1266,7 @@ def simulate_game(seed: int, sign_pool, word_pool, logogram_pool, cfg: GameConfi
                         for s in signs:
                             p.hand_signs.remove(s)
                         sign_discard.extend(signs)
-                        p.score += w.points
+                        p.score += w.points + optional_bonuses(w)
                         p.words_completed.append(w)
                         completed_words.append(w.translit)
                         word_market.remove(w)
@@ -1226,7 +1281,7 @@ def simulate_game(seed: int, sign_pool, word_pool, logogram_pool, cfg: GameConfi
                         p.hand_logos.remove(log)
                         sign_discard.append(log)   # per rules: used logograms
                                                    # go to the discard pile
-                        p.score += w.points
+                        p.score += w.points + optional_bonuses(w)
                         p.words_completed.append(w)
                         completed_words.append(w.translit)
                         logograms_played += 1
@@ -1326,6 +1381,7 @@ def simulate_game(seed: int, sign_pool, word_pool, logogram_pool, cfg: GameConfi
                         stolen_words.append(target.active_word.translit)
                         steals_executed += 1
                     completed_words.append(target.active_word.translit)
+                    p.score += optional_bonuses(target.active_word)
                     on_score(i, victim=target if target is not p else None)
                     target.active_word = draw_word_card(word_deck, target, cfg)
 
@@ -1432,6 +1488,7 @@ def simulate_game(seed: int, sign_pool, word_pool, logogram_pool, cfg: GameConfi
         first_scorer_seat=first_scorer_seat,
         first_scorer_won=(first_scorer_seat == winner),
         mulligans_used=mulligans_total,
+        bonus_points=bonus_points_total,
         seed=seed,
     )
 

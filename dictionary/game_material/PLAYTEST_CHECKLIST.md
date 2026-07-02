@@ -126,6 +126,17 @@ rejected — it gutted the "yes!" moments. If tables still hate dead
 logograms, the bounded once-per-game exchange is the thing to test
 next, not the unrestricted version.)
 
+### Optional advanced rules (if the table opts in)
+
+- **Determinative bonus:** did the table remember to raise targets to
+  10/9/8? Does claiming a classifier card feel thematic ("this word
+  needs the walking legs!") or like bookkeeping? Does the supply-
+  limited pool create a race for popular classifiers (D54, A2)?
+- **Honorific transposition:** do players spot the marker and enjoy
+  announcing the god, or does it go unused? It's the most educational
+  +1 in the game — if nobody engages, the marker needs to be louder
+  on the card.
+
 ### Endgame round (equal turns)
 
 - Does the table notice/announce the endgame trigger?

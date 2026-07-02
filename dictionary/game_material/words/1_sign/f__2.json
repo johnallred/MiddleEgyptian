@@ -1,8 +1,8 @@
 {
-  "transliteration": "f",
+  "transliteration": ".f",
   "english_glosses": [
     "he",
-    "suff. pron. 3m. sg. he"
+    "his {cryptic}"
   ],
   "shortest_sign_count": 1,
   "difficulty_tier": "trivial",
@@ -12,10 +12,26 @@
     "pronoun"
   ],
   "sources": [
-    "Dickson",
-    "Faulkner"
+    "Vygus"
+  ],
+  "determinatives": [
+    "G7"
   ],
   "spellings": [
+    {
+      "signs": [
+        "D21"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    },
     {
       "signs": [
         "I9"
@@ -27,6 +43,20 @@
           "mnemonic": "f",
           "class": "uniliteral",
           "description": "horned viper"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
         }
       ]
     }

@@ -1,214 +1,38 @@
 {
-  "transliteration": "Ssm",
+  "transliteration": "sSm ?",
   "english_glosses": [
-    "be bloodshot (of eyes)",
-    "be bloodshot",
-    "leather roll ?",
-    "leathercase (for papyrus scrolls)",
-    "baton",
-    "(a plant)"
+    "to let go"
   ],
   "shortest_sign_count": 2,
   "difficulty_tier": "easy",
   "point_value": 1,
-  "primary_pos": "adjective",
+  "primary_pos": "verb",
   "all_pos": [
-    "adjective",
-    "noun",
     "verb"
   ],
   "sources": [
-    "Dickson",
-    "Faulkner",
     "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
-        "N37",
-        "G39"
+        "O34",
+        "N40"
       ],
       "sign_count": 2,
       "annotated": [
         {
-          "sign": "N37",
-          "mnemonic": "S",
-          "class": "uniliteral",
-          "description": "pool"
-        },
-        {
-          "sign": "G39",
-          "mnemonic": "zA",
-          "class": "biliteral",
-          "description": "pintail"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V6",
-        "O34",
-        "G17"
-      ],
-      "sign_count": 3,
-      "annotated": [
-        {
-          "sign": "V6",
-          "mnemonic": "Ss",
-          "class": "biliteral",
-          "description": "cord with ends upward"
-        },
-        {
           "sign": "O34",
           "mnemonic": "z",
           "class": "uniliteral",
           "description": "bolt"
         },
         {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "N37",
-        "O34",
-        "G17",
-        "M3"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "N37",
-          "mnemonic": "S",
-          "class": "uniliteral",
-          "description": "pool"
-        },
-        {
-          "sign": "O34",
-          "mnemonic": "z",
-          "class": "uniliteral",
-          "description": "bolt"
-        },
-        {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
-        },
-        {
-          "sign": "M3",
-          "mnemonic": "xt",
+          "sign": "N40",
+          "mnemonic": "Sm",
           "class": "biliteral",
-          "description": "branch"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V6",
-        "O34",
-        "G17",
-        "D4"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "V6",
-          "mnemonic": "Ss",
-          "class": "biliteral",
-          "description": "cord with ends upward"
-        },
-        {
-          "sign": "O34",
-          "mnemonic": "z",
-          "class": "uniliteral",
-          "description": "bolt"
-        },
-        {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
-        },
-        {
-          "sign": "D4",
-          "mnemonic": "ir",
-          "class": "biliteral",
-          "description": "eye"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V6",
-        "O34",
-        "G17",
-        "Y1"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "V6",
-          "mnemonic": "Ss",
-          "class": "biliteral",
-          "description": "cord with ends upward"
-        },
-        {
-          "sign": "O34",
-          "mnemonic": "z",
-          "class": "uniliteral",
-          "description": "bolt"
-        },
-        {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
-        },
-        {
-          "sign": "Y1",
-          "mnemonic": "mDAt",
-          "class": "4plus",
-          "description": "scroll with ties"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V6",
-        "O34",
-        "G17",
-        "Z7"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "V6",
-          "mnemonic": "Ss",
-          "class": "biliteral",
-          "description": "cord with ends upward"
-        },
-        {
-          "sign": "O34",
-          "mnemonic": "z",
-          "class": "uniliteral",
-          "description": "bolt"
-        },
-        {
-          "sign": "G17",
-          "mnemonic": "m",
-          "class": "uniliteral",
-          "description": "owl"
-        },
-        {
-          "sign": "Z7",
-          "mnemonic": "W",
-          "class": "uniliteral",
-          "description": "hieratic quail chick"
+          "description": "combination of N37 N37 and D54 D54"
         }
       ]
     }

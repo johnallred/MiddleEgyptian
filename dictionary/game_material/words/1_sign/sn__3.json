@@ -1,55 +1,81 @@
 {
-  "transliteration": ".sn",
+  "transliteration": "Sn",
   "english_glosses": [
-    "they"
+    "be infested with crocodiles",
+    "tree",
+    "(a tree)",
+    "grain",
+    "to encircle",
+    "round"
   ],
   "shortest_sign_count": 1,
   "difficulty_tier": "trivial",
   "point_value": 1,
-  "primary_pos": "pronoun",
+  "primary_pos": "noun",
   "all_pos": [
-    "pronoun"
+    "adjective",
+    "noun",
+    "verb"
   ],
   "sources": [
     "Dickson",
+    "Faulkner",
     "Vygus"
+  ],
+  "determinatives": [
+    "M33",
+    "N33"
   ],
   "spellings": [
     {
       "signs": [
-        "O34"
+        "V7"
       ],
       "sign_count": 1,
       "annotated": [
         {
-          "sign": "O34",
-          "mnemonic": "z",
-          "class": "uniliteral",
-          "description": "bolt"
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
         }
       ]
     },
     {
       "signs": [
-        "S29"
+        "N37",
+        "N35"
       ],
-      "sign_count": 1,
+      "sign_count": 2,
       "annotated": [
         {
-          "sign": "S29",
-          "mnemonic": "s",
+          "sign": "N37",
+          "mnemonic": "S",
           "class": "uniliteral",
-          "description": "folded cloth"
+          "description": "pool"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
         }
       ]
     },
     {
       "signs": [
+        "V7",
         "N35",
-        "N35"
+        "I3"
       ],
-      "sign_count": 2,
+      "sign_count": 3,
       "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
         {
           "sign": "N35",
           "mnemonic": "n",
@@ -57,52 +83,115 @@
           "description": "ripple of water"
         },
         {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
+          "sign": "I3",
+          "mnemonic": "mzH",
+          "class": "triliteral",
+          "description": "crocodile"
         }
       ]
     },
     {
       "signs": [
-        "O34",
-        "N35"
+        "V7",
+        "N35",
+        "M1"
       ],
-      "sign_count": 2,
+      "sign_count": 3,
       "annotated": [
         {
-          "sign": "O34",
-          "mnemonic": "z",
-          "class": "uniliteral",
-          "description": "bolt"
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
         },
         {
           "sign": "N35",
           "mnemonic": "n",
           "class": "uniliteral",
           "description": "ripple of water"
+        },
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
         }
       ]
     },
     {
       "signs": [
-        "S29",
-        "N35"
+        "V7",
+        "N35",
+        "V13",
+        "Z7"
       ],
-      "sign_count": 2,
+      "sign_count": 4,
       "annotated": [
         {
-          "sign": "S29",
-          "mnemonic": "s",
-          "class": "uniliteral",
-          "description": "folded cloth"
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
         },
         {
           "sign": "N35",
           "mnemonic": "n",
           "class": "uniliteral",
           "description": "ripple of water"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "W24",
+        "Z7",
+        "M1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
         }
       ]
     }

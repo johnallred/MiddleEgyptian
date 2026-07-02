@@ -260,17 +260,25 @@ playtest lands.
 
 ## Optional advanced rules
 
-- **Determinative bonus**: keep a small side deck of determinative cards.
-  When you complete a word card, you may play an appropriate
-  determinative for +1 point. The determinative cards have semantic
-  categories on them (`A1` man, `D54` motion, `Y1` abstract, etc.) and
-  the word card lists which are appropriate.
+- **Determinative bonus** (raise targets by 2 when using it): the deck
+  includes a 24-card **determinative side pool** of silent classifier
+  signs (`D54` walking legs for motion, `A2` man with hand to mouth for
+  speech and eating, `A1` seated man, and so on). Lay it out face-up at
+  setup. When you complete a word whose card lists appropriate
+  determinatives, you may claim ONE matching determinative card from
+  the pool for **+1 point**. Supplies are limited: once a classifier's
+  copies are claimed, they're gone until the next game. This rule adds
+  roughly 4-5 points per game, so **play to targets of 10 / 9 / 8**
+  (at 2 / 3 / 4 players) instead of the standard 8 / 7 / 6 —
+  simulator-validated to keep game length and comeback health intact.
 
-- **Honorific transposition**: if a word contains a divine or royal
-  reference, you earn +1 point by pointing this out as you complete it
-  and placing the divine sign first when you arrange the finished word
-  — exactly as Egyptian scribes did. The bonus rewards attentive
-  scribes who know which sign is the god.
+- **Honorific transposition**: word cards bearing the **honorific
+  marker** contain a divine or royal sign in their spelling (the
+  god-sign `R8`, the sun disc `N5`, crowns, deity figures — the same
+  signs are marked on their sign cards). Completing such a word earns
+  +1 point IF you place the divine sign first when you arrange the
+  finished word and point out why — exactly as Egyptian scribes did.
+  Adds about 1 point per game; no target adjustment needed.
 
 - **Phonetic complement bonus**: for any biliteral or triliteral you
   play, you may also play an "unnecessary" uniliteral that repeats one of

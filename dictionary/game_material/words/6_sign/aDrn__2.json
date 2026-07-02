@@ -1,7 +1,7 @@
 {
-  "transliteration": "aDrn ?",
+  "transliteration": "aDrn",
   "english_glosses": [
-    "(a medicinal compound)"
+    "a mineral (from Byblos)"
   ],
   "shortest_sign_count": 6,
   "difficulty_tier": "hard",
@@ -13,13 +13,16 @@
   "sources": [
     "Vygus"
   ],
+  "determinatives": [
+    "N33"
+  ],
   "spellings": [
     {
       "signs": [
         "D36",
         "U28",
         "G1",
-        "G43",
+        "Z7",
         "E23",
         "N35"
       ],
@@ -44,10 +47,10 @@
           "description": "Egyptian vulture"
         },
         {
-          "sign": "G43",
-          "mnemonic": "w",
+          "sign": "Z7",
+          "mnemonic": "W",
           "class": "uniliteral",
-          "description": "quail chick"
+          "description": "hieratic quail chick"
         },
         {
           "sign": "E23",

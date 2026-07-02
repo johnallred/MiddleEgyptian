@@ -1,137 +1,48 @@
 {
-  "transliteration": "tn",
+  "transliteration": ".Tn",
   "english_glosses": [
-    "this",
-    "demonstr. adj. 2f. sg. this",
-    "var. of dep. pron. Tn f. sg.",
-    "(variant of Tn) where ?",
-    "where ?",
     "you"
   ],
   "shortest_sign_count": 2,
   "difficulty_tier": "easy",
   "point_value": 1,
-  "primary_pos": "interrogative",
+  "primary_pos": "pronoun",
   "all_pos": [
-    "interrogative",
-    "noun",
     "pronoun"
   ],
   "sources": [
     "Dickson",
-    "Faulkner",
-    "Lexicon",
     "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
-        "N35",
+        "G4",
         "N35"
       ],
       "sign_count": 2,
       "annotated": [
         {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        },
-        {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "V13",
-        "N35"
-      ],
-      "sign_count": 2,
-      "annotated": [
-        {
-          "sign": "V13",
-          "mnemonic": "T",
-          "class": "uniliteral",
-          "description": "rope"
-        },
-        {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "X1",
-        "N35"
-      ],
-      "sign_count": 2,
-      "annotated": [
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
-        },
-        {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        }
-      ]
-    },
-    {
-      "signs": [
-        "X1",
-        "N35",
-        "T14",
-        "G41"
-      ],
-      "sign_count": 4,
-      "annotated": [
-        {
-          "sign": "X1",
-          "mnemonic": "t",
-          "class": "uniliteral",
-          "description": "flat loaf"
-        },
-        {
-          "sign": "N35",
-          "mnemonic": "n",
-          "class": "uniliteral",
-          "description": "ripple of water"
-        },
-        {
-          "sign": "T14",
-          "mnemonic": "qmA",
+          "sign": "G4",
+          "mnemonic": "tyw",
           "class": "triliteral",
-          "description": "throw stick vertically"
+          "description": "buzzard"
         },
         {
-          "sign": "G41",
-          "mnemonic": "xn",
-          "class": "biliteral",
-          "description": "pintail alighting"
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
         }
       ]
     },
     {
       "signs": [
         "X1",
-        "N35",
-        "W24",
-        "G43",
-        "T14",
-        "G41"
+        "N35"
       ],
-      "sign_count": 6,
+      "sign_count": 2,
       "annotated": [
         {
           "sign": "X1",
@@ -144,30 +55,6 @@
           "mnemonic": "n",
           "class": "uniliteral",
           "description": "ripple of water"
-        },
-        {
-          "sign": "W24",
-          "mnemonic": "nw",
-          "class": "biliteral",
-          "description": "bowl"
-        },
-        {
-          "sign": "G43",
-          "mnemonic": "w",
-          "class": "uniliteral",
-          "description": "quail chick"
-        },
-        {
-          "sign": "T14",
-          "mnemonic": "qmA",
-          "class": "triliteral",
-          "description": "throw stick vertically"
-        },
-        {
-          "sign": "G41",
-          "mnemonic": "xn",
-          "class": "biliteral",
-          "description": "pintail alighting"
         }
       ]
     }

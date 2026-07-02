@@ -1,7 +1,7 @@
 {
-  "transliteration": "snat",
+  "transliteration": "snAt",
   "english_glosses": [
-    "detention"
+    "Esna"
   ],
   "shortest_sign_count": 4,
   "difficulty_tier": "medium",
@@ -11,23 +11,24 @@
     "noun"
   ],
   "sources": [
-    "Faulkner"
+    "Vygus"
   ],
+  "determinatives": [],
   "spellings": [
     {
       "signs": [
-        "V7",
+        "O34",
         "N35",
-        "D36",
-        "X1"
+        "X1",
+        "O49"
       ],
       "sign_count": 4,
       "annotated": [
         {
-          "sign": "V7",
-          "mnemonic": "Sn",
-          "class": "biliteral",
-          "description": "cord with ends downward"
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
         },
         {
           "sign": "N35",
@@ -36,16 +37,58 @@
           "description": "ripple of water"
         },
         {
-          "sign": "D36",
-          "mnemonic": "a",
+          "sign": "X1",
+          "mnemonic": "t",
           "class": "uniliteral",
-          "description": "forearm"
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "G1",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
         },
         {
           "sign": "X1",
           "mnemonic": "t",
           "class": "uniliteral",
           "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
         }
       ]
     }
