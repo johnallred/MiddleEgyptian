@@ -1,0 +1,103 @@
+{
+  "transliteration": "sArt",
+  "english_glosses": [
+    "chisel",
+    "(a plant)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O34",
+        "G39",
+        "D21",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "G39",
+        "G1",
+        "D21",
+        "X1",
+        "M2"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

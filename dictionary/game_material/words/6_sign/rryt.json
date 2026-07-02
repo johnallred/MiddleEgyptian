@@ -1,0 +1,67 @@
+{
+  "transliteration": "rryt",
+  "english_glosses": [
+    "grotto"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "E23",
+        "E23",
+        "M17",
+        "M17",
+        "X1",
+        "O1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "E23",
+          "mnemonic": "l",
+          "class": "uniliteral",
+          "description": "lying lion"
+        },
+        {
+          "sign": "E23",
+          "mnemonic": "l",
+          "class": "uniliteral",
+          "description": "lying lion"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "transliteration": "sgrg",
+  "english_glosses": [
+    "institute (offerings)",
+    "caus. institute offerings"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "W11",
+        "D21",
+        "W11",
+        "U17"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "U17",
+          "mnemonic": "grg",
+          "class": "triliteral",
+          "description": "pick in ground"
+        }
+      ]
+    }
+  ]
+}

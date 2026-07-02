@@ -1,0 +1,60 @@
+{
+  "transliteration": "imy r is",
+  "english_glosses": [
+    "Overseer of the department"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F20",
+        "M17",
+        "M40",
+        "O34",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F20",
+          "mnemonic": "ns",
+          "class": "biliteral",
+          "description": "tongue"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M40",
+          "mnemonic": "iz",
+          "class": "biliteral",
+          "description": "bundle of reeds"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

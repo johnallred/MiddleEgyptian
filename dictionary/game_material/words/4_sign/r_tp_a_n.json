@@ -1,0 +1,53 @@
+{
+  "transliteration": "r tp a n",
+  "english_glosses": [
+    "into the presence of"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "preposition",
+  "all_pos": [
+    "preposition"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "D1",
+        "D36",
+        "N35"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    }
+  ]
+}

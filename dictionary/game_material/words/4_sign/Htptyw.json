@@ -1,0 +1,98 @@
+{
+  "transliteration": "Htptyw",
+  "english_glosses": [
+    "the peaceful ones (the blessed dead)",
+    "the peaceful ones = the blessed dead"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "R4",
+        "X1",
+        "Q3",
+        "G4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "R4",
+          "mnemonic": "Htp",
+          "class": "triliteral",
+          "description": "loaf on mat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R4",
+        "X1",
+        "Q3",
+        "G4",
+        "N18"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "R4",
+          "mnemonic": "Htp",
+          "class": "triliteral",
+          "description": "loaf on mat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "N18",
+          "mnemonic": "iw",
+          "class": "biliteral",
+          "description": "sandy tract"
+        }
+      ]
+    }
+  ]
+}

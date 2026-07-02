@@ -1,0 +1,156 @@
+{
+  "transliteration": "HAw nbw",
+  "english_glosses": [
+    "Islanders",
+    "(Aegean) Islanders",
+    "(those) beyond the isles",
+    "Islands"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M16",
+        "G1",
+        "G43",
+        "V30",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M16",
+        "G43",
+        "V30",
+        "V30",
+        "V30"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M16",
+        "G1",
+        "Z7",
+        "V30",
+        "V30",
+        "V30"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "transliteration": "wfs",
+  "english_glosses": [
+    "to speak about"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Z7",
+        "I9",
+        "G1",
+        "F18"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "F18",
+          "mnemonic": "Hw",
+          "class": "biliteral",
+          "description": "tusk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "transliteration": "sxm-ir.f",
+  "english_glosses": [
+    "potentate"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S42",
+        "D4",
+        "I9"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S42",
+          "mnemonic": "abA",
+          "class": "triliteral",
+          "description": "sceptre of authority"
+        },
+        {
+          "sign": "D4",
+          "mnemonic": "ir",
+          "class": "biliteral",
+          "description": "eye"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    }
+  ]
+}

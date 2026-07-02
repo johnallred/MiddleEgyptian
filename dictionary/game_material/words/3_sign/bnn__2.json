@@ -1,0 +1,145 @@
+{
+  "transliteration": "bnn",
+  "english_glosses": [
+    "beget",
+    "vb. 2gem. beget",
+    "become erect (of male)",
+    "repulse",
+    "bead",
+    "Benen (a protective god)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D58",
+        "N35",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "S3",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "S3",
+          "mnemonic": "dSrt",
+          "class": "4plus",
+          "description": "red crown"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G29",
+        "N35",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "N35",
+        "S3",
+        "D52"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "S3",
+          "mnemonic": "dSrt",
+          "class": "4plus",
+          "description": "red crown"
+        },
+        {
+          "sign": "D52",
+          "mnemonic": "mt",
+          "class": "biliteral",
+          "description": "phallus"
+        }
+      ]
+    }
+  ]
+}

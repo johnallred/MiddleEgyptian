@@ -1,0 +1,594 @@
+{
+  "transliteration": "Xnw",
+  "english_glosses": [
+    "interior",
+    "residence",
+    "inside",
+    "interior (n.)",
+    "tents",
+    "court"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adverb",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F26"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W24",
+        "O1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "O1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "W24",
+        "O1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "W24",
+        "V6"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "V6",
+          "mnemonic": "Ss",
+          "class": "biliteral",
+          "description": "cord with ends upward"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "O1",
+        "O49"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "G43"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "O1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "X1",
+        "O1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "G43",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "Z7",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "Z7",
+        "O49"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "Z7",
+        "O1",
+        "O49"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "W24",
+        "Z7",
+        "O49",
+        "O1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

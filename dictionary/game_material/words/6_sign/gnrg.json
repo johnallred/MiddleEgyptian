@@ -1,0 +1,69 @@
+{
+  "transliteration": "gnrg",
+  "english_glosses": [
+    "gossip",
+    "to gossip"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W11",
+        "G1",
+        "N35",
+        "D21",
+        "W11",
+        "G1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "transliteration": "pA ib",
+  "english_glosses": [
+    "(a medicinal liquid)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G40",
+        "G1",
+        "F34",
+        "W22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G40",
+          "mnemonic": "pA",
+          "class": "biliteral",
+          "description": "pintail flying"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    }
+  ]
+}

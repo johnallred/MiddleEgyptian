@@ -1,0 +1,137 @@
+{
+  "transliteration": "HwA",
+  "english_glosses": [
+    "foul",
+    "adj. foul",
+    "pine away (of broken heart)",
+    "to throw",
+    "to drive"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "verb"
+  ],
+  "sources": [
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V28",
+        "V4",
+        "G1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "Z7",
+        "V4",
+        "G1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "Z7",
+        "V4",
+        "G1",
+        "U33",
+        "M17"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

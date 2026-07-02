@@ -1,0 +1,60 @@
+{
+  "transliteration": "Hry ib wiA",
+  "english_glosses": [
+    "Decan star (in Perseus ?)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D2",
+        "F34",
+        "G43",
+        "M17",
+        "G1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    }
+  ]
+}

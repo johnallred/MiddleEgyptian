@@ -1,0 +1,53 @@
+{
+  "transliteration": "tn, tnw",
+  "english_glosses": [
+    "see under Tn"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "T14",
+        "G41"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        }
+      ]
+    }
+  ]
+}

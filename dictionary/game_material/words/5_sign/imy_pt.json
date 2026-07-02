@@ -1,0 +1,60 @@
+{
+  "transliteration": "imy pt",
+  "english_glosses": [
+    "the Heavenly (ones)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "G17",
+        "Q3",
+        "X1",
+        "N1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N1",
+          "mnemonic": "pt",
+          "class": "biliteral",
+          "description": "sky"
+        }
+      ]
+    }
+  ]
+}

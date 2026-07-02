@@ -1,0 +1,56 @@
+{
+  "transliteration": "iSnn",
+  "english_glosses": [
+    "warcry",
+    "war cry"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "V7",
+        "N35",
+        "N35"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "transliteration": "bAXt",
+  "english_glosses": [
+    "(an area where Greenstone is found)",
+    "white (of the eyes)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D58",
+        "F32",
+        "X1",
+        "N25"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "G29",
+        "F32",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "transliteration": "sAt",
+  "english_glosses": [
+    "daughter",
+    "wall",
+    "chisel",
+    "wooden beam",
+    "pavement",
+    "ground"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q1"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G39",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "G39"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "G1",
+        "X1",
+        "U22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U22",
+          "mnemonic": "mnx",
+          "class": "triliteral",
+          "description": "chisel"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "G39",
+        "G1",
+        "X1",
+        "M3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "G39",
+        "G1",
+        "X1",
+        "N37"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "G39",
+        "G1",
+        "X1",
+        "O36"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O36",
+          "mnemonic": "inb",
+          "class": "triliteral",
+          "description": "wall"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "G39",
+        "X1",
+        "Z7",
+        "W24"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "transliteration": "gnXt",
+  "english_glosses": [
+    "star",
+    "star {gr egyptian}"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W11",
+        "N35",
+        "F32",
+        "X1",
+        "N14"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "N35",
+        "F32",
+        "M17",
+        "M17",
+        "N14"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        }
+      ]
+    }
+  ]
+}

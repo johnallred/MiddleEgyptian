@@ -1,0 +1,97 @@
+{
+  "transliteration": "swSr",
+  "english_glosses": [
+    "dry",
+    "caus. dry (trans.)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "Z7",
+        "N37",
+        "D21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "Z7",
+        "N37",
+        "D21",
+        "N5"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    }
+  ]
+}

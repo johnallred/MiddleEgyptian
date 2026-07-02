@@ -1,0 +1,110 @@
+{
+  "transliteration": "HAptyw",
+  "english_glosses": [
+    "Courier",
+    "Spy"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M16",
+        "X1",
+        "G43",
+        "Q3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M16",
+        "G1",
+        "G41",
+        "G1",
+        "U33",
+        "M17",
+        "T14"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        }
+      ]
+    }
+  ]
+}

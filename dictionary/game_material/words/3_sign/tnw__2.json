@@ -1,0 +1,714 @@
+{
+  "transliteration": "tnw",
+  "english_glosses": [
+    "(variant of Tnw) number",
+    "number",
+    "every",
+    "where ?",
+    "lift up",
+    "to be infirm"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective",
+    "interrogative",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "M17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "G43"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "T14",
+        "G41",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "G43",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "G43",
+        "T14",
+        "G41"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "G43",
+        "Y1",
+        "T14"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "T14",
+        "G39",
+        "Y1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "Z7",
+        "T14",
+        "G41"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "Z7",
+        "T14",
+        "Z7"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "X1",
+        "Z7",
+        "T14",
+        "G41"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "G43",
+        "T14",
+        "G41",
+        "Y1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "Z7",
+        "T14",
+        "G39",
+        "Y1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "N35",
+        "W24",
+        "Z7",
+        "T14",
+        "G41",
+        "Y1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

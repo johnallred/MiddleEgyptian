@@ -1,0 +1,60 @@
+{
+  "transliteration": "mAwA",
+  "english_glosses": [
+    "disobedient"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U1",
+        "G1",
+        "V4",
+        "G1",
+        "F21"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "F21",
+          "mnemonic": "idn",
+          "class": "triliteral",
+          "description": "ear of bovine"
+        }
+      ]
+    }
+  ]
+}

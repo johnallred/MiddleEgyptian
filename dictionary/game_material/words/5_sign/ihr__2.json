@@ -1,0 +1,103 @@
+{
+  "transliteration": "ihr",
+  "english_glosses": [
+    "tent",
+    "nomadic tent"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "O4",
+        "D21",
+        "D3",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D3",
+          "mnemonic": "Sny",
+          "class": "triliteral",
+          "description": "hair"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "O4",
+        "D21",
+        "V12",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "V12",
+          "mnemonic": "arq",
+          "class": "triliteral",
+          "description": "string"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

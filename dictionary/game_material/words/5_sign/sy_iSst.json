@@ -1,0 +1,60 @@
+{
+  "transliteration": "sy iSst",
+  "english_glosses": [
+    "what ?"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "interrogative",
+  "all_pos": [
+    "interrogative"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O35",
+        "M17",
+        "V6",
+        "O34",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O35",
+          "mnemonic": "zb",
+          "class": "biliteral",
+          "description": "combination of O34 O34 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "V6",
+          "mnemonic": "Ss",
+          "class": "biliteral",
+          "description": "cord with ends upward"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

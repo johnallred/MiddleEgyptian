@@ -1,0 +1,48 @@
+{
+  "transliteration": "mSdt",
+  "english_glosses": [
+    "ford"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F30",
+        "D46",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F30",
+          "mnemonic": "Sd",
+          "class": "biliteral",
+          "description": "water-skin"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

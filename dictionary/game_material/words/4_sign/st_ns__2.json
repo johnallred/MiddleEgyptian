@@ -1,0 +1,53 @@
+{
+  "transliteration": "st ns",
+  "english_glosses": [
+    "speech"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q1",
+        "X1",
+        "O1",
+        "F20"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "F20",
+          "mnemonic": "ns",
+          "class": "biliteral",
+          "description": "tongue"
+        }
+      ]
+    }
+  ]
+}

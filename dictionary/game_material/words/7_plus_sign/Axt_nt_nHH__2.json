@@ -1,0 +1,81 @@
+{
+  "transliteration": "Axt nt nHH",
+  "english_glosses": [
+    "horizon of eternity (name of a temple/palace/tomb)"
+  ],
+  "shortest_sign_count": 8,
+  "difficulty_tier": "expert",
+  "point_value": 20,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N27",
+        "X1",
+        "O1",
+        "N35",
+        "X1",
+        "V28",
+        "N5",
+        "V28"
+      ],
+      "sign_count": 8,
+      "annotated": [
+        {
+          "sign": "N27",
+          "mnemonic": "Axt",
+          "class": "triliteral",
+          "description": "sun over mountain"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    }
+  ]
+}

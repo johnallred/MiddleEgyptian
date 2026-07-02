@@ -1,0 +1,53 @@
+{
+  "transliteration": "mAfd",
+  "english_glosses": [
+    "armband"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U1",
+        "G1",
+        "I9",
+        "D46"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    }
+  ]
+}

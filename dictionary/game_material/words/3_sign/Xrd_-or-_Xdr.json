@@ -1,0 +1,46 @@
+{
+  "transliteration": "Xrd / Xdr",
+  "english_glosses": [
+    "children"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F32",
+        "D46",
+        "D21"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "transliteration": "Hry-S.f",
+  "english_glosses": [
+    "n. div. Arsaphes"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D2",
+        "D21",
+        "N1",
+        "N37",
+        "I9"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "N1",
+          "mnemonic": "pt",
+          "class": "biliteral",
+          "description": "sky"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    }
+  ]
+}

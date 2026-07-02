@@ -1,0 +1,53 @@
+{
+  "transliteration": "imy SA",
+  "english_glosses": [
+    "Marshman"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Z11",
+        "G17",
+        "M8",
+        "M2"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Z11",
+          "mnemonic": "imi",
+          "class": "triliteral",
+          "description": "cross"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "transliteration": "iw wab",
+  "english_glosses": [
+    "it is pure"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "pronoun",
+  "all_pos": [
+    "pronoun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "G43",
+        "D60"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D60",
+          "mnemonic": "wab",
+          "class": "triliteral",
+          "description": "D58 D58 under vase from which water flows"
+        }
+      ]
+    }
+  ]
+}

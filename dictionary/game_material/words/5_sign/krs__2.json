@@ -1,0 +1,60 @@
+{
+  "transliteration": "krs",
+  "english_glosses": [
+    "to skip"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V31",
+        "G1",
+        "D21",
+        "M23",
+        "Z7"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    }
+  ]
+}

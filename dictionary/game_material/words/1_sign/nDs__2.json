@@ -1,0 +1,96 @@
+{
+  "transliteration": "nDs",
+  "english_glosses": [
+    "little / small (of size)",
+    "little",
+    "commoner",
+    "poor man",
+    "small"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective",
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N35"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "I10",
+        "O34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "I10",
+        "S29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        }
+      ]
+    }
+  ]
+}

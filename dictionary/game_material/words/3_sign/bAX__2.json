@@ -1,0 +1,156 @@
+{
+  "transliteration": "bAX",
+  "english_glosses": [
+    "to rise (of the sun)",
+    "bright",
+    "sink (of sun)",
+    "Bakhu (Libya)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D58",
+        "F32",
+        "N25"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G29",
+        "S29",
+        "N25"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "G29",
+        "F32",
+        "N5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "G29",
+        "G1",
+        "F32",
+        "D4"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "D4",
+          "mnemonic": "ir",
+          "class": "biliteral",
+          "description": "eye"
+        }
+      ]
+    }
+  ]
+}

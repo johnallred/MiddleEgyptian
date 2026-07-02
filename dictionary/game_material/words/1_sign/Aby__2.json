@@ -1,0 +1,181 @@
+{
+  "transliteration": "Aby",
+  "english_glosses": [
+    "panther"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "E24"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "E24",
+          "mnemonic": "Aby",
+          "class": "triliteral",
+          "description": "panther"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U23",
+        "D58",
+        "E24"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U23",
+          "mnemonic": "Ab",
+          "class": "biliteral",
+          "description": "chisel"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "E24",
+          "mnemonic": "Aby",
+          "class": "triliteral",
+          "description": "panther"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U23",
+        "D58",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U23",
+          "mnemonic": "Ab",
+          "class": "biliteral",
+          "description": "chisel"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R15",
+        "D58",
+        "M17",
+        "M17",
+        "E24"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "E24",
+          "mnemonic": "Aby",
+          "class": "triliteral",
+          "description": "panther"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U23",
+        "D58",
+        "M17",
+        "M17",
+        "E24"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "U23",
+          "mnemonic": "Ab",
+          "class": "biliteral",
+          "description": "chisel"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "E24",
+          "mnemonic": "Aby",
+          "class": "triliteral",
+          "description": "panther"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "transliteration": "nm",
+  "english_glosses": [
+    "who ?",
+    "who?",
+    "go wrong (of plans)",
+    "go wrong",
+    "execution",
+    "knife"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "interrogative",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N35"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T34",
+        "G17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "G17",
+        "D36"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "T34",
+        "G17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "T34",
+        "G17",
+        "K1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "T34",
+        "G17",
+        "T34"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "T34",
+        "G17",
+        "W22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    }
+  ]
+}

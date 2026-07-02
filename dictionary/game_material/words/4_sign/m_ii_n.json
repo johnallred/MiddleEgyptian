@@ -1,0 +1,53 @@
+{
+  "transliteration": "m ii n",
+  "english_glosses": [
+    "as the consequence of"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "M18",
+        "M17",
+        "N35"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    }
+  ]
+}

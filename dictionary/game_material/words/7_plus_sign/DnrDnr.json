@@ -1,0 +1,81 @@
+{
+  "transliteration": "DnrDnr",
+  "english_glosses": [
+    "brushwood"
+  ],
+  "shortest_sign_count": 8,
+  "difficulty_tier": "expert",
+  "point_value": 20,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U28",
+        "G1",
+        "N35",
+        "D46",
+        "G1",
+        "D21",
+        "X1",
+        "M3"
+      ],
+      "sign_count": 8,
+      "annotated": [
+        {
+          "sign": "U28",
+          "mnemonic": "DA",
+          "class": "biliteral",
+          "description": "fire-drill"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    }
+  ]
+}

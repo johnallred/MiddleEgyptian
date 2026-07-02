@@ -1,0 +1,146 @@
+{
+  "transliteration": "tA Dsr",
+  "english_glosses": [
+    "the Sacred Land (necropolis)",
+    "Sacred Land"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N16",
+        "D45"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "D45",
+          "mnemonic": "Dsr",
+          "class": "triliteral",
+          "description": "arm with nHbt -wand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N16",
+        "D45",
+        "N25"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "D45",
+          "mnemonic": "Dsr",
+          "class": "triliteral",
+          "description": "arm with nHbt -wand"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N16",
+        "D45",
+        "D21",
+        "N25"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "D45",
+          "mnemonic": "Dsr",
+          "class": "triliteral",
+          "description": "arm with nHbt -wand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N16",
+        "D45",
+        "D21",
+        "X1",
+        "N25"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "D45",
+          "mnemonic": "Dsr",
+          "class": "triliteral",
+          "description": "arm with nHbt -wand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    }
+  ]
+}

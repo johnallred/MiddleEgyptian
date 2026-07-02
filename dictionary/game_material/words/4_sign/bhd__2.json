@@ -1,0 +1,166 @@
+{
+  "transliteration": "bhd",
+  "english_glosses": [
+    "breathe in (fragrance)",
+    "to fumigate"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D58",
+        "O4",
+        "D46",
+        "D19"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "O4",
+        "X1",
+        "D19"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R7",
+        "O4",
+        "X1",
+        "D19"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "R7",
+          "mnemonic": "snTr",
+          "class": "4plus",
+          "description": "bowl with smoke"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "O4",
+        "D46",
+        "D19",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

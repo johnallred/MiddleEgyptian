@@ -1,0 +1,60 @@
+{
+  "transliteration": "Sms nsw",
+  "english_glosses": [
+    "royal retinue {uncertain of A51}"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M23",
+        "A51",
+        "T18",
+        "S29",
+        "Z7"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        },
+        {
+          "sign": "A51",
+          "mnemonic": "Spsi",
+          "class": "4plus",
+          "description": "noble on chair with S45 S45"
+        },
+        {
+          "sign": "T18",
+          "mnemonic": "Sms",
+          "class": "triliteral",
+          "description": "crook with package attached"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    }
+  ]
+}

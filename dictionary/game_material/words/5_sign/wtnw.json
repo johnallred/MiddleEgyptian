@@ -1,0 +1,118 @@
+{
+  "transliteration": "wtnw",
+  "english_glosses": [
+    "People",
+    "to break through"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G43",
+        "X1",
+        "N35",
+        "W24",
+        "Z7"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "X1",
+        "N35",
+        "W24",
+        "W24",
+        "W24",
+        "G43"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

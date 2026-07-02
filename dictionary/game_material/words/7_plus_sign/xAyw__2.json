@@ -1,0 +1,77 @@
+{
+  "transliteration": "xAyw",
+  "english_glosses": [
+    "measurements",
+    "measurements (of a building)"
+  ],
+  "shortest_sign_count": 7,
+  "difficulty_tier": "expert",
+  "point_value": 15,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M12",
+        "G1",
+        "M17",
+        "M17",
+        "T14",
+        "T14",
+        "Y1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

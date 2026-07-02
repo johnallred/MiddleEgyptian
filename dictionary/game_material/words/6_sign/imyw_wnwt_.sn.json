@@ -1,0 +1,123 @@
+{
+  "transliteration": "imyw wnwt .sn",
+  "english_glosses": [
+    "Those who are in their Hours (epithet) {late egyptian}"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Z11",
+        "G17",
+        "N14",
+        "N5",
+        "O34",
+        "N35"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Z11",
+          "mnemonic": "imi",
+          "class": "triliteral",
+          "description": "cross"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z11",
+        "G17",
+        "N14",
+        "W24",
+        "X1",
+        "O34",
+        "N35"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "Z11",
+          "mnemonic": "imi",
+          "class": "triliteral",
+          "description": "cross"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    }
+  ]
+}

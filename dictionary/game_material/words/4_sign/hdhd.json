@@ -1,0 +1,55 @@
+{
+  "transliteration": "hdhd",
+  "english_glosses": [
+    "charge (of army)",
+    "charge"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O4",
+        "D46",
+        "O4",
+        "D46"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "transliteration": "dSr Hr",
+  "english_glosses": [
+    "furious"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D46",
+        "N37",
+        "D21",
+        "G27",
+        "D2"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G27",
+          "mnemonic": "dSr",
+          "class": "triliteral",
+          "description": "flamingo"
+        },
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        }
+      ]
+    }
+  ]
+}

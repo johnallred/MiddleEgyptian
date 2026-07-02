@@ -1,0 +1,83 @@
+{
+  "transliteration": "iAa",
+  "english_glosses": [
+    "apron",
+    "entice"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "G1",
+        "D36"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "G1",
+        "D36",
+        "F18"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "F18",
+          "mnemonic": "Hw",
+          "class": "biliteral",
+          "description": "tusk"
+        }
+      ]
+    }
+  ]
+}

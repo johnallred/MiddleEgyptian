@@ -1,0 +1,60 @@
+{
+  "transliteration": "m tA HAt",
+  "english_glosses": [
+    "initially"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "adverb",
+  "all_pos": [
+    "adverb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "X1",
+        "G1",
+        "F4",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "F4",
+          "mnemonic": "HAt",
+          "class": "triliteral",
+          "description": "forepart of lion"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

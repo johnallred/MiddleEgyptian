@@ -1,0 +1,65 @@
+{
+  "transliteration": "sbAqq",
+  "english_glosses": [
+    "causative give a clear character(to)",
+    "give a clear character (to)",
+    "caus. give a clear character"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "G29",
+        "N29",
+        "N29",
+        "M1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
+        }
+      ]
+    }
+  ]
+}

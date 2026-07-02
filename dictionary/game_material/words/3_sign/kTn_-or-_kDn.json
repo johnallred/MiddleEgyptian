@@ -1,0 +1,81 @@
+{
+  "transliteration": "kTn / kDn",
+  "english_glosses": [
+    "Charioteer"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D28",
+        "I10",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D28",
+        "I10",
+        "N35",
+        "D56"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    }
+  ]
+}

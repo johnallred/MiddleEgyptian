@@ -1,0 +1,250 @@
+{
+  "transliteration": "gbgb",
+  "english_glosses": [
+    "fell (enemy)",
+    "be lame",
+    "lameness",
+    "prostrate",
+    "defeat (an enemy)",
+    "weakness"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V33",
+        "D58",
+        "V33",
+        "D58"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "D58",
+        "W11",
+        "D58"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "R7",
+        "W11",
+        "R7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "R7",
+          "mnemonic": "snTr",
+          "class": "4plus",
+          "description": "bowl with smoke"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "R7",
+          "mnemonic": "snTr",
+          "class": "4plus",
+          "description": "bowl with smoke"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "D58",
+        "W11",
+        "D58",
+        "A15"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "A15",
+          "mnemonic": "xr",
+          "class": "biliteral",
+          "description": "man falling"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "G1",
+        "D58",
+        "Z7",
+        "W11",
+        "G1",
+        "D58",
+        "Z7",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 10,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

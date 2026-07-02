@@ -1,0 +1,53 @@
+{
+  "transliteration": "mr r",
+  "english_glosses": [
+    "painful to"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U23",
+        "G17",
+        "D21",
+        "D21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U23",
+          "mnemonic": "Ab",
+          "class": "biliteral",
+          "description": "chisel"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    }
+  ]
+}

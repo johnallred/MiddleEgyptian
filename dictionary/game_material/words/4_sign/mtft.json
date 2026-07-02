@@ -1,0 +1,53 @@
+{
+  "transliteration": "mtft",
+  "english_glosses": [
+    "sheath"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "X1",
+        "I9",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

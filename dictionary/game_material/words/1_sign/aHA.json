@@ -1,0 +1,279 @@
+{
+  "transliteration": "aHA",
+  "english_glosses": [
+    "warrior",
+    "fight",
+    "unfriendly",
+    "(weapons of) war",
+    "fish (lates niloticus)",
+    "Nile Perch (lates niloticus)"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D34"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D34",
+        "G1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D34",
+        "G1",
+        "D36"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D34",
+        "G1",
+        "K1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D34",
+        "G1",
+        "Z7"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "V28",
+        "G1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D34",
+        "G1",
+        "T11",
+        "M3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "T11",
+          "mnemonic": "zin",
+          "class": "triliteral",
+          "description": "arrow"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "V28",
+        "G1",
+        "D36"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "V28",
+        "G1",
+        "D36"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    }
+  ]
+}

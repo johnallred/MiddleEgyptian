@@ -1,0 +1,82 @@
+{
+  "transliteration": "HDD",
+  "english_glosses": [
+    "{used in connection with beads} (unknown)",
+    "light"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V28",
+        "I10",
+        "I10"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "I10",
+        "I10",
+        "N5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    }
+  ]
+}

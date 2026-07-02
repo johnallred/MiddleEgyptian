@@ -1,0 +1,53 @@
+{
+  "transliteration": "imy r dHr",
+  "english_glosses": [
+    "Overseer of leather"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F20",
+        "D46",
+        "D2",
+        "D21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F20",
+          "mnemonic": "ns",
+          "class": "biliteral",
+          "description": "tongue"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    }
+  ]
+}

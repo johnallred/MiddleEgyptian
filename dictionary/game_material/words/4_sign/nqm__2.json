@@ -1,0 +1,92 @@
+{
+  "transliteration": "nqm",
+  "english_glosses": [
+    "suffer",
+    "be bald"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N35",
+        "N29",
+        "G17",
+        "C7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "C7",
+          "mnemonic": "stX",
+          "class": "triliteral",
+          "description": "god with head of Seth-animal"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "N29",
+        "G17",
+        "D3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D3",
+          "mnemonic": "Sny",
+          "class": "triliteral",
+          "description": "hair"
+        }
+      ]
+    }
+  ]
+}

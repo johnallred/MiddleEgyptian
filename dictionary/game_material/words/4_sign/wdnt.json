@@ -1,0 +1,352 @@
+{
+  "transliteration": "wdnt",
+  "english_glosses": [
+    "offering",
+    "heavy block of stone",
+    "Offerings",
+    "bread (20 pieces per worker per day)",
+    "Offering Court"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G43",
+        "D46",
+        "N35",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "D46",
+        "N35",
+        "X1",
+        "M11"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M11",
+          "mnemonic": "wdn",
+          "class": "triliteral",
+          "description": "flower on long twisted stalk"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "D46",
+        "N35",
+        "X1",
+        "U33"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "D46",
+        "N35",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7",
+        "D46",
+        "N35",
+        "U32",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "U32",
+          "mnemonic": "zmn",
+          "class": "triliteral",
+          "description": "pestle and mortar"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7",
+        "D46",
+        "N35",
+        "M17",
+        "M17",
+        "U33",
+        "X1",
+        "O1"
+      ],
+      "sign_count": 8,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7",
+        "D46",
+        "N35",
+        "W24",
+        "Z7",
+        "U32",
+        "X1",
+        "O1"
+      ],
+      "sign_count": 8,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "U32",
+          "mnemonic": "zmn",
+          "class": "triliteral",
+          "description": "pestle and mortar"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

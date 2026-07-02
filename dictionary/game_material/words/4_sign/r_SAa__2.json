@@ -1,0 +1,96 @@
+{
+  "transliteration": "r SAa",
+  "english_glosses": [
+    "beginning from",
+    "from"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "M8",
+        "D36",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "M8",
+        "G1",
+        "D36",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

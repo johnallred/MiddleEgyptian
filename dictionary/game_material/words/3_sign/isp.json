@@ -1,0 +1,161 @@
+{
+  "transliteration": "isp",
+  "english_glosses": [
+    "hew",
+    "bank",
+    "(a wooden anointing implement)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "S29",
+        "Q3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "O34",
+        "Q3",
+        "O50"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "O50",
+          "mnemonic": "zp",
+          "class": "biliteral",
+          "description": "threshing floor"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "S29",
+        "Q3",
+        "M3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "O34",
+        "Q3",
+        "O50",
+        "O50"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "O50",
+          "mnemonic": "zp",
+          "class": "biliteral",
+          "description": "threshing floor"
+        },
+        {
+          "sign": "O50",
+          "mnemonic": "zp",
+          "class": "biliteral",
+          "description": "threshing floor"
+        }
+      ]
+    }
+  ]
+}

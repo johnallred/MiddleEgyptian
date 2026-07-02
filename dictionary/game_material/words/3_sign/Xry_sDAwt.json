@@ -1,0 +1,109 @@
+{
+  "transliteration": "Xry sDAwt",
+  "english_glosses": [
+    "Seal Bearer"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T28",
+        "S20",
+        "U28"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        },
+        {
+          "sign": "U28",
+          "mnemonic": "DA",
+          "class": "biliteral",
+          "description": "fire-drill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T28",
+        "S20",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "U28",
+        "X1",
+        "Q3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "U28",
+          "mnemonic": "DA",
+          "class": "biliteral",
+          "description": "fire-drill"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    }
+  ]
+}

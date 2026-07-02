@@ -1,0 +1,67 @@
+{
+  "transliteration": "bityt",
+  "english_glosses": [
+    "Queen"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "L2",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "L2",
+          "mnemonic": "bit",
+          "class": "triliteral",
+          "description": "bee"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "L2",
+        "G14",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "L2",
+          "mnemonic": "bit",
+          "class": "triliteral",
+          "description": "bee"
+        },
+        {
+          "sign": "G14",
+          "mnemonic": "mwt",
+          "class": "triliteral",
+          "description": "vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

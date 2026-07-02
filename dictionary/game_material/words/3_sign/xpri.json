@@ -1,0 +1,74 @@
+{
+  "transliteration": "xpri",
+  "english_glosses": [
+    "form"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "L1",
+        "D21",
+        "M17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "L1",
+          "mnemonic": "xpr",
+          "class": "triliteral",
+          "description": "dung beetle"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "L1",
+        "M17",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "L1",
+          "mnemonic": "xpr",
+          "class": "triliteral",
+          "description": "dung beetle"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

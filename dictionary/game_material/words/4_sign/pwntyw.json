@@ -1,0 +1,97 @@
+{
+  "transliteration": "pwntyw",
+  "english_glosses": [
+    "the people of Punt",
+    "the people of Punt {uncertain of A40}"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q3",
+        "E34",
+        "N35",
+        "G4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "E34",
+        "N35",
+        "G4",
+        "T14"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        }
+      ]
+    }
+  ]
+}

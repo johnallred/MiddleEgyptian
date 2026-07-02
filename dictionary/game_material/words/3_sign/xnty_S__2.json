@@ -1,0 +1,126 @@
+{
+  "transliteration": "xnty S",
+  "english_glosses": [
+    "settler",
+    "a wood from Lebanon",
+    "a tree garden",
+    "Lebanon"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W17",
+        "X1",
+        "N37"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W17",
+        "X1",
+        "N37",
+        "N25"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W17",
+        "X1",
+        "N37",
+        "N25",
+        "M3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    }
+  ]
+}

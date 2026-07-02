@@ -1,0 +1,46 @@
+{
+  "transliteration": "sr aHA",
+  "english_glosses": [
+    "challenge to battle"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "D21",
+        "D34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "transliteration": "nbty",
+  "english_glosses": [
+    "The Two Ladies (Nekhbet and Edjoyet)",
+    "One from Ombos (Seth)",
+    "beer"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G16"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G16",
+          "mnemonic": "nbty",
+          "class": "4plus",
+          "description": "vulture and cobra each on V30 V30"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S12",
+        "D58",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S12",
+        "X1",
+        "X1",
+        "X1",
+        "W22"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    }
+  ]
+}

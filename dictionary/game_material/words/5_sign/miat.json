@@ -1,0 +1,62 @@
+{
+  "transliteration": "miat",
+  "english_glosses": [
+    "loom ?",
+    "loom (?)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W19",
+        "M17",
+        "D36",
+        "X1",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "W19",
+          "mnemonic": "mi",
+          "class": "biliteral",
+          "description": "milk jug in net"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

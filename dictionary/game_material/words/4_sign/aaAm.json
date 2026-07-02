@@ -1,0 +1,95 @@
+{
+  "transliteration": "aaAm",
+  "english_glosses": [
+    "a plant (an active medicinal ingredient)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D36",
+        "D36",
+        "G1",
+        "G17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D36",
+        "G1",
+        "G17",
+        "M2"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

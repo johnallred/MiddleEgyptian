@@ -1,0 +1,46 @@
+{
+  "transliteration": "fsw",
+  "english_glosses": [
+    "Cook"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I9",
+        "S29",
+        "M23"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        }
+      ]
+    }
+  ]
+}

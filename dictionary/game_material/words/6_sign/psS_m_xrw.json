@@ -1,0 +1,67 @@
+{
+  "transliteration": "psS m xrw",
+  "english_glosses": [
+    "break silence"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q3",
+        "O34",
+        "N37",
+        "G17",
+        "P8",
+        "G43"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "P8",
+          "mnemonic": "xrw",
+          "class": "triliteral",
+          "description": "oar"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

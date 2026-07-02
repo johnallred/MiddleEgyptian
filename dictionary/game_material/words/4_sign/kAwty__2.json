@@ -1,0 +1,89 @@
+{
+  "transliteration": "kAwty",
+  "english_glosses": [
+    "Porter",
+    "Workman"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D28",
+        "G1",
+        "Z7",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D28",
+        "Z7",
+        "X1",
+        "G4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    }
+  ]
+}

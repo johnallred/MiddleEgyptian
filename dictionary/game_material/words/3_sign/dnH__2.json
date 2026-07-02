@@ -1,0 +1,160 @@
+{
+  "transliteration": "dnH",
+  "english_glosses": [
+    "pinion",
+    "var. of DnH ‘wing’."
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D46",
+        "N35",
+        "V28"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N35",
+        "V28",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N35",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N35",
+        "V28",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

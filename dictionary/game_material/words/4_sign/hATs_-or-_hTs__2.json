@@ -1,0 +1,53 @@
+{
+  "transliteration": "hATs / hTs",
+  "english_glosses": [
+    "jar"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O4",
+        "V13",
+        "S29",
+        "W14"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "W14",
+          "mnemonic": "Hz",
+          "class": "biliteral",
+          "description": "water jar"
+        }
+      ]
+    }
+  ]
+}

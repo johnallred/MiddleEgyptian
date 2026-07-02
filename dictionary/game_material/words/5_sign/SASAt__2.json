@@ -1,0 +1,111 @@
+{
+  "transliteration": "SASAt",
+  "english_glosses": [
+    "bosom",
+    "necklace"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "M8",
+        "G1",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "M8",
+        "G1",
+        "X1",
+        "V6"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V6",
+          "mnemonic": "Ss",
+          "class": "biliteral",
+          "description": "cord with ends upward"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "transliteration": "Smat",
+  "english_glosses": [
+    "fine",
+    "sedge (used to represent Upper Egypt)",
+    "(linen)",
+    "Upper Egyptian uraeus"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adjective",
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M23"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26",
+        "D36",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

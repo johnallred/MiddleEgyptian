@@ -1,0 +1,53 @@
+{
+  "transliteration": "Kftyw",
+  "english_glosses": [
+    "n. loc. Crete (?)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V31",
+        "I9",
+        "G4",
+        "N25"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    }
+  ]
+}

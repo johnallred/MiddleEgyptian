@@ -1,0 +1,152 @@
+{
+  "transliteration": "Sra",
+  "english_glosses": [
+    "keep",
+    "gate"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "O29",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "D21",
+        "O29",
+        "Y1",
+        "O1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "O29",
+        "Y1",
+        "D21",
+        "O1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "transliteration": "Swbty",
+  "english_glosses": [
+    "ushabti figure",
+    "ushabti-figure",
+    "a jar",
+    "(silver) jar",
+    "(vase or vessel)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M8",
+        "D58",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "D58",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "V4",
+        "D58",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "V4",
+        "D58",
+        "X1",
+        "W9"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W9",
+          "mnemonic": "Xnm",
+          "class": "triliteral",
+          "description": "jug with left handle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M8",
+        "G1",
+        "V4",
+        "G1",
+        "D58",
+        "X1",
+        "W9"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W9",
+          "mnemonic": "Xnm",
+          "class": "triliteral",
+          "description": "jug with left handle"
+        }
+      ]
+    }
+  ]
+}

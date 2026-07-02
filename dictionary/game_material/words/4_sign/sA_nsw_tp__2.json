@@ -1,0 +1,54 @@
+{
+  "transliteration": "sA nsw tp",
+  "english_glosses": [
+    "first king's son (a priest)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M23",
+        "G39",
+        "D1",
+        "Q3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    }
+  ]
+}

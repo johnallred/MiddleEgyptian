@@ -1,0 +1,69 @@
+{
+  "transliteration": "DfD",
+  "english_glosses": [
+    "iris and pupil (of eye)",
+    "to drip"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I10",
+        "I9"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "I10",
+        "I9",
+        "I10"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    }
+  ]
+}

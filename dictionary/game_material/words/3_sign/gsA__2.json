@@ -1,0 +1,114 @@
+{
+  "transliteration": "gsA",
+  "english_glosses": [
+    "Apollonopolis",
+    "Apollonopolis (Kus)",
+    "tilt",
+    "antelope"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W11",
+        "G1",
+        "S29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "S29",
+        "G1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V33",
+        "V33",
+        "S29",
+        "O49"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    }
+  ]
+}

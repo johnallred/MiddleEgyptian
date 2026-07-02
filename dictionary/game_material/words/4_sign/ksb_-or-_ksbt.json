@@ -1,0 +1,96 @@
+{
+  "transliteration": "ksb / ksbt",
+  "english_glosses": [
+    "fruit of the umbrella thorn tree",
+    "umbrella thorn tree"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V31",
+        "O34",
+        "D58",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V31",
+        "O34",
+        "D58",
+        "X1",
+        "M1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
+        }
+      ]
+    }
+  ]
+}

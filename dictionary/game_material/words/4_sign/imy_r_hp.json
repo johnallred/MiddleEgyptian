@@ -1,0 +1,53 @@
+{
+  "transliteration": "imy r hp",
+  "english_glosses": [
+    "Overseer of Law"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F20",
+        "O4",
+        "Q3",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F20",
+          "mnemonic": "ns",
+          "class": "biliteral",
+          "description": "tongue"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

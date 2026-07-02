@@ -1,0 +1,67 @@
+{
+  "transliteration": "mkrt",
+  "english_glosses": [
+    "(part of ship)"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "D36",
+        "V31",
+        "D21",
+        "X1",
+        "M3"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    }
+  ]
+}

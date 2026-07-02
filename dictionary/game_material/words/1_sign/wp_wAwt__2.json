@@ -1,0 +1,102 @@
+{
+  "transliteration": "wp wAwt",
+  "english_glosses": [
+    "Wepwawet"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F13"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

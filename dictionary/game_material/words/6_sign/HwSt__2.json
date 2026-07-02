@@ -1,0 +1,67 @@
+{
+  "transliteration": "HwSt",
+  "english_glosses": [
+    "(an animal)"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M16",
+        "G1",
+        "V4",
+        "G1",
+        "U33",
+        "M17"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

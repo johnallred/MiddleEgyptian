@@ -1,0 +1,111 @@
+{
+  "transliteration": "sAH",
+  "english_glosses": [
+    "dependant ?",
+    "dependant (?)",
+    "reach",
+    "tread (the earth)",
+    "Orion (constellation)",
+    "grant of land"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D61"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D61",
+          "mnemonic": "sAH",
+          "class": "triliteral",
+          "description": "three toes oriented leftward"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D61",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D61",
+          "mnemonic": "sAH",
+          "class": "triliteral",
+          "description": "three toes oriented leftward"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D61",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D61",
+          "mnemonic": "sAH",
+          "class": "triliteral",
+          "description": "three toes oriented leftward"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D61",
+        "N14",
+        "G1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D61",
+          "mnemonic": "sAH",
+          "class": "triliteral",
+          "description": "three toes oriented leftward"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    }
+  ]
+}

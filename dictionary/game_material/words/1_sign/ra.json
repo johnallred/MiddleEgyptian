@@ -1,0 +1,142 @@
+{
+  "transliteration": "ra",
+  "english_glosses": [
+    "Re (Sun god)",
+    "Re",
+    "sun",
+    "day"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N5"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "D36"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N5",
+        "R8"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        },
+        {
+          "sign": "R8",
+          "mnemonic": "nTr",
+          "class": "triliteral",
+          "description": "cloth on pole"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "D36",
+        "N5"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "D36",
+        "G43",
+        "N5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    }
+  ]
+}

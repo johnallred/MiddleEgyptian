@@ -1,0 +1,211 @@
+{
+  "transliteration": "Smaw",
+  "english_glosses": [
+    "musician",
+    "Upper Egypt",
+    "Sudanese oil"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M26"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26",
+        "D36",
+        "G43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26",
+        "D36",
+        "N24"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N24",
+          "mnemonic": "spAt",
+          "class": "4plus",
+          "description": "irrigation canal system"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26",
+        "M26",
+        "M26"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26",
+        "D36",
+        "G43",
+        "N24"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "N24",
+          "mnemonic": "spAt",
+          "class": "4plus",
+          "description": "irrigation canal system"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M26",
+        "M17",
+        "M17",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

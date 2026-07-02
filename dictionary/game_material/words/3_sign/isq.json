@@ -1,0 +1,256 @@
+{
+  "transliteration": "isq",
+  "english_glosses": [
+    "hinder",
+    "vb. (1) trans. hinder",
+    "linger",
+    "shaft hall (in tomb)",
+    "delay ?"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "S29",
+        "N29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "S29",
+        "N29",
+        "D56"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "S29",
+        "N29",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "S29",
+        "N29",
+        "G1",
+        "D56"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "S29",
+        "N29",
+        "Z7",
+        "D56"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "M40",
+        "X1",
+        "O1",
+        "Z7",
+        "D56"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M40",
+          "mnemonic": "iz",
+          "class": "biliteral",
+          "description": "bundle of reeds"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    }
+  ]
+}

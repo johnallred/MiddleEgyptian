@@ -1,0 +1,46 @@
+{
+  "transliteration": "At Hr",
+  "english_glosses": [
+    "to be pale of face (of frightened people)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G1",
+        "X1",
+        "D2"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "transliteration": "rD",
+  "english_glosses": [
+    "bowstring(s)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "I10",
+        "T12"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        }
+      ]
+    }
+  ]
+}

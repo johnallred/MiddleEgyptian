@@ -1,0 +1,111 @@
+{
+  "transliteration": "st Hmt",
+  "english_glosses": [
+    "wife",
+    "woman"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O34",
+        "N41",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N41",
+          "mnemonic": "id",
+          "class": "biliteral",
+          "description": "well with ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "X1",
+        "N41"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N41",
+          "mnemonic": "id",
+          "class": "biliteral",
+          "description": "well with ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "X1",
+        "N41",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N41",
+          "mnemonic": "id",
+          "class": "biliteral",
+          "description": "well with ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

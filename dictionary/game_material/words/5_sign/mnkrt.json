@@ -1,0 +1,64 @@
+{
+  "transliteration": "mnkrt",
+  "english_glosses": [
+    "bull's tail (worn by king)",
+    "bull’s tail worn by king"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Y5",
+        "N35",
+        "V31",
+        "D21",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

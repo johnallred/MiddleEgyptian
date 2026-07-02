@@ -1,0 +1,53 @@
+{
+  "transliteration": "TAtn / TnTAt",
+  "english_glosses": [
+    "throne"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G47",
+        "X1",
+        "N35",
+        "O1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G47",
+          "mnemonic": "TA",
+          "class": "biliteral",
+          "description": "duckling"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

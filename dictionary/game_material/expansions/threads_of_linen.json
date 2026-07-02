@@ -1,0 +1,9546 @@
+{
+  "name": "Hieroglyph Quest: Threads of Linen",
+  "version": "1.5",
+  "generated_from": "Entries2.json",
+  "summary": {
+    "sign_deck_unique_cards": 167,
+    "sign_deck_total_copies": 352,
+    "logogram_cards": 25,
+    "word_cards": 165,
+    "word_cards_by_tier": {
+      "trivial": 23,
+      "easy": 29,
+      "medium-easy": 32,
+      "medium": 43,
+      "medium-hard": 38,
+      "hard": 0,
+      "expert": 0
+    },
+    "distinct_signs_needed_by_words": 128,
+    "sign_coverage_complete": true
+  },
+  "configuration": {
+    "ruleset_version": "8.10",
+    "starting_hand_size": 8,
+    "hand_limit": 12,
+    "points_to_win_by_player_count": {
+      "2": 8,
+      "3": 7,
+      "4": 6
+    },
+    "endgame": "equal_turns_round",
+    "spelling_match": "multiset",
+    "draw_choices": {
+      "market_size": 5,
+      "blind_draw": "draw 2, keep 1, discard 1 face-up",
+      "discard_take_min_players": 3
+    },
+    "word_draw": "draw 2 word cards, keep 1, bottom the other",
+    "word_mulligan": "once per player per game, free action: replace your active word (signs return to hand, old word to bottom, draw 2 keep 1); flip your player marker (a coin) when used",
+    "one_sign_spellings_stripped": true,
+    "recycle": "instead of playing signs, discard any 2 signs and draw 2",
+    "steal": "complete opponent word in one continuous play only",
+    "first_player_gift_signs": 0,
+    "point_values_by_sign_count": {
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 4,
+      "5": 7,
+      "6": 10,
+      "7": 15,
+      "8": 20,
+      "9": 25,
+      "10": 30
+    }
+  },
+  "sign_deck": [
+    {
+      "card_id": "sign_X1",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "X1",
+      "mnemonic": "t",
+      "description": "flat loaf",
+      "usage_in_word_pool": 348,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M17",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "M17",
+      "mnemonic": "i",
+      "description": "reed",
+      "usage_in_word_pool": 190,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D21",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D21",
+      "mnemonic": "r",
+      "description": "mouth",
+      "usage_in_word_pool": 152,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N35",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "N35",
+      "mnemonic": "n",
+      "description": "ripple of water",
+      "usage_in_word_pool": 125,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G1",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "G1",
+      "mnemonic": "A",
+      "description": "Egyptian vulture",
+      "usage_in_word_pool": 112,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G43",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "G43",
+      "mnemonic": "w",
+      "description": "quail chick",
+      "usage_in_word_pool": 102,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_Z7",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "Z7",
+      "mnemonic": "W",
+      "description": "hieratic quail chick",
+      "usage_in_word_pool": 102,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D36",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D36",
+      "mnemonic": "a",
+      "description": "forearm",
+      "usage_in_word_pool": 102,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_S29",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "S29",
+      "mnemonic": "s",
+      "description": "folded cloth",
+      "usage_in_word_pool": 94,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D58",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D58",
+      "mnemonic": "b",
+      "description": "foot",
+      "usage_in_word_pool": 86,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_Q3",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "Q3",
+      "mnemonic": "p",
+      "description": "stool",
+      "usage_in_word_pool": 79,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V28",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "V28",
+      "mnemonic": "H",
+      "description": "wick",
+      "usage_in_word_pool": 74,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G17",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "G17",
+      "mnemonic": "m",
+      "description": "owl",
+      "usage_in_word_pool": 56,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D46",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D46",
+      "mnemonic": "d",
+      "description": "hand",
+      "usage_in_word_pool": 55,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_I9",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "I9",
+      "mnemonic": "f",
+      "description": "horned viper",
+      "usage_in_word_pool": 45,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V31",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "V31",
+      "mnemonic": "k",
+      "description": "basket with right handle",
+      "usage_in_word_pool": 35,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N37",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "N37",
+      "mnemonic": "S",
+      "description": "pool",
+      "usage_in_word_pool": 33,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_O34",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "O34",
+      "mnemonic": "z",
+      "description": "bolt",
+      "usage_in_word_pool": 31,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N29",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "N29",
+      "mnemonic": "q",
+      "description": "slope of hill",
+      "usage_in_word_pool": 27,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_O4",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "O4",
+      "mnemonic": "h",
+      "description": "shelter",
+      "usage_in_word_pool": 19,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_I10",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "I10",
+      "mnemonic": "D",
+      "description": "cobra",
+      "usage_in_word_pool": 18,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V13",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "V13",
+      "mnemonic": "T",
+      "description": "rope",
+      "usage_in_word_pool": 18,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_E23",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "E23",
+      "mnemonic": "l",
+      "description": "lying lion",
+      "usage_in_word_pool": 16,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_Z4",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "Z4",
+      "mnemonic": "y",
+      "description": "two diagonal strokes",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_AA1",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "AA1",
+      "mnemonic": "x",
+      "description": "basket from above",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_F32",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "F32",
+      "mnemonic": "X",
+      "description": "animal&#x27;s belly",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_U28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U28",
+      "mnemonic": "DA",
+      "description": "fire-drill",
+      "usage_in_word_pool": 20,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G47",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G47",
+      "mnemonic": "TA",
+      "description": "duckling",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M3",
+      "mnemonic": "xt",
+      "description": "branch",
+      "usage_in_word_pool": 26,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_S33",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "S33",
+      "mnemonic": "Tb",
+      "description": "sandle",
+      "usage_in_word_pool": 12,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V4",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V4",
+      "mnemonic": "wA",
+      "description": "lasso",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_M16",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M16",
+      "mnemonic": "HA",
+      "description": "clump of papyrus",
+      "usage_in_word_pool": 12,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N1",
+      "mnemonic": "pt",
+      "description": "sky",
+      "usage_in_word_pool": 9,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G39",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G39",
+      "mnemonic": "zA",
+      "description": "pintail",
+      "usage_in_word_pool": 7,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_O1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O1",
+      "mnemonic": "pr",
+      "description": "house",
+      "usage_in_word_pool": 26,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_T19",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T19",
+      "mnemonic": "qs",
+      "description": "harpoon head",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_N28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N28",
+      "mnemonic": "xa",
+      "description": "rays of sun over hill",
+      "usage_in_word_pool": 24,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_U23",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U23",
+      "mnemonic": "Ab",
+      "description": "chisel",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_U10",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U10",
+      "mnemonic": "it",
+      "description": "U9 U9 beneath M33 M33",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M12",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M12",
+      "mnemonic": "xA",
+      "description": "lotus plant",
+      "usage_in_word_pool": 22,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V22",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V22",
+      "mnemonic": "mH",
+      "description": "whip",
+      "usage_in_word_pool": 27,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_F22",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F22",
+      "mnemonic": "pH",
+      "description": "hind-quarters of lion",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_H6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "H6",
+      "mnemonic": "Sw",
+      "description": "feather",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_G29",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G29",
+      "mnemonic": "bA",
+      "description": "saddle-billed stork",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_U1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U1",
+      "mnemonic": "mA",
+      "description": "sickle",
+      "usage_in_word_pool": 18,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M23",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M23",
+      "mnemonic": "sw",
+      "description": "sedge",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F31",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F31",
+      "mnemonic": "ms",
+      "description": "three skins tied together",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_D2",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D2",
+      "mnemonic": "Hr",
+      "description": "face",
+      "usage_in_word_pool": 10,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N18",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N18",
+      "mnemonic": "iw",
+      "description": "sandy tract",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_V6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V6",
+      "mnemonic": "Ss",
+      "description": "cord with ends upward",
+      "usage_in_word_pool": 55,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V24",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V24",
+      "mnemonic": "wD",
+      "description": "cord on stick",
+      "usage_in_word_pool": 11,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N5",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N5",
+      "mnemonic": "ra",
+      "description": "sun",
+      "usage_in_word_pool": 13,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_W24",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W24",
+      "mnemonic": "nw",
+      "description": "bowl",
+      "usage_in_word_pool": 45,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G36",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G36",
+      "mnemonic": "wr",
+      "description": "swallow",
+      "usage_in_word_pool": 15,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D1",
+      "mnemonic": "tp",
+      "description": "head in profile",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M36",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M36",
+      "mnemonic": "Dr",
+      "description": "bundle of flax showing bolls",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F16",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F16",
+      "mnemonic": "db",
+      "description": "horn",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_H4",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "H4",
+      "mnemonic": "nr",
+      "description": "head of vulture",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W3",
+      "mnemonic": "Hb",
+      "description": "alabaster basin",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_K1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "K1",
+      "mnemonic": "in",
+      "description": "tilapia",
+      "usage_in_word_pool": 15,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_F18",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F18",
+      "mnemonic": "Hw",
+      "description": "tusk",
+      "usage_in_word_pool": 7,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_U33",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U33",
+      "mnemonic": "ti",
+      "description": "pestle",
+      "usage_in_word_pool": 15,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_A15",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "A15",
+      "mnemonic": "xr",
+      "description": "man falling",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G35",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G35",
+      "mnemonic": "aq",
+      "description": "cormorant",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_Q1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "Q1",
+      "mnemonic": "st",
+      "description": "seat",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D4",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D4",
+      "mnemonic": "ir",
+      "description": "eye",
+      "usage_in_word_pool": 6,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_S43",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "S43",
+      "mnemonic": "md",
+      "description": "walking stick",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D56",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D56",
+      "mnemonic": "rd",
+      "description": "leg",
+      "usage_in_word_pool": 24,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M6",
+      "mnemonic": "tr",
+      "description": "combination of M4 M4 and D21 D21",
+      "usage_in_word_pool": 9,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_V7",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V7",
+      "mnemonic": "Sn",
+      "description": "cord with ends downward",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D28",
+      "mnemonic": "kA",
+      "description": "arms in kA -posture",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_Y5",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "Y5",
+      "mnemonic": "mn",
+      "description": "game board",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_W19",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W19",
+      "mnemonic": "mi",
+      "description": "milk jug in net",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T34",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T34",
+      "mnemonic": "nm",
+      "description": "butcher&#x27;s knife",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T3",
+      "mnemonic": "HD",
+      "description": "mace with round head vertically",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G28",
+      "mnemonic": "gm",
+      "description": "glossy ibis",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U6",
+      "mnemonic": "mr",
+      "description": "diagonal hoe",
+      "usage_in_word_pool": 6,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G41",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G41",
+      "mnemonic": "xn",
+      "description": "pintail alighting",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M8",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M8",
+      "mnemonic": "SA",
+      "description": "pool with lotus flowers",
+      "usage_in_word_pool": 6,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_M2",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M2",
+      "mnemonic": "Hn",
+      "description": "plant",
+      "usage_in_word_pool": 33,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N35A",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N35A",
+      "mnemonic": "mw",
+      "description": "three ripples of water",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_E34",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "E34",
+      "mnemonic": "wn",
+      "description": "hare",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F34",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F34",
+      "mnemonic": "ib",
+      "description": "heart",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O29",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O29",
+      "mnemonic": "aA",
+      "description": "horizontal wooden column",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N16",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N16",
+      "mnemonic": "tA",
+      "description": "land with grains",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T28",
+      "mnemonic": "Xr",
+      "description": "butcher&#x27;s block",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G40",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G40",
+      "mnemonic": "pA",
+      "description": "pintail flying",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N41",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N41",
+      "mnemonic": "id",
+      "description": "well with ripple of water",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F13",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F13",
+      "mnemonic": "wp",
+      "description": "horns",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T22",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T22",
+      "mnemonic": "sn",
+      "description": "arrowhead",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F20",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F20",
+      "mnemonic": "ns",
+      "description": "tongue",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_AA28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "AA28",
+      "mnemonic": "qd",
+      "description": "level",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T12",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T12",
+      "mnemonic": "Ai",
+      "description": "bow-string",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_V30",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V30",
+      "mnemonic": "nb",
+      "description": "basket",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N26",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N26",
+      "mnemonic": "Dw",
+      "description": "two hills",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F40",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F40",
+      "mnemonic": "Aw",
+      "description": "backbone and spinal cords",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F26",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F26",
+      "mnemonic": "Xn",
+      "description": "skin of goat",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_AA13",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "AA13",
+      "mnemonic": "im",
+      "description": "sharp half",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F30",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F30",
+      "mnemonic": "Sd",
+      "description": "water-skin",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U15",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U15",
+      "mnemonic": "tm",
+      "description": "sledge",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_AA17",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "AA17",
+      "mnemonic": "sA",
+      "description": "lid",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G25",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G25",
+      "mnemonic": "Ax",
+      "description": "northern bald ibis",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_K4",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "K4",
+      "mnemonic": "XA",
+      "description": "elephant-snout fish",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W14",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W14",
+      "mnemonic": "Hz",
+      "description": "water jar",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M40",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M40",
+      "mnemonic": "iz",
+      "description": "bundle of reeds",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N11",
+      "mnemonic": "Abd",
+      "description": "crescent moon",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S12",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S12",
+      "mnemonic": "nbw",
+      "description": "collar of beads",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F44",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F44",
+      "mnemonic": "iwa",
+      "description": "leg-bone with meat",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_A47",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A47",
+      "mnemonic": "iry",
+      "description": "shepherd seated and wrapped in mantle, holding stick",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "R5",
+      "mnemonic": "kAp",
+      "description": "narrow censer",
+      "usage_in_word_pool": 16,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_S1",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S1",
+      "mnemonic": "HDt",
+      "description": "white crown",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_G4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "G4",
+      "mnemonic": "tyw",
+      "description": "buzzard",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D3",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D3",
+      "mnemonic": "Sny",
+      "description": "hair",
+      "usage_in_word_pool": 6,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_G14",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "G14",
+      "mnemonic": "mwt",
+      "description": "vulture",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S32",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S32",
+      "mnemonic": "siA",
+      "description": "cloth with fringe on the side",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_I5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "I5",
+      "mnemonic": "sAq",
+      "description": "crocodile with curved tail",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M4",
+      "mnemonic": "rnp",
+      "description": "palm branch",
+      "usage_in_word_pool": 6,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F5",
+      "mnemonic": "SsA",
+      "description": "head of bubalis or hartebeest",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W10",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "W10",
+      "mnemonic": "iab",
+      "description": "cup",
+      "usage_in_word_pool": 7,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_P4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "P4",
+      "mnemonic": "wHa",
+      "description": "boat with net",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M1",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M1",
+      "mnemonic": "iAm",
+      "description": "tree",
+      "usage_in_word_pool": 8,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_F25",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F25",
+      "mnemonic": "wHm",
+      "description": "leg of ox",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "W11",
+      "mnemonic": "nzt",
+      "description": "round ring stand",
+      "usage_in_word_pool": 6,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_S20",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S20",
+      "mnemonic": "xtm",
+      "description": "necklace with seal from front",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F36",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F36",
+      "mnemonic": "zmA",
+      "description": "lung and windpipe",
+      "usage_in_word_pool": 37,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_O36",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O36",
+      "mnemonic": "inb",
+      "description": "wall",
+      "usage_in_word_pool": 5,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_O28",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O28",
+      "mnemonic": "iwn",
+      "description": "column",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_W2",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "W2",
+      "mnemonic": "bAs",
+      "description": "oil jar",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_I3",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "I3",
+      "mnemonic": "mzH",
+      "description": "crocodile",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D34",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D34",
+      "mnemonic": "aHA",
+      "description": "arms holding shield and battle-axe",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M13",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M13",
+      "mnemonic": "wAD",
+      "description": "papyrus",
+      "usage_in_word_pool": 21,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_D19",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D19",
+      "mnemonic": "fnD",
+      "description": "nose, eye and cheek",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D24",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D24",
+      "mnemonic": "spt",
+      "description": "upper lip with teeth",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_V19",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V19",
+      "mnemonic": "mDt",
+      "description": "hobble with cross-bar",
+      "usage_in_word_pool": 6,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_T25",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "T25",
+      "mnemonic": "DbA",
+      "description": "floats",
+      "usage_in_word_pool": 19,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_O6",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O6",
+      "mnemonic": "Hwt",
+      "description": "enclosure",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_T14",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "T14",
+      "mnemonic": "qmA",
+      "description": "throw stick vertically",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V33",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V33",
+      "mnemonic": "sSr",
+      "description": "bag",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F29",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F29",
+      "mnemonic": "sti",
+      "description": "cow&#x27;s skin pierced by arrow",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_A17",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A17",
+      "mnemonic": "Xrd",
+      "description": "child sitting with hand to mouth",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_P5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "P5",
+      "mnemonic": "nfw",
+      "description": "sail",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V12",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V12",
+      "mnemonic": "arq",
+      "description": "string",
+      "usage_in_word_pool": 6,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_O42",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O42",
+      "mnemonic": "Szp",
+      "description": "fence",
+      "usage_in_word_pool": 16,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_M34",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M34",
+      "mnemonic": "bdt",
+      "description": "ear of emmer",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N14",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N14",
+      "mnemonic": "sbA",
+      "description": "star",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R8",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "R8",
+      "mnemonic": "nTr",
+      "description": "cloth on pole",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Z11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "Z11",
+      "mnemonic": "imi",
+      "description": "cross",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S34",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S34",
+      "mnemonic": "anx",
+      "description": "sandle-strap",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F21",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F21",
+      "mnemonic": "idn",
+      "description": "ear of bovine",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F35",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F35",
+      "mnemonic": "nfr",
+      "description": "heart and windpipe",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_V29",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V29",
+      "mnemonic": "wAH",
+      "description": "swab",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S42",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S42",
+      "mnemonic": "abA",
+      "description": "sceptre of authority",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F4",
+      "mnemonic": "HAt",
+      "description": "forepart of lion",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R15",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "R15",
+      "mnemonic": "iAb",
+      "description": "spear emblem",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_P6",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "P6",
+      "mnemonic": "aHa",
+      "description": "mast",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O49",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "O49",
+      "mnemonic": "niwt",
+      "description": "village",
+      "usage_in_word_pool": 5,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S3",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "S3",
+      "mnemonic": "dSrt",
+      "description": "red crown",
+      "usage_in_word_pool": 8,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S6",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "S6",
+      "mnemonic": "sxmty",
+      "description": "combination of S5 S5 and V30 V30",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N25",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N25",
+      "mnemonic": "xAst",
+      "description": "three hills",
+      "usage_in_word_pool": 5,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N8",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N8",
+      "mnemonic": "Hnmmt",
+      "description": "sunshine",
+      "usage_in_word_pool": 6,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S7",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "S7",
+      "mnemonic": "xprS",
+      "description": "blue crown",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W22",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "W22",
+      "mnemonic": "Hnqt",
+      "description": "beer jug",
+      "usage_in_word_pool": 11,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N4",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N4",
+      "mnemonic": "iAdt",
+      "description": "sky with rain",
+      "usage_in_word_pool": 3,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F39",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "F39",
+      "mnemonic": "imAx",
+      "description": "backbone and spinal cord",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N24",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N24",
+      "mnemonic": "spAt",
+      "description": "irrigation canal system",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S27",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "S27",
+      "mnemonic": "mnxt",
+      "description": "cloth with two strands",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Y1",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "Y1",
+      "mnemonic": "mDAt",
+      "description": "scroll with ties",
+      "usage_in_word_pool": 90,
+      "copies": 1
+    }
+  ],
+  "logogram_deck": [
+    {
+      "card_id": "log_S38_Aqs",
+      "type": "logogram",
+      "sign_code": "S38",
+      "word_transliteration": "Aqs",
+      "word_english": [
+        "a type of garment",
+        "(a garment)"
+      ],
+      "description": "crook",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_T25_DbA",
+      "type": "logogram",
+      "sign_code": "T25",
+      "word_transliteration": "DbA",
+      "word_english": [
+        "clothe",
+        "sceptre"
+      ],
+      "description": "floats",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_D46_Drt",
+      "type": "logogram",
+      "sign_code": "D46",
+      "word_transliteration": "Drt",
+      "word_english": [
+        "hand",
+        "handful (as a measurement)"
+      ],
+      "description": "hand",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_D2_Hr",
+      "type": "logogram",
+      "sign_code": "D2",
+      "word_transliteration": "Hr",
+      "word_english": [
+        "terrify (someone)",
+        "terrible"
+      ],
+      "description": "face",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_Aa2_Hsb",
+      "type": "logogram",
+      "sign_code": "Aa2",
+      "word_transliteration": "Hsb",
+      "word_english": [
+        "breaak",
+        "break"
+      ],
+      "description": "pustule",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_D48_Ssp",
+      "type": "logogram",
+      "sign_code": "D48",
+      "word_transliteration": "Ssp",
+      "word_english": [
+        "palm (of hand)",
+        "take"
+      ],
+      "description": "hand without thumb",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_D36_a",
+      "type": "logogram",
+      "sign_code": "D36",
+      "word_transliteration": "a",
+      "word_english": [
+        "wooden rod",
+        "dragoman"
+      ],
+      "description": "forearm",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_S46_afnt",
+      "type": "logogram",
+      "sign_code": "S46",
+      "word_transliteration": "afnt",
+      "word_english": [
+        "royal head - cloth",
+        "royal headcloth"
+      ],
+      "description": "covering for head and neck",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_AA20_apr",
+      "type": "logogram",
+      "sign_code": "AA20",
+      "word_transliteration": "apr",
+      "word_english": [
+        "provide",
+        "an Asiatic people"
+      ],
+      "description": "bag",
+      "logogram_source": "phonetic",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_G35_aq",
+      "type": "logogram",
+      "sign_code": "G35",
+      "word_transliteration": "aq",
+      "word_english": [
+        "enter (into)",
+        "set (of sun"
+      ],
+      "description": "cormorant",
+      "logogram_source": "phonetic",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_R5_kAp",
+      "type": "logogram",
+      "sign_code": "R5",
+      "word_transliteration": "kAp",
+      "word_english": [
+        "cense (gods)",
+        "bandage"
+      ],
+      "description": "narrow censer",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_D42_mH",
+      "type": "logogram",
+      "sign_code": "D42",
+      "word_transliteration": "mH",
+      "word_english": [
+        "cubit",
+        "forearm"
+      ],
+      "description": "forearm with palm down and straight upper arm",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_M15_mHw",
+      "type": "logogram",
+      "sign_code": "M15",
+      "word_transliteration": "mHw",
+      "word_english": [
+        "Lower Egypt",
+        "linen thread"
+      ],
+      "description": "clump of papyrus with buds",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_G14_nrt",
+      "type": "logogram",
+      "sign_code": "G14",
+      "word_transliteration": "nrt",
+      "word_english": [
+        "vulture"
+      ],
+      "description": "vulture",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_N35_nt",
+      "type": "logogram",
+      "sign_code": "N35",
+      "word_transliteration": "nt",
+      "word_english": [
+        "of",
+        "Crown of Lower Egypt"
+      ],
+      "description": "ripple of water",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_N11_sSp",
+      "type": "logogram",
+      "sign_code": "N11",
+      "word_transliteration": "sSp",
+      "word_english": [
+        "be white",
+        "make bright"
+      ],
+      "description": "crescent moon",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_Aa25_smA",
+      "type": "logogram",
+      "sign_code": "Aa25",
+      "word_transliteration": "smA",
+      "word_english": [
+        "priest (who clothed the god)",
+        "unite"
+      ],
+      "description": "unknown",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_M4_snf",
+      "type": "logogram",
+      "sign_code": "M4",
+      "word_transliteration": "snf",
+      "word_english": [
+        "last year",
+        "make to breathe"
+      ],
+      "description": "palm branch",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_M44_spd",
+      "type": "logogram",
+      "sign_code": "M44",
+      "word_transliteration": "spd",
+      "word_english": [
+        "sharp",
+        "display skill"
+      ],
+      "description": "thorn",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_A53_twt",
+      "type": "logogram",
+      "sign_code": "A53",
+      "word_transliteration": "twt",
+      "word_english": [
+        "statue",
+        "complete"
+      ],
+      "description": "standing mummy",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_M13_wAD",
+      "type": "logogram",
+      "sign_code": "M13",
+      "word_transliteration": "wAD",
+      "word_english": [
+        "green",
+        "make green"
+      ],
+      "description": "papyrus",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_O26_wD",
+      "type": "logogram",
+      "sign_code": "O26",
+      "word_transliteration": "wD",
+      "word_english": [
+        "stela",
+        "decree"
+      ],
+      "description": "stela",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_T17_wrrt",
+      "type": "logogram",
+      "sign_code": "T17",
+      "word_transliteration": "wrrt",
+      "word_english": [
+        "crown",
+        "(double) crown"
+      ],
+      "description": "chariot",
+      "logogram_source": "phonetic",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_V38_wt",
+      "type": "logogram",
+      "sign_code": "V38",
+      "word_transliteration": "wt",
+      "word_english": [
+        "place of embalming",
+        "place of embalming in imy wt ‘he who is in the p. of e.’"
+      ],
+      "description": "bandage",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    },
+    {
+      "card_id": "log_N28_xa",
+      "type": "logogram",
+      "sign_code": "N28",
+      "word_transliteration": "xa",
+      "word_english": [
+        "hill",
+        "hill (on the horizon)"
+      ],
+      "description": "rays of sun over hill",
+      "logogram_source": "documented",
+      "copies": 1,
+      "effect": "Instantly completes the matching word card."
+    }
+  ],
+  "word_deck": [
+    {
+      "card_id": "word_wAD_1",
+      "type": "word",
+      "transliteration": "wAD",
+      "english_glosses": [
+        "green",
+        "make green",
+        "adj. green"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M13",
+          "A17"
+        ],
+        [
+          "M13",
+          "G43"
+        ],
+        [
+          "M13",
+          "I10"
+        ],
+        [
+          "M13",
+          "M2"
+        ],
+        [
+          "M13",
+          "M34"
+        ],
+        [
+          "M13",
+          "X1"
+        ],
+        [
+          "M13",
+          "Y1"
+        ],
+        [
+          "M13",
+          "I10",
+          "Y1"
+        ],
+        [
+          "M13",
+          "M13",
+          "M13"
+        ],
+        [
+          "M13",
+          "G1",
+          "I10",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_DbA_1",
+      "type": "word",
+      "transliteration": "DbA",
+      "english_glosses": [
+        "clothe",
+        "sceptre",
+        "plinth"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "T25",
+          "D58"
+        ],
+        [
+          "T25",
+          "S3"
+        ],
+        [
+          "T25",
+          "Y1"
+        ],
+        [
+          "D46",
+          "D58",
+          "T25"
+        ],
+        [
+          "I10",
+          "D58",
+          "T25"
+        ],
+        [
+          "T25",
+          "D58",
+          "M2"
+        ],
+        [
+          "T25",
+          "D58",
+          "M3"
+        ],
+        [
+          "T25",
+          "D58",
+          "O36"
+        ],
+        [
+          "T25",
+          "D58",
+          "O49"
+        ],
+        [
+          "T25",
+          "D58",
+          "S27"
+        ],
+        [
+          "T25",
+          "D58",
+          "Y1"
+        ],
+        [
+          "T25",
+          "D58",
+          "Z7"
+        ],
+        [
+          "D46",
+          "D58",
+          "T25",
+          "Y1"
+        ],
+        [
+          "I10",
+          "D58",
+          "T25",
+          "G1"
+        ],
+        [
+          "T25",
+          "D58",
+          "Z7",
+          "O36"
+        ],
+        [
+          "T25",
+          "D58",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "T25",
+          "D58",
+          "Y1",
+          "X1",
+          "G43"
+        ],
+        [
+          "D46",
+          "D58",
+          "G29",
+          "G1",
+          "T25",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hsb_1",
+      "type": "word",
+      "transliteration": "Hsb",
+      "english_glosses": [
+        "breaak",
+        "break",
+        "count"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "Y1",
+          "U10"
+        ],
+        [
+          "V28",
+          "O34",
+          "D58"
+        ],
+        [
+          "V28",
+          "S29",
+          "D58"
+        ],
+        [
+          "V28",
+          "S29",
+          "D58",
+          "Y1"
+        ],
+        [
+          "V28",
+          "S29",
+          "D58",
+          "G43",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_aq_1",
+      "type": "word",
+      "transliteration": "aq",
+      "english_glosses": [
+        "enter (into)",
+        "set (of sun",
+        "enter"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "D36",
+          "N29"
+        ],
+        [
+          "G35",
+          "N29"
+        ],
+        [
+          "G39",
+          "N29"
+        ],
+        [
+          "W10",
+          "N29"
+        ],
+        [
+          "G35",
+          "N29",
+          "G43"
+        ],
+        [
+          "G35",
+          "N29",
+          "Z7"
+        ],
+        [
+          "G35",
+          "N29",
+          "M17",
+          "M17"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_kAp_1",
+      "type": "word",
+      "transliteration": "kAp",
+      "english_glosses": [
+        "cense (gods)",
+        "bandage",
+        "bandage (n.)"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "R5",
+          "N24"
+        ],
+        [
+          "R5",
+          "Q3"
+        ],
+        [
+          "D28",
+          "Q3",
+          "R5"
+        ],
+        [
+          "R5",
+          "N24",
+          "X1"
+        ],
+        [
+          "R5",
+          "Q3",
+          "D36"
+        ],
+        [
+          "R5",
+          "Q3",
+          "O1"
+        ],
+        [
+          "R5",
+          "Q3",
+          "Z7"
+        ],
+        [
+          "V31",
+          "Q3",
+          "R5"
+        ],
+        [
+          "R5",
+          "Q3",
+          "G43",
+          "I5"
+        ],
+        [
+          "R5",
+          "Q3",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "V31",
+          "G1",
+          "Q3",
+          "O1"
+        ],
+        [
+          "V31",
+          "G1",
+          "Q3",
+          "R5"
+        ],
+        [
+          "V31",
+          "G1",
+          "Q3",
+          "V19",
+          "O1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Ssp_1",
+      "type": "word",
+      "transliteration": "Ssp",
+      "english_glosses": [
+        "palm (of hand)",
+        "take",
+        "statue"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O42",
+          "Q3"
+        ],
+        [
+          "O42",
+          "Q3",
+          "D24"
+        ],
+        [
+          "O42",
+          "Q3",
+          "D46"
+        ],
+        [
+          "O42",
+          "Q3",
+          "N11"
+        ],
+        [
+          "O42",
+          "Q3",
+          "N5"
+        ],
+        [
+          "O42",
+          "Q3",
+          "N8"
+        ],
+        [
+          "O42",
+          "Q3",
+          "X1"
+        ],
+        [
+          "O42",
+          "Q3",
+          "Y1"
+        ],
+        [
+          "O42",
+          "Q3",
+          "Z7"
+        ],
+        [
+          "N37",
+          "O34",
+          "Q3",
+          "O42"
+        ],
+        [
+          "O42",
+          "Q3",
+          "X1",
+          "M2"
+        ],
+        [
+          "O42",
+          "Q3",
+          "Z7",
+          "M2"
+        ],
+        [
+          "O42",
+          "Q3",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "S29",
+          "N37",
+          "Q3",
+          "O42"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hr_1",
+      "type": "word",
+      "transliteration": "Hr",
+      "english_glosses": [
+        "terrify (someone)",
+        "terrible",
+        "adj. terrible"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D2",
+          "D21"
+        ],
+        [
+          "D2",
+          "V12"
+        ],
+        [
+          "F18",
+          "D21"
+        ],
+        [
+          "D2",
+          "D21",
+          "D21"
+        ],
+        [
+          "D2",
+          "D21",
+          "N1"
+        ],
+        [
+          "D2",
+          "D21",
+          "V19"
+        ],
+        [
+          "V28",
+          "D2",
+          "D21"
+        ],
+        [
+          "D2",
+          "D21",
+          "D2",
+          "D21",
+          "V19"
+        ],
+        [
+          "D2",
+          "D21",
+          "D46",
+          "M17",
+          "M17"
+        ],
+        [
+          "D2",
+          "D21",
+          "M17",
+          "M17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wt_1",
+      "type": "word",
+      "transliteration": "wt",
+      "english_glosses": [
+        "place of embalming",
+        "place of embalming in imy wt ‘he who is in the p. of e.’",
+        "mummy wrappings"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G43",
+          "X1"
+        ],
+        [
+          "X1",
+          "D36"
+        ],
+        [
+          "X1",
+          "G43"
+        ],
+        [
+          "Z7",
+          "X1"
+        ],
+        [
+          "G43",
+          "X1",
+          "D36"
+        ],
+        [
+          "X1",
+          "G1",
+          "M3"
+        ],
+        [
+          "X1",
+          "G43",
+          "V6"
+        ],
+        [
+          "X1",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "Z7",
+          "X1",
+          "D36"
+        ],
+        [
+          "Z7",
+          "X1",
+          "M3"
+        ],
+        [
+          "Z7",
+          "X1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_smA_1",
+      "type": "word",
+      "transliteration": "smA",
+      "english_glosses": [
+        "priest (who clothed the god)",
+        "unite",
+        "scalp"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "F36",
+          "G1"
+        ],
+        [
+          "F36",
+          "G17"
+        ],
+        [
+          "F36",
+          "Y1"
+        ],
+        [
+          "S29",
+          "U1"
+        ],
+        [
+          "F36",
+          "G1",
+          "D3"
+        ],
+        [
+          "F36",
+          "G1",
+          "Y1"
+        ],
+        [
+          "F36",
+          "G1",
+          "Z7"
+        ],
+        [
+          "O34",
+          "F36",
+          "G1"
+        ],
+        [
+          "O34",
+          "U1",
+          "F36"
+        ],
+        [
+          "S29",
+          "U1",
+          "D3"
+        ],
+        [
+          "S29",
+          "U1",
+          "G1"
+        ],
+        [
+          "S29",
+          "U1",
+          "S43"
+        ],
+        [
+          "F36",
+          "G1",
+          "G17",
+          "Y1"
+        ],
+        [
+          "F36",
+          "G1",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "O34",
+          "U1",
+          "F36",
+          "N25"
+        ],
+        [
+          "O34",
+          "U1",
+          "G1",
+          "T34"
+        ],
+        [
+          "S29",
+          "U1",
+          "G1",
+          "F36"
+        ],
+        [
+          "S29",
+          "U1",
+          "G1",
+          "G17"
+        ],
+        [
+          "S29",
+          "U1",
+          "Y1",
+          "D3"
+        ],
+        [
+          "F36",
+          "G1",
+          "G17",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "S29",
+          "U1",
+          "G1",
+          "F36",
+          "Y1"
+        ],
+        [
+          "S29",
+          "U1",
+          "G1",
+          "G17",
+          "X1"
+        ],
+        [
+          "S29",
+          "U1",
+          "G1",
+          "G17",
+          "F36",
+          "D36"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mt_1",
+      "type": "word",
+      "transliteration": "mt",
+      "english_glosses": [
+        "die",
+        "bolus",
+        "strip ? (of cloth)"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xa_1",
+      "type": "word",
+      "transliteration": "xa",
+      "english_glosses": [
+        "hill",
+        "hill (on the horizon)",
+        "(job Title)"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N28",
+          "D36"
+        ],
+        [
+          "N28",
+          "D36",
+          "M3"
+        ],
+        [
+          "N28",
+          "D36",
+          "N5"
+        ],
+        [
+          "N28",
+          "D36",
+          "S7"
+        ],
+        [
+          "N28",
+          "D36",
+          "Y1"
+        ],
+        [
+          "N28",
+          "W3",
+          "O1"
+        ],
+        [
+          "N28",
+          "D36",
+          "M17",
+          "M17"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_DAw_1",
+      "type": "word",
+      "transliteration": "DAw",
+      "english_glosses": [
+        "night",
+        "mat",
+        "mat (?)"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "U28",
+          "G1"
+        ],
+        [
+          "U28",
+          "G43"
+        ],
+        [
+          "U28",
+          "G1",
+          "G43"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_at_1",
+      "type": "word",
+      "transliteration": "at",
+      "english_glosses": [
+        "house",
+        "limb",
+        "room"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "X1"
+        ],
+        [
+          "D36",
+          "X1",
+          "O1"
+        ],
+        [
+          "D36",
+          "Y1",
+          "F44"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mH_1",
+      "type": "word",
+      "transliteration": "mH",
+      "english_glosses": [
+        "cubit",
+        "forearm",
+        "to be faithful"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "Y1"
+        ],
+        [
+          "G17",
+          "V22"
+        ],
+        [
+          "G17",
+          "V28"
+        ],
+        [
+          "V22",
+          "D36"
+        ],
+        [
+          "V22",
+          "V28"
+        ],
+        [
+          "V22",
+          "Y1"
+        ],
+        [
+          "G17",
+          "V22",
+          "V28"
+        ],
+        [
+          "V22",
+          "V28",
+          "Z7"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_spd_1",
+      "type": "word",
+      "transliteration": "spd",
+      "english_glosses": [
+        "sharp",
+        "display skill",
+        "Seped amulet {shape of determinative}"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "adjective",
+      "valid_spellings": [
+        [
+          "S29",
+          "D46"
+        ],
+        [
+          "O34",
+          "Q3",
+          "I10"
+        ],
+        [
+          "S29",
+          "Q3",
+          "D46"
+        ],
+        [
+          "S29",
+          "Q3",
+          "D46",
+          "M3"
+        ],
+        [
+          "S29",
+          "Q3",
+          "D46",
+          "O1"
+        ],
+        [
+          "S29",
+          "Q3",
+          "D46",
+          "Y1"
+        ],
+        [
+          "S29",
+          "D58",
+          "Q3",
+          "X1",
+          "N29"
+        ],
+        [
+          "S29",
+          "Q3",
+          "D46",
+          "D46",
+          "Y1"
+        ],
+        [
+          "S29",
+          "Q3",
+          "D46",
+          "T14",
+          "N25"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wD_1",
+      "type": "word",
+      "transliteration": "wD",
+      "english_glosses": [
+        "stela",
+        "decree",
+        "(written) decree"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M13",
+          "G43"
+        ],
+        [
+          "M13",
+          "Y1"
+        ],
+        [
+          "V24",
+          "G43"
+        ],
+        [
+          "V24",
+          "I10"
+        ],
+        [
+          "V24",
+          "Y1"
+        ],
+        [
+          "V24",
+          "Z7"
+        ],
+        [
+          "Z7",
+          "I10"
+        ],
+        [
+          "M13",
+          "G43",
+          "Y1"
+        ],
+        [
+          "M13",
+          "I10",
+          "Y1"
+        ],
+        [
+          "V24",
+          "G43",
+          "D46"
+        ],
+        [
+          "V24",
+          "G43",
+          "I10"
+        ],
+        [
+          "V24",
+          "G43",
+          "V12"
+        ],
+        [
+          "V24",
+          "G43",
+          "Y1"
+        ],
+        [
+          "V24",
+          "Z7",
+          "M2"
+        ],
+        [
+          "V24",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "V24",
+          "X1",
+          "G43",
+          "U33"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xaw_1",
+      "type": "word",
+      "transliteration": "xaw",
+      "english_glosses": [
+        "crown",
+        "weapons",
+        "appearance in glory"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N28",
+          "D36"
+        ],
+        [
+          "N28",
+          "M3"
+        ],
+        [
+          "N28",
+          "Y1"
+        ],
+        [
+          "N28",
+          "D36",
+          "M3"
+        ],
+        [
+          "N28",
+          "D36",
+          "V19"
+        ],
+        [
+          "N28",
+          "D36",
+          "Y1"
+        ],
+        [
+          "N28",
+          "D36",
+          "Z7"
+        ],
+        [
+          "N28",
+          "Z7",
+          "S1"
+        ],
+        [
+          "N28",
+          "Z7",
+          "S3"
+        ],
+        [
+          "N28",
+          "D36",
+          "G43",
+          "M3"
+        ],
+        [
+          "N28",
+          "D36",
+          "G43",
+          "Y1"
+        ],
+        [
+          "N28",
+          "D36",
+          "M17",
+          "M17"
+        ],
+        [
+          "N28",
+          "D36",
+          "Z7",
+          "M3"
+        ],
+        [
+          "N28",
+          "D36",
+          "Z7",
+          "O1"
+        ],
+        [
+          "N28",
+          "D36",
+          "Z7",
+          "S7"
+        ],
+        [
+          "N28",
+          "D36",
+          "Z7",
+          "V6"
+        ],
+        [
+          "N28",
+          "D36",
+          "M17",
+          "M17",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hbs_1",
+      "type": "word",
+      "transliteration": "Hbs",
+      "english_glosses": [
+        "clothe",
+        "garment",
+        "vb. clothe"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V28",
+          "D58",
+          "S29"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "V6"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "X1"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "G43",
+          "V6"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "V6",
+          "V12"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "V6",
+          "W22"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "Z7",
+          "M3"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "Z7",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mrt_1",
+      "type": "word",
+      "transliteration": "mrt",
+      "english_glosses": [
+        "weavers",
+        "pains",
+        "bad"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "U6",
+          "D21",
+          "X1"
+        ],
+        [
+          "U6",
+          "X1",
+          "X1"
+        ],
+        [
+          "G17",
+          "U23",
+          "D21",
+          "X1"
+        ],
+        [
+          "U23",
+          "G17",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wADt_1",
+      "type": "word",
+      "transliteration": "wADt",
+      "english_glosses": [
+        "rawness",
+        "raw",
+        "bow (of ship)"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M13",
+          "X1"
+        ],
+        [
+          "M13",
+          "M17",
+          "M17"
+        ],
+        [
+          "M13",
+          "X1",
+          "V6"
+        ],
+        [
+          "V4",
+          "G1",
+          "I10",
+          "X1"
+        ],
+        [
+          "V4",
+          "I10",
+          "M13",
+          "X1"
+        ],
+        [
+          "V4",
+          "G1",
+          "I10",
+          "X1",
+          "M13"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mrw_1",
+      "type": "word",
+      "transliteration": "mrw",
+      "english_glosses": [
+        "servants",
+        "a type of wood",
+        "(a type of wood)"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "U6",
+          "D21"
+        ],
+        [
+          "X1",
+          "X1"
+        ],
+        [
+          "U6",
+          "D21",
+          "G43"
+        ],
+        [
+          "U23",
+          "G17",
+          "D21",
+          "G43"
+        ],
+        [
+          "U6",
+          "D21",
+          "G43",
+          "M1"
+        ],
+        [
+          "U6",
+          "M17",
+          "M17",
+          "M3"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_a_1",
+      "type": "word",
+      "transliteration": "a",
+      "english_glosses": [
+        "wooden rod",
+        "dragoman",
+        "var. of aw ‘dragoman’."
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "D56"
+        ],
+        [
+          "D36",
+          "M2"
+        ],
+        [
+          "D36",
+          "M3"
+        ],
+        [
+          "D36",
+          "O1"
+        ],
+        [
+          "D36",
+          "V12"
+        ],
+        [
+          "D36",
+          "W10"
+        ],
+        [
+          "D36",
+          "W24"
+        ],
+        [
+          "D36",
+          "Y1"
+        ],
+        [
+          "D36",
+          "Z7"
+        ],
+        [
+          "D36",
+          "W2",
+          "W24"
+        ],
+        [
+          "D36",
+          "W3",
+          "N5"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mHw_1",
+      "type": "word",
+      "transliteration": "mHw",
+      "english_glosses": [
+        "Lower Egypt",
+        "linen thread",
+        "hunter"
+      ],
+      "shortest_sign_count": 1,
+      "difficulty_tier": "trivial",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V22",
+          "G43"
+        ],
+        [
+          "V22",
+          "V28"
+        ],
+        [
+          "V22",
+          "D36",
+          "Z7"
+        ],
+        [
+          "V22",
+          "V28",
+          "G43"
+        ],
+        [
+          "V22",
+          "V28",
+          "G43",
+          "M2"
+        ],
+        [
+          "V22",
+          "V28",
+          "Z7",
+          "K1"
+        ],
+        [
+          "V22",
+          "V28",
+          "Z7",
+          "P4",
+          "K1"
+        ],
+        [
+          "V22",
+          "Y1",
+          "T3",
+          "Z7",
+          "M2"
+        ],
+        [
+          "V22",
+          "Y1",
+          "V28",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "V22",
+          "V28",
+          "M17",
+          "M17",
+          "M2",
+          "M2",
+          "O49",
+          "O49"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_rpw_2",
+      "type": "word",
+      "transliteration": "rpw",
+      "english_glosses": [
+        "rot",
+        "(leather) bag"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D21",
+          "Q3"
+        ],
+        [
+          "D21",
+          "Q3",
+          "G43"
+        ],
+        [
+          "D21",
+          "Q3",
+          "Z7"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ST_2",
+      "type": "word",
+      "transliteration": "ST",
+      "english_glosses": [
+        "equip",
+        "satchel",
+        "equip (?)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N37",
+          "V13"
+        ],
+        [
+          "N37",
+          "X1"
+        ],
+        [
+          "N37",
+          "V13",
+          "M3"
+        ],
+        [
+          "M8",
+          "G1",
+          "U33",
+          "M17",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_inr_2",
+      "type": "word",
+      "transliteration": "inr",
+      "english_glosses": [
+        "stone",
+        "bowl (for wine)",
+        "(bird's) shell"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "N35"
+        ],
+        [
+          "M17",
+          "N35",
+          "D21"
+        ],
+        [
+          "O28",
+          "N35",
+          "D21"
+        ],
+        [
+          "M17",
+          "S3",
+          "D21",
+          "N37"
+        ],
+        [
+          "O28",
+          "N35",
+          "D21",
+          "M2"
+        ],
+        [
+          "M17",
+          "M17",
+          "N35",
+          "E23",
+          "W22"
+        ],
+        [
+          "M17",
+          "N35",
+          "D21",
+          "M17",
+          "M17"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xAt_2",
+      "type": "word",
+      "transliteration": "xAt",
+      "english_glosses": [
+        "corpse",
+        "marsh",
+        "Marshland"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M12",
+          "X1"
+        ],
+        [
+          "M12",
+          "G1",
+          "X1"
+        ],
+        [
+          "M12",
+          "G1",
+          "X1",
+          "D36"
+        ],
+        [
+          "M12",
+          "G1",
+          "X1",
+          "S12"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_qni_2",
+      "type": "word",
+      "transliteration": "qni",
+      "english_glosses": [
+        "profusion",
+        "brave",
+        "powerful (of speech)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N29",
+          "N35"
+        ],
+        [
+          "N29",
+          "N35",
+          "F5"
+        ],
+        [
+          "N29",
+          "N35",
+          "M17"
+        ],
+        [
+          "N29",
+          "N35",
+          "Y1"
+        ],
+        [
+          "N29",
+          "N35",
+          "M17",
+          "M17"
+        ],
+        [
+          "N29",
+          "N35",
+          "M17",
+          "V19"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_snf_2",
+      "type": "word",
+      "transliteration": "snf",
+      "english_glosses": [
+        "last year",
+        "make to breathe",
+        "caus. make to breathe"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O34",
+          "N35"
+        ],
+        [
+          "O34",
+          "N35",
+          "I9"
+        ],
+        [
+          "S29",
+          "N35",
+          "I9"
+        ],
+        [
+          "M4",
+          "M4",
+          "I9",
+          "N5"
+        ],
+        [
+          "O34",
+          "N35",
+          "I9",
+          "P5"
+        ],
+        [
+          "S29",
+          "N35",
+          "I9",
+          "P5"
+        ],
+        [
+          "S29",
+          "N35",
+          "I9",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_nt_2",
+      "type": "word",
+      "transliteration": "nt",
+      "english_glosses": [
+        "of",
+        "Crown of Lower Egypt",
+        "crown of L. E."
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N35",
+          "X1"
+        ],
+        [
+          "S3",
+          "X1"
+        ],
+        [
+          "N35",
+          "X1",
+          "S3"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ptr_2",
+      "type": "word",
+      "transliteration": "ptr",
+      "english_glosses": [
+        "see",
+        "who ?",
+        "interrog. who?"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "Q3",
+          "X1"
+        ],
+        [
+          "Q3",
+          "D21",
+          "G4"
+        ],
+        [
+          "Q3",
+          "D21",
+          "M4"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21"
+        ],
+        [
+          "Q3",
+          "X1",
+          "E23"
+        ],
+        [
+          "X1",
+          "Q3",
+          "M6"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "M17"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "M4"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "M6"
+        ],
+        [
+          "Q3",
+          "X1",
+          "M17",
+          "M4"
+        ],
+        [
+          "Q3",
+          "X1",
+          "M17",
+          "M6"
+        ],
+        [
+          "Q3",
+          "X1",
+          "M6",
+          "Y1"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "D4",
+          "D4"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "M17",
+          "D4"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "M17",
+          "M4"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "M17",
+          "M6"
+        ],
+        [
+          "Q3",
+          "X1",
+          "D21",
+          "M17",
+          "M6",
+          "D4"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Drt_2",
+      "type": "word",
+      "transliteration": "Drt",
+      "english_glosses": [
+        "hand",
+        "handful (as a measurement)",
+        "(part of a birdnet)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D46",
+          "X1"
+        ],
+        [
+          "D46",
+          "X1",
+          "M3"
+        ],
+        [
+          "M36",
+          "D21",
+          "X1"
+        ],
+        [
+          "U28",
+          "D21",
+          "X1"
+        ],
+        [
+          "M36",
+          "D21",
+          "X1",
+          "D46"
+        ],
+        [
+          "M36",
+          "D21",
+          "X1",
+          "G39"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hbswt_2",
+      "type": "word",
+      "transliteration": "Hbswt",
+      "english_glosses": [
+        "cloth"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "X1",
+          "G43"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "X1",
+          "G43"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hty_2",
+      "type": "word",
+      "transliteration": "Hty",
+      "english_glosses": [
+        "smoke",
+        "end piece of collar",
+        "necklace ?"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V28",
+          "X1"
+        ],
+        [
+          "F18",
+          "Y1",
+          "U33",
+          "M17"
+        ],
+        [
+          "V28",
+          "X1",
+          "M17",
+          "M17"
+        ],
+        [
+          "F18",
+          "Y1",
+          "U33",
+          "M17",
+          "X1"
+        ],
+        [
+          "V28",
+          "X1",
+          "Z7",
+          "M17",
+          "M17"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_kt_2",
+      "type": "word",
+      "transliteration": "kt",
+      "english_glosses": [
+        "other",
+        "pettiness",
+        "hardship"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V31",
+          "X1"
+        ],
+        [
+          "V31",
+          "X1",
+          "G43"
+        ],
+        [
+          "V31",
+          "X1",
+          "U33"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_At_2",
+      "type": "word",
+      "transliteration": "At",
+      "english_glosses": [
+        "moment",
+        "momento",
+        "strength"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G1",
+          "X1"
+        ],
+        [
+          "G1",
+          "X1",
+          "I3"
+        ],
+        [
+          "G1",
+          "X1",
+          "N5"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_twt_2",
+      "type": "word",
+      "transliteration": "twt",
+      "english_glosses": [
+        "statue",
+        "complete",
+        "assembled"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "X1",
+          "X1"
+        ],
+        [
+          "X1",
+          "Z7"
+        ],
+        [
+          "G43",
+          "X1",
+          "X1"
+        ],
+        [
+          "G43",
+          "X1",
+          "Y1"
+        ],
+        [
+          "X1",
+          "G43",
+          "X1"
+        ],
+        [
+          "X1",
+          "G43",
+          "Y1"
+        ],
+        [
+          "X1",
+          "X1",
+          "G43"
+        ],
+        [
+          "X1",
+          "X1",
+          "Y1"
+        ],
+        [
+          "X1",
+          "X1",
+          "Z7"
+        ],
+        [
+          "X1",
+          "Z7",
+          "D46"
+        ],
+        [
+          "X1",
+          "Z7",
+          "M17"
+        ],
+        [
+          "X1",
+          "Z7",
+          "X1"
+        ],
+        [
+          "X1",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "Z7",
+          "X1",
+          "Y1"
+        ],
+        [
+          "X1",
+          "G43",
+          "X1",
+          "Y1"
+        ],
+        [
+          "X1",
+          "X1",
+          "G43",
+          "Y1"
+        ],
+        [
+          "X1",
+          "Z7",
+          "X1",
+          "Y1"
+        ],
+        [
+          "Z7",
+          "X1",
+          "X1",
+          "Y1"
+        ],
+        [
+          "U33",
+          "Z7",
+          "X1",
+          "S33",
+          "S33"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_HAyt_2",
+      "type": "word",
+      "transliteration": "HAyt",
+      "english_glosses": [
+        "bandage",
+        "bandage (n.)",
+        "mourning"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M16",
+          "X1"
+        ],
+        [
+          "M16",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "M16",
+          "G1",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "M16",
+          "G1",
+          "M17",
+          "M17",
+          "X1",
+          "G39"
+        ],
+        [
+          "M16",
+          "G1",
+          "M17",
+          "M17",
+          "X1",
+          "Y1"
+        ],
+        [
+          "V28",
+          "M16",
+          "G1",
+          "M17",
+          "M17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mSrw_2",
+      "type": "word",
+      "transliteration": "mSrw",
+      "english_glosses": [
+        "evening",
+        "(a country name)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N37",
+          "E23"
+        ],
+        [
+          "N37",
+          "E23",
+          "N8"
+        ],
+        [
+          "G17",
+          "D36",
+          "N37",
+          "D21",
+          "G43"
+        ],
+        [
+          "G17",
+          "D36",
+          "N37",
+          "D21",
+          "E23",
+          "G43"
+        ],
+        [
+          "G17",
+          "D36",
+          "N37",
+          "D21",
+          "E23",
+          "Z7"
+        ],
+        [
+          "G17",
+          "D36",
+          "N37",
+          "D21",
+          "E23",
+          "G43",
+          "N8"
+        ],
+        [
+          "G17",
+          "D36",
+          "N37",
+          "D21",
+          "M17",
+          "Z7",
+          "E23"
+        ],
+        [
+          "G17",
+          "D36",
+          "N37",
+          "D21",
+          "M17",
+          "Z7",
+          "E23",
+          "M2"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_smAw_2",
+      "type": "word",
+      "transliteration": "smAw",
+      "english_glosses": [
+        "lungs ?",
+        "Companions {late egyptian}",
+        "branches (of tree)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "F36",
+          "G1"
+        ],
+        [
+          "F36",
+          "G43"
+        ],
+        [
+          "F36",
+          "Y1"
+        ],
+        [
+          "F36",
+          "F36",
+          "F36"
+        ],
+        [
+          "G39",
+          "G39",
+          "G39"
+        ],
+        [
+          "S29",
+          "U1",
+          "G43"
+        ],
+        [
+          "F36",
+          "G1",
+          "G17",
+          "G43"
+        ],
+        [
+          "F36",
+          "G1",
+          "G17",
+          "Z7"
+        ],
+        [
+          "F36",
+          "G1",
+          "G43",
+          "M3"
+        ],
+        [
+          "F36",
+          "G1",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "O34",
+          "U1",
+          "F36",
+          "G43"
+        ],
+        [
+          "O34",
+          "U1",
+          "G1",
+          "G17"
+        ],
+        [
+          "F36",
+          "G1",
+          "G17",
+          "Z7",
+          "O1"
+        ],
+        [
+          "F36",
+          "F36",
+          "F36",
+          "F36",
+          "F36",
+          "F36"
+        ],
+        [
+          "F36",
+          "F36",
+          "F36",
+          "H6",
+          "H6",
+          "H6"
+        ],
+        [
+          "F36",
+          "G1",
+          "G17",
+          "Z7",
+          "M17",
+          "M17",
+          "V19"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wDAw_2",
+      "type": "word",
+      "transliteration": "wDAw",
+      "english_glosses": [
+        "amulets",
+        "well-being",
+        "wellbeing"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G43",
+          "U28"
+        ],
+        [
+          "U28",
+          "G43"
+        ],
+        [
+          "G43",
+          "U28",
+          "G43",
+          "Y1"
+        ],
+        [
+          "G43",
+          "U28",
+          "G1",
+          "G43",
+          "Y1"
+        ],
+        [
+          "G43",
+          "U28",
+          "G1",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "G43",
+          "U28",
+          "G43",
+          "Z7",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_DAyt_2",
+      "type": "word",
+      "transliteration": "DAyt",
+      "english_glosses": [
+        "wrongdoing",
+        "robe",
+        "the Place where the dead meet Amon-Re"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "U28",
+          "X1"
+        ],
+        [
+          "U28",
+          "G1",
+          "G28"
+        ],
+        [
+          "U28",
+          "G1",
+          "Y1"
+        ],
+        [
+          "M17",
+          "U28",
+          "G1",
+          "V6"
+        ],
+        [
+          "U28",
+          "G1",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "U28",
+          "G1",
+          "M17",
+          "Z7",
+          "V6"
+        ],
+        [
+          "G43",
+          "U28",
+          "M17",
+          "M17",
+          "X1",
+          "O1"
+        ],
+        [
+          "U28",
+          "G1",
+          "M17",
+          "M17",
+          "X1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Tbw_2",
+      "type": "word",
+      "transliteration": "Tbw",
+      "english_glosses": [
+        "sandal maker",
+        "sandal-maker",
+        "sole (of foot)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S33",
+          "G43"
+        ],
+        [
+          "S33",
+          "Z7"
+        ],
+        [
+          "S33",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "X1",
+          "D58",
+          "Z7"
+        ],
+        [
+          "D46",
+          "D58",
+          "S33",
+          "S33"
+        ],
+        [
+          "V13",
+          "D58",
+          "G43",
+          "S33"
+        ],
+        [
+          "V13",
+          "D58",
+          "X1",
+          "S33"
+        ],
+        [
+          "V13",
+          "D58",
+          "Z7",
+          "V12"
+        ],
+        [
+          "U33",
+          "Z7",
+          "X1",
+          "S33",
+          "S33"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_dr_2",
+      "type": "word",
+      "transliteration": "dr",
+      "english_glosses": [
+        "remove (need",
+        "subdue (enemies)",
+        "lay down (flooring)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "D46",
+          "D21"
+        ],
+        [
+          "D46",
+          "D21",
+          "D36"
+        ],
+        [
+          "D46",
+          "D21",
+          "V6"
+        ],
+        [
+          "D46",
+          "D21",
+          "W2"
+        ],
+        [
+          "D46",
+          "D21",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_gw_2",
+      "type": "word",
+      "transliteration": "gw",
+      "english_glosses": [
+        "class of bull",
+        "(class of bull)",
+        "(unknown - part of a Title of the Treasury)"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "W11",
+          "G43"
+        ],
+        [
+          "W11",
+          "Z7"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mHt_2",
+      "type": "word",
+      "transliteration": "mHt",
+      "english_glosses": [
+        "the delta marshes",
+        "bowl",
+        "(boat part"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V22",
+          "X1"
+        ],
+        [
+          "V22",
+          "X1",
+          "W10"
+        ],
+        [
+          "V22",
+          "X1",
+          "W22"
+        ],
+        [
+          "V22",
+          "X1",
+          "X1"
+        ],
+        [
+          "G17",
+          "V22",
+          "X1",
+          "M3"
+        ],
+        [
+          "V22",
+          "D36",
+          "Z7",
+          "W22"
+        ],
+        [
+          "V22",
+          "V28",
+          "X1",
+          "D3"
+        ],
+        [
+          "V22",
+          "V28",
+          "X1",
+          "H6"
+        ],
+        [
+          "V22",
+          "X1",
+          "X1",
+          "W10"
+        ],
+        [
+          "V22",
+          "X1",
+          "X1",
+          "W22"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_nwt_2",
+      "type": "word",
+      "transliteration": "nwt",
+      "english_glosses": [
+        "Nut (sky - goddess)",
+        "Nut (goddess)",
+        "Nut"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "W24",
+          "X1"
+        ],
+        [
+          "W24",
+          "X1",
+          "N1"
+        ],
+        [
+          "W24",
+          "X1",
+          "N18"
+        ],
+        [
+          "W24",
+          "X1",
+          "O1"
+        ],
+        [
+          "W24",
+          "W24",
+          "W24",
+          "X1"
+        ],
+        [
+          "W24",
+          "W24",
+          "X1",
+          "N1"
+        ],
+        [
+          "W24",
+          "X1",
+          "N1",
+          "X1"
+        ],
+        [
+          "W24",
+          "X1",
+          "N1",
+          "Y1"
+        ],
+        [
+          "N35",
+          "N35",
+          "W24",
+          "Z7",
+          "M3"
+        ],
+        [
+          "W24",
+          "W24",
+          "W24",
+          "X1",
+          "N1"
+        ],
+        [
+          "W24",
+          "W24",
+          "X1",
+          "W24",
+          "N1"
+        ],
+        [
+          "W24",
+          "X1",
+          "N1",
+          "X1",
+          "N5"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_rdwy_2",
+      "type": "word",
+      "transliteration": "rdwy",
+      "english_glosses": [
+        "feet",
+        "(two) feet",
+        "two feet"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D56",
+          "D56"
+        ],
+        [
+          "D21",
+          "D46",
+          "D56"
+        ],
+        [
+          "D21",
+          "D56",
+          "D56"
+        ],
+        [
+          "D56",
+          "D56",
+          "Z7"
+        ],
+        [
+          "D21",
+          "D46",
+          "D56",
+          "D56"
+        ],
+        [
+          "D21",
+          "D46",
+          "D56",
+          "D56",
+          "G43"
+        ],
+        [
+          "D46",
+          "N35",
+          "I9",
+          "D56",
+          "D56"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_rr_2",
+      "type": "word",
+      "transliteration": "rr",
+      "english_glosses": [
+        "time",
+        "(a magic word)",
+        "pieces ?"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "E23",
+          "D21"
+        ],
+        [
+          "E23",
+          "E23"
+        ],
+        [
+          "M6",
+          "D21"
+        ],
+        [
+          "D21",
+          "D21",
+          "M6"
+        ],
+        [
+          "D21",
+          "M17",
+          "M6",
+          "N5"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mist_2",
+      "type": "word",
+      "transliteration": "mist",
+      "english_glosses": [
+        "liver"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O34",
+          "X1"
+        ],
+        [
+          "Q1",
+          "X1"
+        ],
+        [
+          "S29",
+          "X1"
+        ],
+        [
+          "W19",
+          "M17",
+          "S29",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mk_2",
+      "type": "word",
+      "transliteration": "mk",
+      "english_glosses": [
+        "behold",
+        "lo !",
+        "to protect"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "particle",
+      "valid_spellings": [
+        [
+          "G17",
+          "V31"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "V6"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "Y1"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "Z7"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "V22",
+          "Y1"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "Z7",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mny_2",
+      "type": "word",
+      "transliteration": "mny",
+      "english_glosses": [
+        "thighs",
+        "dual thighs",
+        "ruddle ?"
+      ],
+      "shortest_sign_count": 2,
+      "difficulty_tier": "easy",
+      "point_value": 1,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "Y5",
+          "N35"
+        ],
+        [
+          "Y5",
+          "N35",
+          "M17",
+          "M17"
+        ],
+        [
+          "Y5",
+          "N35",
+          "M17",
+          "M17",
+          "D56",
+          "D56"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_apr_3",
+      "type": "word",
+      "transliteration": "apr",
+      "english_glosses": [
+        "provide",
+        "an Asiatic people",
+        "vine Grower"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "Q3",
+          "Y1"
+        ],
+        [
+          "D36",
+          "Q3",
+          "D21",
+          "Y1"
+        ],
+        [
+          "D36",
+          "Q3",
+          "G43",
+          "D21"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_sSp_3",
+      "type": "word",
+      "transliteration": "sSp",
+      "english_glosses": [
+        "be white",
+        "make bright",
+        "light"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "G1",
+          "N37",
+          "Q3"
+        ],
+        [
+          "S29",
+          "O42",
+          "Q3"
+        ],
+        [
+          "S29",
+          "N37",
+          "Q3",
+          "N5"
+        ],
+        [
+          "S29",
+          "N37",
+          "Q3",
+          "N8"
+        ],
+        [
+          "S29",
+          "O42",
+          "Q3",
+          "N5",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xAyt_3",
+      "type": "word",
+      "transliteration": "xAyt",
+      "english_glosses": [
+        "disease",
+        "condition",
+        "slaughter"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M12",
+          "G1",
+          "X1"
+        ],
+        [
+          "M12",
+          "G1",
+          "M17",
+          "M17"
+        ],
+        [
+          "M12",
+          "G1",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "M12",
+          "G1",
+          "M17",
+          "X1",
+          "A15"
+        ],
+        [
+          "M12",
+          "G1",
+          "X1",
+          "M17",
+          "M17"
+        ],
+        [
+          "M12",
+          "M17",
+          "M17",
+          "X1",
+          "A15"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xAs_3",
+      "type": "word",
+      "transliteration": "xAs",
+      "english_glosses": [
+        "scramble ?",
+        "scramble (?)",
+        "creek ? runnel ?"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M12",
+          "G1",
+          "O34"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_nht_3",
+      "type": "word",
+      "transliteration": "nht",
+      "english_glosses": [
+        "sycamore tree",
+        "sycamore",
+        "tree in general"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N35",
+          "O4",
+          "G1"
+        ],
+        [
+          "N35",
+          "O4",
+          "G1",
+          "M1"
+        ],
+        [
+          "N35",
+          "O4",
+          "X1",
+          "M1"
+        ],
+        [
+          "N35",
+          "O4",
+          "X1",
+          "O1"
+        ],
+        [
+          "N35",
+          "O4",
+          "X1",
+          "W24"
+        ],
+        [
+          "N35",
+          "O4",
+          "X1",
+          "Y1"
+        ],
+        [
+          "N35",
+          "O4",
+          "G1",
+          "M1",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mkt_3",
+      "type": "word",
+      "transliteration": "mkt",
+      "english_glosses": [
+        "proper station (for standing)",
+        "thoracic spine",
+        "protection"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "V31",
+          "X1"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "O1"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "X1"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "Y1"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "X1",
+          "Q3"
+        ],
+        [
+          "G17",
+          "D36",
+          "V31",
+          "X1",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_qrf_3",
+      "type": "word",
+      "transliteration": "qrf",
+      "english_glosses": [
+        "bag",
+        "chest",
+        "{used in connection with sailing} (unknown)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N29",
+          "D21",
+          "I9"
+        ],
+        [
+          "N29",
+          "D21",
+          "I9",
+          "M3"
+        ],
+        [
+          "N29",
+          "D21",
+          "I9",
+          "V33"
+        ],
+        [
+          "N29",
+          "G1",
+          "D21",
+          "I9",
+          "M3"
+        ],
+        [
+          "N29",
+          "Z7",
+          "D21",
+          "I9",
+          "M3"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ftt_3",
+      "type": "word",
+      "transliteration": "ftt",
+      "english_glosses": [
+        "lint",
+        "obliterate (inscription)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "I9",
+          "X1",
+          "X1"
+        ],
+        [
+          "I9",
+          "X1",
+          "X1",
+          "F39"
+        ],
+        [
+          "I9",
+          "X1",
+          "X1",
+          "I10"
+        ],
+        [
+          "I9",
+          "X1",
+          "X1",
+          "Z7"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_pry_3",
+      "type": "word",
+      "transliteration": "pry",
+      "english_glosses": [
+        "hero",
+        "ferocious bull",
+        "House Servants"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O1",
+          "D21",
+          "X1"
+        ],
+        [
+          "Q3",
+          "D21",
+          "V12"
+        ],
+        [
+          "O1",
+          "D21",
+          "M17",
+          "M17"
+        ],
+        [
+          "Q3",
+          "D21",
+          "M17",
+          "M17",
+          "V6"
+        ],
+        [
+          "Q3",
+          "M17",
+          "M17",
+          "E23",
+          "V6"
+        ],
+        [
+          "O1",
+          "D21",
+          "Z7",
+          "M17",
+          "M17",
+          "O1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_sdb_3",
+      "type": "word",
+      "transliteration": "sdb",
+      "english_glosses": [
+        "chew",
+        "fringe (of cloth)",
+        "fringe of cloth"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "S29",
+          "D46",
+          "D58"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_swH_3",
+      "type": "word",
+      "transliteration": "swH",
+      "english_glosses": [
+        "wind",
+        "the wind",
+        "loincloth"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S29",
+          "G43",
+          "V28"
+        ],
+        [
+          "S29",
+          "G43",
+          "V28",
+          "P5"
+        ],
+        [
+          "S29",
+          "Z7",
+          "V28",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Sbt_3",
+      "type": "word",
+      "transliteration": "Sbt",
+      "english_glosses": [
+        "value",
+        "necklace",
+        "gourds"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N37",
+          "D58",
+          "X1"
+        ],
+        [
+          "N37",
+          "D58",
+          "M17",
+          "M17"
+        ],
+        [
+          "N37",
+          "D58",
+          "X1",
+          "M1"
+        ],
+        [
+          "N37",
+          "D58",
+          "X1",
+          "W24"
+        ],
+        [
+          "N37",
+          "D58",
+          "X1",
+          "Y1"
+        ],
+        [
+          "N37",
+          "D58",
+          "M17",
+          "M17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_bnn_3",
+      "type": "word",
+      "transliteration": "bnn",
+      "english_glosses": [
+        "beget",
+        "vb. 2gem. beget",
+        "become erect (of male)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "D58",
+          "N35",
+          "N35"
+        ],
+        [
+          "D58",
+          "S3",
+          "N35"
+        ],
+        [
+          "G29",
+          "N35",
+          "N35"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_hrt_3",
+      "type": "word",
+      "transliteration": "hrt",
+      "english_glosses": [
+        "peace",
+        "(a fabric)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O4",
+          "D21",
+          "X1"
+        ],
+        [
+          "O4",
+          "D21",
+          "X1",
+          "V6"
+        ],
+        [
+          "O4",
+          "D21",
+          "X1",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ifdy_3",
+      "type": "word",
+      "transliteration": "ifdy",
+      "english_glosses": [
+        "couch",
+        "cloth"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "I9",
+          "D46"
+        ],
+        [
+          "M17",
+          "I9",
+          "D46",
+          "V6",
+          "M3",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_inbt_3",
+      "type": "word",
+      "transliteration": "inbt",
+      "english_glosses": [
+        "fence",
+        "fort",
+        "an animal skin (apron)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "X1",
+          "D58"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "D58",
+          "X1",
+          "M2"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "D58",
+          "X1",
+          "M3"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "D58",
+          "X1",
+          "N25"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "D58",
+          "X1",
+          "O36"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "X1",
+          "N25",
+          "O36"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "D58",
+          "Z7",
+          "O36",
+          "X1",
+          "N25"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_kApt_3",
+      "type": "word",
+      "transliteration": "kApt",
+      "english_glosses": [
+        "Kyphi",
+        "incense",
+        "linen cover (of jar)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "Q3",
+          "X1",
+          "S29"
+        ],
+        [
+          "R5",
+          "Q3",
+          "X1"
+        ],
+        [
+          "R5",
+          "Q3",
+          "Z7"
+        ],
+        [
+          "V31",
+          "G1",
+          "Q3",
+          "X1",
+          "R5",
+          "R5",
+          "R5"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xAwy_3",
+      "type": "word",
+      "transliteration": "xAwy",
+      "english_glosses": [
+        "night",
+        "benighted traveller",
+        "a medicinal drink (spat out straight after drinking)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M12",
+          "G1",
+          "G43"
+        ],
+        [
+          "M12",
+          "G1",
+          "Z7"
+        ],
+        [
+          "M12",
+          "G1",
+          "G43",
+          "W22"
+        ],
+        [
+          "M12",
+          "G1",
+          "Z7",
+          "W22"
+        ],
+        [
+          "M12",
+          "G1",
+          "Z7",
+          "Y1"
+        ],
+        [
+          "M12",
+          "M12",
+          "G1",
+          "Z7"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Sbb_3",
+      "type": "word",
+      "transliteration": "Sbb",
+      "english_glosses": [
+        "gullet",
+        "knead (bread in brewing)",
+        "knead bread in brewing"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N37",
+          "D58",
+          "D58"
+        ],
+        [
+          "N37",
+          "D58",
+          "D58",
+          "D36"
+        ],
+        [
+          "N37",
+          "D58",
+          "D58",
+          "M2"
+        ],
+        [
+          "N37",
+          "D58",
+          "D58",
+          "Y1"
+        ],
+        [
+          "N37",
+          "D58",
+          "D58",
+          "M17",
+          "M17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_bik_3",
+      "type": "word",
+      "transliteration": "bik",
+      "english_glosses": [
+        "falcon",
+        "'falcon' ship (of the king)",
+        "‘falcon’-ship of king"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D58",
+          "M17",
+          "V31"
+        ],
+        [
+          "D58",
+          "M17",
+          "G43",
+          "V31"
+        ],
+        [
+          "D58",
+          "Z7",
+          "V31",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_iart_3",
+      "type": "word",
+      "transliteration": "iart",
+      "english_glosses": [
+        "uraeus",
+        "abode (of god)",
+        "abode of god"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "D21",
+          "X1"
+        ],
+        [
+          "D36",
+          "D36",
+          "D21",
+          "X1"
+        ],
+        [
+          "M17",
+          "D36",
+          "D21",
+          "X1"
+        ],
+        [
+          "M17",
+          "D36",
+          "D21",
+          "D36",
+          "X1"
+        ],
+        [
+          "M17",
+          "D36",
+          "D21",
+          "X1",
+          "O1"
+        ],
+        [
+          "M17",
+          "D36",
+          "D21",
+          "D36",
+          "D21",
+          "G43",
+          "X1",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ifd_3",
+      "type": "word",
+      "transliteration": "ifd",
+      "english_glosses": [
+        "quadruple",
+        "quadruple (vb.)",
+        "flee"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "I9",
+          "D46"
+        ],
+        [
+          "M17",
+          "I9",
+          "D46",
+          "D36"
+        ],
+        [
+          "M17",
+          "I9",
+          "D46",
+          "D56"
+        ],
+        [
+          "M17",
+          "I9",
+          "D46",
+          "S32"
+        ],
+        [
+          "M17",
+          "I9",
+          "D46",
+          "V6"
+        ],
+        [
+          "M17",
+          "I9",
+          "D46",
+          "M17",
+          "M17",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_HAti_3",
+      "type": "word",
+      "transliteration": "HAti",
+      "english_glosses": [
+        "cloudiness (of sky)",
+        "haze",
+        "cloudiness of sky"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V28",
+          "G1",
+          "X1"
+        ],
+        [
+          "M16",
+          "G1",
+          "X1",
+          "D4"
+        ],
+        [
+          "V28",
+          "G1",
+          "U33",
+          "M17"
+        ],
+        [
+          "M16",
+          "G1",
+          "U33",
+          "M17",
+          "N4"
+        ],
+        [
+          "M16",
+          "G1",
+          "X1",
+          "N4",
+          "D4"
+        ],
+        [
+          "V28",
+          "M16",
+          "G1",
+          "U33",
+          "M17"
+        ],
+        [
+          "V28",
+          "M16",
+          "G1",
+          "U33",
+          "M17",
+          "N4"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_knt_3",
+      "type": "word",
+      "transliteration": "knt",
+      "english_glosses": [
+        "dislike (of someone)",
+        "dislike",
+        "dislike (?) of someone"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V31",
+          "N35",
+          "X1"
+        ],
+        [
+          "V31",
+          "G1",
+          "D21",
+          "U33",
+          "M17",
+          "V6"
+        ],
+        [
+          "V31",
+          "G1",
+          "N35",
+          "G1",
+          "U33",
+          "M17",
+          "G1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Snp_3",
+      "type": "word",
+      "transliteration": "Snp",
+      "english_glosses": [
+        "garment ? (worn by vizier)",
+        "garment (?) worn by vizier",
+        "reed mat"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N37",
+          "N35",
+          "Q3"
+        ],
+        [
+          "N37",
+          "N35",
+          "Q3",
+          "M2"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hnw_3",
+      "type": "word",
+      "transliteration": "Hnw",
+      "english_glosses": [
+        "bowl",
+        "jar",
+        "chattel"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V28",
+          "N35",
+          "M17"
+        ],
+        [
+          "V28",
+          "N35",
+          "W24"
+        ],
+        [
+          "V28",
+          "M2",
+          "W24",
+          "G43"
+        ],
+        [
+          "V28",
+          "W24",
+          "W24",
+          "W24"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "G43",
+          "W10"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "W24",
+          "Z7"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "O28",
+          "G43",
+          "Y1"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "W24",
+          "G43",
+          "M2"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "W24",
+          "G43",
+          "W22"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "W24",
+          "G43",
+          "Y1"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "W24",
+          "Z7",
+          "V6"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "W24",
+          "Z7",
+          "W22"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "W24",
+          "Z7",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_dmAt_3",
+      "type": "word",
+      "transliteration": "dmAt",
+      "english_glosses": [
+        "wing",
+        "container",
+        "(unknown) {used in connection with the dismembered parts of Osiris}"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D46",
+          "U1",
+          "X1"
+        ],
+        [
+          "D46",
+          "U1",
+          "G1",
+          "X1",
+          "D3"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Art_3",
+      "type": "word",
+      "transliteration": "Art",
+      "english_glosses": [
+        "heaven",
+        "(unknown)"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G1",
+          "D21",
+          "X1"
+        ],
+        [
+          "G1",
+          "D21",
+          "X1",
+          "N1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ssf_3",
+      "type": "word",
+      "transliteration": "ssf",
+      "english_glosses": [
+        "soothe",
+        "caus. soothe",
+        "fabric (narrow ?"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S29",
+          "O34",
+          "I9"
+        ],
+        [
+          "S29",
+          "S29",
+          "I9"
+        ],
+        [
+          "O34",
+          "O34",
+          "I9",
+          "D19"
+        ],
+        [
+          "S29",
+          "O34",
+          "I9",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mar_3",
+      "type": "word",
+      "transliteration": "mar",
+      "english_glosses": [
+        "fortunate",
+        "gown"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "adjective",
+      "valid_spellings": [
+        [
+          "G17",
+          "D36",
+          "D21"
+        ],
+        [
+          "G17",
+          "D36",
+          "D21",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_stny_3",
+      "type": "word",
+      "transliteration": "stny",
+      "english_glosses": [
+        "crown (king)",
+        "caus. crown king"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O34",
+          "X1",
+          "N35"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner"
+      ]
+    },
+    {
+      "card_id": "word_gsA_3",
+      "type": "word",
+      "transliteration": "gsA",
+      "english_glosses": [
+        "Apollonopolis",
+        "Apollonopolis (Kus)",
+        "tilt"
+      ],
+      "shortest_sign_count": 3,
+      "difficulty_tier": "medium-easy",
+      "point_value": 2,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "W11",
+          "G1",
+          "S29"
+        ],
+        [
+          "W11",
+          "S29",
+          "G1"
+        ],
+        [
+          "V33",
+          "V33",
+          "S29",
+          "O49"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wrrt_4",
+      "type": "word",
+      "transliteration": "wrrt",
+      "english_glosses": [
+        "crown",
+        "(double) crown",
+        "Great One"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G36",
+          "D21",
+          "D21",
+          "X1"
+        ],
+        [
+          "G36",
+          "D21",
+          "D21",
+          "X1",
+          "M3"
+        ],
+        [
+          "G36",
+          "D21",
+          "D21",
+          "X1",
+          "S1"
+        ],
+        [
+          "G36",
+          "D21",
+          "D21",
+          "X1",
+          "S3"
+        ],
+        [
+          "G36",
+          "D21",
+          "D21",
+          "X1",
+          "S6"
+        ],
+        [
+          "S1",
+          "G36",
+          "D21",
+          "D21",
+          "X1",
+          "S3"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Aqs_4",
+      "type": "word",
+      "transliteration": "Aqs",
+      "english_glosses": [
+        "a type of garment",
+        "(a garment)",
+        "(unknown)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G1",
+          "N29",
+          "S29",
+          "D56"
+        ],
+        [
+          "G1",
+          "N29",
+          "S29",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_afnt_4",
+      "type": "word",
+      "transliteration": "afnt",
+      "english_glosses": [
+        "royal head - cloth",
+        "royal headcloth",
+        "veil"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "I9",
+          "N35",
+          "V6"
+        ],
+        [
+          "D36",
+          "I9",
+          "N35",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_smdt_4",
+      "type": "word",
+      "transliteration": "smdt",
+      "english_glosses": [
+        "subjects",
+        "coll. subjects",
+        "personnel {ancient misspelling}"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S29",
+          "G17",
+          "D46",
+          "X1"
+        ],
+        [
+          "S29",
+          "G17",
+          "D46",
+          "X1",
+          "M3"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hnkyt_4",
+      "type": "word",
+      "transliteration": "Hnkyt",
+      "english_glosses": [
+        "bed",
+        "bed linen",
+        "bedroom"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V28",
+          "N35",
+          "V31",
+          "X1"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "V31",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "V31",
+          "M17",
+          "M17",
+          "X1",
+          "O1"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "V31",
+          "M17",
+          "M17",
+          "X1",
+          "V6",
+          "O1"
+        ],
+        [
+          "V28",
+          "M2",
+          "N35",
+          "V31",
+          "M17",
+          "M17",
+          "X1",
+          "X1",
+          "V6",
+          "O1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Tnfyt_4",
+      "type": "word",
+      "transliteration": "Tnfyt",
+      "english_glosses": [
+        "sail",
+        "sail (?) (n.)",
+        "sack"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V13",
+          "N35",
+          "I9",
+          "V6"
+        ],
+        [
+          "V13",
+          "N35",
+          "I9",
+          "M17",
+          "M17",
+          "V6"
+        ],
+        [
+          "V13",
+          "N35",
+          "I9",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "V13",
+          "N35",
+          "I9",
+          "M17",
+          "M17",
+          "X1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_aDnt_4",
+      "type": "word",
+      "transliteration": "aDnt",
+      "english_glosses": [
+        "armband",
+        "armlet (?)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "I10",
+          "N35",
+          "X1"
+        ],
+        [
+          "D36",
+          "I10",
+          "O49",
+          "X1"
+        ],
+        [
+          "D36",
+          "I10",
+          "N35",
+          "X1",
+          "W10"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hbsw_4",
+      "type": "word",
+      "transliteration": "Hbsw",
+      "english_glosses": [
+        "bundle ?",
+        "bundle (?)",
+        "deception ?"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V28",
+          "D58",
+          "S29",
+          "G43"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "V6"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "Z7"
+        ],
+        [
+          "V28",
+          "D58",
+          "S29",
+          "M17",
+          "M17",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wryt_4",
+      "type": "word",
+      "transliteration": "wryt",
+      "english_glosses": [
+        "door posts",
+        "door-posts",
+        "cloth for straining liquids"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G36",
+          "D21",
+          "X1",
+          "O1"
+        ],
+        [
+          "G36",
+          "D21",
+          "G43",
+          "X1",
+          "O1"
+        ],
+        [
+          "G36",
+          "D21",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "G36",
+          "D21",
+          "M17",
+          "M17",
+          "X1",
+          "M3"
+        ],
+        [
+          "G36",
+          "D21",
+          "M17",
+          "M17",
+          "X1",
+          "O1"
+        ],
+        [
+          "G36",
+          "D21",
+          "M17",
+          "M17",
+          "X1",
+          "M1",
+          "M1",
+          "M1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_whnn_4",
+      "type": "word",
+      "transliteration": "whnn",
+      "english_glosses": [
+        "crown (of head)",
+        "crown of head",
+        "(part of fish)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G43",
+          "O4",
+          "N35",
+          "N35"
+        ],
+        [
+          "G43",
+          "O4",
+          "N35",
+          "N35",
+          "D1"
+        ],
+        [
+          "Z7",
+          "O4",
+          "N35",
+          "N35",
+          "D1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_andt_4",
+      "type": "word",
+      "transliteration": "andt",
+      "english_glosses": [
+        "the few (of people)",
+        "the few",
+        "jar"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "N35",
+          "D46",
+          "X1"
+        ],
+        [
+          "D36",
+          "N35",
+          "D46",
+          "X1",
+          "V6"
+        ],
+        [
+          "D36",
+          "N35",
+          "D46",
+          "M17",
+          "M17",
+          "X1",
+          "W24"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_nbit_4",
+      "type": "word",
+      "transliteration": "nbit",
+      "english_glosses": [
+        "flaming one (of Uraeus)",
+        "flaming one {epithet of uraeus}",
+        "flaming one"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N35",
+          "D58",
+          "M17",
+          "X1"
+        ],
+        [
+          "N35",
+          "D58",
+          "M17",
+          "X1",
+          "T19"
+        ],
+        [
+          "N35",
+          "D58",
+          "M17",
+          "X1",
+          "T19",
+          "M2"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Tnft_4",
+      "type": "word",
+      "transliteration": "Tnft",
+      "english_glosses": [
+        "bag",
+        "container"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V13",
+          "N35",
+          "I9",
+          "X1"
+        ],
+        [
+          "V13",
+          "N35",
+          "I9",
+          "X1",
+          "W22"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_qrft_4",
+      "type": "word",
+      "transliteration": "qrft",
+      "english_glosses": [
+        "bag",
+        "contractions (medical)",
+        "contractions"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N29",
+          "D21",
+          "I9",
+          "X1"
+        ],
+        [
+          "N29",
+          "D21",
+          "I9",
+          "X1",
+          "V33"
+        ],
+        [
+          "N29",
+          "D21",
+          "I9",
+          "X1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_irt_Snbt_4",
+      "type": "word",
+      "transliteration": "irt Snbt",
+      "english_glosses": [
+        "pectoral"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "D21",
+          "X1",
+          "X1"
+        ],
+        [
+          "M17",
+          "D21",
+          "X1",
+          "Y1",
+          "V7",
+          "N35",
+          "D58",
+          "X1"
+        ],
+        [
+          "M17",
+          "D21",
+          "A47",
+          "X1",
+          "Y1",
+          "V7",
+          "N35",
+          "D58",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ssfw_4",
+      "type": "word",
+      "transliteration": "ssfw",
+      "english_glosses": [
+        "garments",
+        "garments (?)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O34",
+          "O34",
+          "I9",
+          "G43"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_sbit_4",
+      "type": "word",
+      "transliteration": "sbit",
+      "english_glosses": [
+        "uraeus snake",
+        "rebels",
+        "coll. rebels"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S29",
+          "D58",
+          "M17",
+          "X1"
+        ],
+        [
+          "S29",
+          "D58",
+          "M17",
+          "X1",
+          "W10",
+          "F18"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_hmhm_4",
+      "type": "word",
+      "transliteration": "hmhm",
+      "english_glosses": [
+        "roar",
+        "bellow (of bull)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "O4",
+          "G17",
+          "O4",
+          "G17"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_HATt_4",
+      "type": "word",
+      "transliteration": "HATt",
+      "english_glosses": [
+        "apron"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M16",
+          "V13",
+          "X1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_pdr_4",
+      "type": "word",
+      "transliteration": "pdr",
+      "english_glosses": [
+        "fat ?"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "Q3",
+          "D46",
+          "D21",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Tpnt_4",
+      "type": "word",
+      "transliteration": "Tpnt",
+      "english_glosses": [
+        "fabric"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V13",
+          "Q3",
+          "N35",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_arat_4",
+      "type": "word",
+      "transliteration": "arat",
+      "english_glosses": [
+        "uraeus"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "D21",
+          "D36",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_iart_-or-_aart_4",
+      "type": "word",
+      "transliteration": "iart / aart",
+      "english_glosses": [
+        "uraeus"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "D36",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_intt_4",
+      "type": "word",
+      "transliteration": "intt",
+      "english_glosses": [
+        "uraeus"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "K1",
+          "N35",
+          "X1",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_istn_4",
+      "type": "word",
+      "transliteration": "istn",
+      "english_glosses": [
+        "(a god",
+        "belt"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "S29",
+          "X1",
+          "N35"
+        ],
+        [
+          "M17",
+          "S29",
+          "X1",
+          "N35",
+          "W24",
+          "Z7"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mtft_4",
+      "type": "word",
+      "transliteration": "mtft",
+      "english_glosses": [
+        "sheath"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "X1",
+          "I9",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_pyr_-or-_rry_4",
+      "type": "word",
+      "transliteration": "pyr / rry",
+      "english_glosses": [
+        "bandage"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D21",
+          "D21",
+          "E23",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hbst_4",
+      "type": "word",
+      "transliteration": "Hbst",
+      "english_glosses": [
+        "jewellery"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V28",
+          "D58",
+          "S29",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Ssmt_4",
+      "type": "word",
+      "transliteration": "Ssmt",
+      "english_glosses": [
+        "malachite"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V6",
+          "O34",
+          "G17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_sart_4",
+      "type": "word",
+      "transliteration": "sart",
+      "english_glosses": [
+        "reduction"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S29",
+          "D36",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_hAdrt_4",
+      "type": "word",
+      "transliteration": "hAdrt",
+      "english_glosses": [
+        "a pectoral"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O4",
+          "D46",
+          "D21",
+          "X1"
+        ],
+        [
+          "O4",
+          "G1",
+          "D46",
+          "D21",
+          "X1"
+        ],
+        [
+          "O4",
+          "G1",
+          "I10",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_sfrt_4",
+      "type": "word",
+      "transliteration": "sfrt",
+      "english_glosses": [
+        "fine linen"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S29",
+          "I9",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mdAm_-or-_mdA_4",
+      "type": "word",
+      "transliteration": "mdAm / mdA",
+      "english_glosses": [
+        "narrow belt"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "D46",
+          "G1",
+          "G17"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_bsAw_4",
+      "type": "word",
+      "transliteration": "bsAw",
+      "english_glosses": [
+        "beaded apron"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D58",
+          "O34",
+          "G1",
+          "G43"
+        ],
+        [
+          "D58",
+          "S29",
+          "G1",
+          "G43"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xrr_4",
+      "type": "word",
+      "transliteration": "xrr",
+      "english_glosses": [
+        "dead (person)",
+        "(a silvery white mineral)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M12",
+          "G1",
+          "D21",
+          "D21"
+        ],
+        [
+          "M12",
+          "G1",
+          "E23",
+          "E23"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_msnt_4",
+      "type": "word",
+      "transliteration": "msnt",
+      "english_glosses": [
+        "foundation pit"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "O34",
+          "N35",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_swrt_4",
+      "type": "word",
+      "transliteration": "swrt",
+      "english_glosses": [
+        "drink supply ?",
+        "a bead"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "S29",
+          "G36",
+          "D21",
+          "X1"
+        ],
+        [
+          "O34",
+          "G36",
+          "D21",
+          "X1",
+          "W22"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_aprw_4",
+      "type": "word",
+      "transliteration": "aprw",
+      "english_glosses": [
+        "an Asiatic people",
+        "vine Growers"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "Q3",
+          "G43",
+          "D21"
+        ],
+        [
+          "D36",
+          "Q3",
+          "D21",
+          "G43",
+          "T14"
+        ],
+        [
+          "D36",
+          "Q3",
+          "Z7",
+          "D21",
+          "T14"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_iwaw_-or-_awaw_4",
+      "type": "word",
+      "transliteration": "iwaw / awaw",
+      "english_glosses": [
+        "ring (bestowed as an honour)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "G43",
+          "D36",
+          "G43"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_gAst_4",
+      "type": "word",
+      "transliteration": "gAst",
+      "english_glosses": [
+        "rosette shaped jewellery (with plant motif)",
+        "(unknown)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "W11",
+          "G1",
+          "S29",
+          "X1"
+        ],
+        [
+          "W11",
+          "G1",
+          "S29",
+          "X1",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wbnt_4",
+      "type": "word",
+      "transliteration": "wbnt",
+      "english_glosses": [
+        "(name given to the bandage around the mummy's forehead)",
+        "(a name of Hathor)",
+        "(name of 1st hour of the day)"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G43",
+          "D58",
+          "N35",
+          "X1"
+        ],
+        [
+          "W24",
+          "W24",
+          "N8",
+          "X1"
+        ],
+        [
+          "G43",
+          "D58",
+          "N35",
+          "X1",
+          "N5"
+        ],
+        [
+          "W24",
+          "W24",
+          "N8",
+          "X1",
+          "N5"
+        ],
+        [
+          "G43",
+          "D58",
+          "N35",
+          "N5",
+          "X1",
+          "V6"
+        ],
+        [
+          "G43",
+          "D58",
+          "N35",
+          "X1",
+          "N5",
+          "O1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_nrt_4",
+      "type": "word",
+      "transliteration": "nrt",
+      "english_glosses": [
+        "vulture"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N35",
+          "D21",
+          "X1",
+          "G14"
+        ],
+        [
+          "N35",
+          "D21",
+          "X1",
+          "G39"
+        ],
+        [
+          "N35",
+          "D21",
+          "M17",
+          "X1",
+          "H4",
+          "G41"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_swHt_4",
+      "type": "word",
+      "transliteration": "swHt",
+      "english_glosses": [
+        "egg",
+        "coffin",
+        "shroud"
+      ],
+      "shortest_sign_count": 4,
+      "difficulty_tier": "medium",
+      "point_value": 4,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M23",
+          "Z7",
+          "V28",
+          "X1"
+        ],
+        [
+          "O34",
+          "G43",
+          "V28",
+          "X1"
+        ],
+        [
+          "S29",
+          "G43",
+          "V28",
+          "X1"
+        ],
+        [
+          "S29",
+          "V28",
+          "G43",
+          "X1"
+        ],
+        [
+          "S29",
+          "V28",
+          "Z7",
+          "X1"
+        ],
+        [
+          "S29",
+          "Z7",
+          "V28",
+          "X1"
+        ],
+        [
+          "S29",
+          "Z7",
+          "X1",
+          "V28"
+        ],
+        [
+          "S29",
+          "G43",
+          "V28",
+          "X1",
+          "M3"
+        ],
+        [
+          "S29",
+          "G43",
+          "V28",
+          "X1",
+          "V6"
+        ],
+        [
+          "S29",
+          "Z7",
+          "V28",
+          "Z7",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mnkrt_5",
+      "type": "word",
+      "transliteration": "mnkrt",
+      "english_glosses": [
+        "bull's tail (worn by king)",
+        "bull’s tail worn by king"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "Y5",
+          "N35",
+          "V31",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_npnpt_5",
+      "type": "word",
+      "transliteration": "npnpt",
+      "english_glosses": [
+        "hem"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N35",
+          "Q3",
+          "N35",
+          "Q3",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_inst_5",
+      "type": "word",
+      "transliteration": "inst",
+      "english_glosses": [
+        "calf (of leg)",
+        "leather strap",
+        "calf of leg"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "K1",
+          "N35",
+          "S29",
+          "X1"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "O34",
+          "D56",
+          "D56"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "O34",
+          "X1",
+          "D56"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "S29",
+          "X1",
+          "D56"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "S29",
+          "X1",
+          "F25"
+        ],
+        [
+          "M17",
+          "K1",
+          "N35",
+          "S29",
+          "X1",
+          "M2"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_rnnwtt_5",
+      "type": "word",
+      "transliteration": "rnnwtt",
+      "english_glosses": [
+        "Renenutet (the Harvest- goddess)",
+        "name of the ninth month",
+        "Renenutet"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D21",
+          "N35",
+          "G43",
+          "X1",
+          "X1"
+        ],
+        [
+          "D21",
+          "N35",
+          "W24",
+          "X1",
+          "X1"
+        ],
+        [
+          "D21",
+          "N35",
+          "X1",
+          "W24",
+          "X1"
+        ],
+        [
+          "D21",
+          "N35",
+          "Z7",
+          "X1",
+          "X1"
+        ],
+        [
+          "D21",
+          "W24",
+          "G43",
+          "X1",
+          "X1"
+        ],
+        [
+          "D21",
+          "N35",
+          "N35",
+          "W24",
+          "G43",
+          "X1",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_fAy_5",
+      "type": "word",
+      "transliteration": "fAy",
+      "english_glosses": [
+        "rope"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "I9",
+          "G1",
+          "M17",
+          "M17",
+          "M2"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_qrti_5",
+      "type": "word",
+      "transliteration": "qrti",
+      "english_glosses": [
+        "ring"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N29",
+          "G1",
+          "D21",
+          "U33",
+          "M17"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mk_-or-_mkw_5",
+      "type": "word",
+      "transliteration": "mk / mkw",
+      "english_glosses": [
+        "linen"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "D36",
+          "V31",
+          "Z7",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_arart_5",
+      "type": "word",
+      "transliteration": "arart",
+      "english_glosses": [
+        "uraeus"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D36",
+          "D21",
+          "D36",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_irt_Drty_5",
+      "type": "word",
+      "transliteration": "irt Drty",
+      "english_glosses": [
+        "armband"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "D21",
+          "X1",
+          "D46",
+          "D46"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_irt_awy_5",
+      "type": "word",
+      "transliteration": "irt awy",
+      "english_glosses": [
+        "armband"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "D21",
+          "X1",
+          "D36",
+          "D36"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wxAti_5",
+      "type": "word",
+      "transliteration": "wxAti",
+      "english_glosses": [
+        "sandals"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G43",
+          "M12",
+          "G1",
+          "S33",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Tstn_5",
+      "type": "word",
+      "transliteration": "Tstn",
+      "english_glosses": [
+        "clothing"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "V13",
+          "S29",
+          "X1",
+          "N35",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mTpnt_5",
+      "type": "word",
+      "transliteration": "mTpnt",
+      "english_glosses": [
+        "an amulet"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "V13",
+          "Q3",
+          "N35",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_irt_rdwy_5",
+      "type": "word",
+      "transliteration": "irt rdwy",
+      "english_glosses": [
+        "ankle band"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "D21",
+          "X1",
+          "D56",
+          "D56"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mDAyt_5",
+      "type": "word",
+      "transliteration": "mDAyt",
+      "english_glosses": [
+        "(a fabric)",
+        "Medja serving Maid"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "U28",
+          "M17",
+          "M17",
+          "X1"
+        ],
+        [
+          "G17",
+          "D36",
+          "U28",
+          "G1",
+          "M17",
+          "M17",
+          "X1",
+          "V6",
+          "Y1",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ishA_5",
+      "type": "word",
+      "transliteration": "ishA",
+      "english_glosses": [
+        "loose sleeve"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "S29",
+          "O4",
+          "G1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_sSnt_5",
+      "type": "word",
+      "transliteration": "sSnt",
+      "english_glosses": [
+        "papyrus stalk",
+        "papyrus pond",
+        "basketwork"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O34",
+          "N37",
+          "N35",
+          "X1",
+          "T14"
+        ],
+        [
+          "O34",
+          "N37",
+          "N35",
+          "X1",
+          "V6"
+        ],
+        [
+          "O34",
+          "N37",
+          "N35",
+          "X1",
+          "T19",
+          "O1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_ifd_-or-_ift_5",
+      "type": "word",
+      "transliteration": "ifd / ift",
+      "english_glosses": [
+        "four-sided linen"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "I9",
+          "X1",
+          "Z7",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_wrry_5",
+      "type": "word",
+      "transliteration": "wrry",
+      "english_glosses": [
+        "blue broad collar"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G36",
+          "D21",
+          "D21",
+          "M17",
+          "M17"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mfiwt_5",
+      "type": "word",
+      "transliteration": "mfiwt",
+      "english_glosses": [
+        "(arm or leg) band ??"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "I9",
+          "M17",
+          "G43",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_xAbyt_5",
+      "type": "word",
+      "transliteration": "xAbyt",
+      "english_glosses": [
+        "vulture shaped chest jewellery"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M12",
+          "D58",
+          "M17",
+          "M17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mss_n_aHA_5",
+      "type": "word",
+      "transliteration": "mss n aHA",
+      "english_glosses": [
+        "mail - shirt",
+        "shirt of mail",
+        "mailshirt"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "F31",
+          "S29",
+          "S29",
+          "N35",
+          "D34"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_SASAt_5",
+      "type": "word",
+      "transliteration": "SASAt",
+      "english_glosses": [
+        "bosom",
+        "necklace"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M8",
+          "G1",
+          "M8",
+          "G1",
+          "X1"
+        ],
+        [
+          "M8",
+          "G1",
+          "M8",
+          "G1",
+          "X1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Dickson",
+        "Faulkner"
+      ]
+    },
+    {
+      "card_id": "word_dbHt_5",
+      "type": "word",
+      "transliteration": "dbHt",
+      "english_glosses": [
+        "necessaries",
+        "tanning vat (for leatherworker)"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D46",
+          "D58",
+          "V28",
+          "X1",
+          "F18"
+        ],
+        [
+          "D46",
+          "F18",
+          "D58",
+          "V28",
+          "X1"
+        ],
+        [
+          "D46",
+          "F18",
+          "D58",
+          "V28",
+          "X1",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_qbAt_5",
+      "type": "word",
+      "transliteration": "qbAt",
+      "english_glosses": [
+        "crown (of head)",
+        "crown of head"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "N29",
+          "D58",
+          "G1",
+          "X1",
+          "F16"
+        ]
+      ],
+      "sources": [
+        "Faulkner",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Hwwt_nt_5",
+      "type": "word",
+      "transliteration": "Hwwt nt",
+      "english_glosses": [
+        "Mansions of the Red Crown"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "O6",
+          "O6",
+          "O6",
+          "N35",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Lexicon",
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mstw_5",
+      "type": "word",
+      "transliteration": "mstw",
+      "english_glosses": [
+        "bag"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G17",
+          "S29",
+          "X1",
+          "F29",
+          "G43"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_msst_5",
+      "type": "word",
+      "transliteration": "msst",
+      "english_glosses": [
+        "tunic"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "F31",
+          "S29",
+          "S29",
+          "X1",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mstrt_5",
+      "type": "word",
+      "transliteration": "mstrt",
+      "english_glosses": [
+        "fabric"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "F31",
+          "S29",
+          "X1",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_mstrt_-or-_msTr_5",
+      "type": "word",
+      "transliteration": "mstrt / msTr",
+      "english_glosses": [
+        "fabric"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "F31",
+          "S29",
+          "V13",
+          "D21",
+          "X1"
+        ],
+        [
+          "G17",
+          "S29",
+          "V13",
+          "D21",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_krs_5",
+      "type": "word",
+      "transliteration": "krs",
+      "english_glosses": [
+        "to skip"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "verb",
+      "valid_spellings": [
+        [
+          "V31",
+          "G1",
+          "D21",
+          "M23",
+          "Z7"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_DbAyt_5",
+      "type": "word",
+      "transliteration": "DbAyt",
+      "english_glosses": [
+        "clothing"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "T25",
+          "G1",
+          "M17",
+          "M17",
+          "X1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_Sqw_5",
+      "type": "word",
+      "transliteration": "Sqw",
+      "english_glosses": [
+        "earrings"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M8",
+          "G1",
+          "N29",
+          "Z7",
+          "S20"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_bndw_5",
+      "type": "word",
+      "transliteration": "bndw",
+      "english_glosses": [
+        "clothing"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "G29",
+          "N35",
+          "D46",
+          "Z7",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_kTt_5",
+      "type": "word",
+      "transliteration": "kTt",
+      "english_glosses": [
+        "covering"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D28",
+          "G47",
+          "U33",
+          "M17",
+          "D3"
+        ],
+        [
+          "D28",
+          "V13",
+          "X1",
+          "Z7",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_dbAw_5",
+      "type": "word",
+      "transliteration": "dbAw",
+      "english_glosses": [
+        "adornment"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "D46",
+          "G29",
+          "G1",
+          "G43",
+          "Y1"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_sSr_nsw_-or-_Ss_nsw_5",
+      "type": "word",
+      "transliteration": "sSr nsw / Ss nsw",
+      "english_glosses": [
+        "royal linen"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M23",
+          "X1",
+          "N35",
+          "V6",
+          "V6"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    },
+    {
+      "card_id": "word_irt_pHwy_5",
+      "type": "word",
+      "transliteration": "irt pHwy",
+      "english_glosses": [
+        "decorative band"
+      ],
+      "shortest_sign_count": 5,
+      "difficulty_tier": "medium-hard",
+      "point_value": 7,
+      "primary_pos": "noun",
+      "valid_spellings": [
+        [
+          "M17",
+          "D21",
+          "X1",
+          "F22",
+          "G43"
+        ]
+      ],
+      "sources": [
+        "Vygus"
+      ]
+    }
+  ],
+  "content_filter": "family",
+  "target_deck_size": 165,
+  "picks_per_tier": {
+    "1": 23,
+    "2": 29,
+    "3": 32,
+    "4": 43,
+    "5": 38
+  },
+  "theme_slug": "threads_of_linen",
+  "theme_description": "Clothing, textiles, jewelry, and adornment.",
+  "expansion_type": "modular_booster",
+  "mix_mode_compatible": true
+}

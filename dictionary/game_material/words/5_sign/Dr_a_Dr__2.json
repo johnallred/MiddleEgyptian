@@ -1,0 +1,60 @@
+{
+  "transliteration": "Dr a Dr",
+  "english_glosses": [
+    "since"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M36",
+        "D21",
+        "D36",
+        "M36",
+        "D21"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M36",
+          "mnemonic": "Dr",
+          "class": "biliteral",
+          "description": "bundle of flax showing bolls"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "M36",
+          "mnemonic": "Dr",
+          "class": "biliteral",
+          "description": "bundle of flax showing bolls"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    }
+  ]
+}

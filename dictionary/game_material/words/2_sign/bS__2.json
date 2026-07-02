@@ -1,0 +1,89 @@
+{
+  "transliteration": "bS",
+  "english_glosses": [
+    "stone {TAy bS - stoneworker}",
+    "an emetic"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D58",
+        "N37"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "G41",
+        "G1",
+        "M8",
+        "G1",
+        "T31"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "T31",
+          "mnemonic": "sSm",
+          "class": "triliteral",
+          "description": "knife-sharpener"
+        }
+      ]
+    }
+  ]
+}

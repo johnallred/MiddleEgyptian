@@ -1,0 +1,60 @@
+{
+  "transliteration": "faA",
+  "english_glosses": [
+    "lock of hair"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I9",
+        "D36",
+        "O29",
+        "Y1",
+        "D3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "D3",
+          "mnemonic": "Sny",
+          "class": "triliteral",
+          "description": "hair"
+        }
+      ]
+    }
+  ]
+}

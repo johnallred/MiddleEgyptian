@@ -1,0 +1,60 @@
+{
+  "transliteration": "smd rsy",
+  "english_glosses": [
+    "Decan"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "G17",
+        "D46",
+        "N14",
+        "M24"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "M24",
+          "mnemonic": "rsw",
+          "class": "triliteral",
+          "description": "combination of M23 M23 and D21 D21"
+        }
+      ]
+    }
+  ]
+}

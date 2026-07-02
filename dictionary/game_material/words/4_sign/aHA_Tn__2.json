@@ -1,0 +1,53 @@
+{
+  "transliteration": "aHA Tn",
+  "english_glosses": [
+    "take care"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D34",
+        "G1",
+        "V13",
+        "N35"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    }
+  ]
+}

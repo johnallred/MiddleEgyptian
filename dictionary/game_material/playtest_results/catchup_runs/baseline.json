@@ -1,0 +1,44 @@
+{
+ "variant": "baseline",
+ "games": 1000,
+ "seed": 1000,
+ "mirror": {
+  "agents": [
+   "balanced",
+   "balanced"
+  ],
+  "first_scorer_win_pct": 60.1,
+  "agent_win_rates": {
+   "balanced": 0.5
+  },
+  "seat_win_rates": {
+   "seat_0": 0.471,
+   "seat_1": 0.529
+  },
+  "balance": 97.6,
+  "median_turns": 120,
+  "steals_per_game": 1.07,
+  "logograms_per_game": 0.76,
+  "mulligans_per_game": 0.0
+ },
+ "skill": {
+  "agents": [
+   "greedy",
+   "balanced"
+  ],
+  "first_scorer_win_pct": 56.8,
+  "agent_win_rates": {
+   "greedy": 0.42,
+   "balanced": 0.58
+  },
+  "seat_win_rates": {
+   "seat_0": 0.42,
+   "seat_1": 0.58
+  },
+  "balance": 93.6,
+  "median_turns": 126,
+  "steals_per_game": 1.15,
+  "logograms_per_game": 0.81,
+  "mulligans_per_game": 0.0
+ }
+}

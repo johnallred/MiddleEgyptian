@@ -1,0 +1,119 @@
+{
+  "transliteration": "mnTAt",
+  "english_glosses": [
+    "pottery vessel"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Y5",
+        "N35",
+        "G47",
+        "G1",
+        "W22",
+        "X1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G47",
+          "mnemonic": "TA",
+          "class": "biliteral",
+          "description": "duckling"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Y5",
+        "N35",
+        "G47",
+        "G1",
+        "X1",
+        "W22"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G47",
+          "mnemonic": "TA",
+          "class": "biliteral",
+          "description": "duckling"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    }
+  ]
+}

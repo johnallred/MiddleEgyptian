@@ -1,0 +1,791 @@
+{
+  "transliteration": "stp",
+  "english_glosses": [
+    "strip (of cloth)",
+    "cut up (animal)",
+    "choke ?",
+    "to choke",
+    "choke (?)",
+    "pick out"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U21"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "U21"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Q3"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "Z7",
+        "U21"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "U21",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "Q3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "N35",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Q3",
+        "V6"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "V6",
+          "mnemonic": "Ss",
+          "class": "biliteral",
+          "description": "cord with ends upward"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Q3",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Q3",
+        "Z7"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Y1",
+        "Q3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "X1",
+        "Q3",
+        "U21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "V13",
+        "Q3",
+        "U21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "Q3",
+        "U21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Q3",
+        "G43",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Q3",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "X1",
+        "Q3",
+        "U21",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "V13",
+        "Q3",
+        "U21",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "Q3",
+        "U21",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "Q3",
+        "U21",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "U21",
+        "N35",
+        "N5",
+        "Q3",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "Q3",
+        "U21",
+        "Q3",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

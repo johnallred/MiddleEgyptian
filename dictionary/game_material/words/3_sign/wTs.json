@@ -1,0 +1,183 @@
+{
+  "transliteration": "wTs",
+  "english_glosses": [
+    "to tie up",
+    "Bearer",
+    "raise",
+    "rejoice"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G43",
+        "V13",
+        "O34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7",
+        "V13",
+        "O34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "V13",
+        "O34",
+        "Q2"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Q2",
+          "mnemonic": "wz",
+          "class": "biliteral",
+          "description": "portable seat"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "V13",
+        "O34",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "V4",
+        "G1",
+        "D21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    }
+  ]
+}

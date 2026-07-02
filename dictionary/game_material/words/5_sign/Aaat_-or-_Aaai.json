@@ -1,0 +1,60 @@
+{
+  "transliteration": "Aaat / Aaai",
+  "english_glosses": [
+    "to fly aloft"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G1",
+        "D36",
+        "D36",
+        "X1",
+        "N1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N1",
+          "mnemonic": "pt",
+          "class": "biliteral",
+          "description": "sky"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "transliteration": "msAt",
+  "english_glosses": [
+    "goose"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "O34",
+        "X1",
+        "G39"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "transliteration": "mn grb ?",
+  "english_glosses": [
+    "(name of Amun at canopic branch of the nile ?)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O25",
+        "W11",
+        "D21",
+        "D58"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O25",
+          "mnemonic": "txn",
+          "class": "triliteral",
+          "description": "obelisk"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    }
+  ]
+}

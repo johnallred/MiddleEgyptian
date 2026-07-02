@@ -1,0 +1,97 @@
+{
+  "transliteration": "SmSm",
+  "english_glosses": [
+    "be hot (of molten metal)",
+    "grass ?"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective",
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N37",
+        "G17",
+        "N37",
+        "G17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N37",
+        "G17",
+        "N37",
+        "G17",
+        "M2"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "transliteration": "qnt",
+  "english_glosses": [
+    "yellowness (in eyes)",
+    "steam (from fat) ?",
+    "yellowness (?) in eyes",
+    "(a plant)",
+    "valour",
+    "brutality"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F5",
+        "X1",
+        "M2"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F5",
+          "mnemonic": "SsA",
+          "class": "triliteral",
+          "description": "head of bubalis or hartebeest"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N29",
+        "N35",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N29",
+        "N35",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N29",
+        "N35",
+        "X1",
+        "F5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "F5",
+          "mnemonic": "SsA",
+          "class": "triliteral",
+          "description": "head of bubalis or hartebeest"
+        }
+      ]
+    }
+  ]
+}

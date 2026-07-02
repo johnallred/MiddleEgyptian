@@ -1,0 +1,44 @@
+{
+ "variant": "mulligan1",
+ "games": 1000,
+ "seed": 1000,
+ "mirror": {
+  "agents": [
+   "balanced",
+   "balanced"
+  ],
+  "first_scorer_win_pct": 53.5,
+  "agent_win_rates": {
+   "balanced": 0.5
+  },
+  "seat_win_rates": {
+   "seat_0": 0.478,
+   "seat_1": 0.522
+  },
+  "balance": 98.2,
+  "median_turns": 128,
+  "steals_per_game": 1.43,
+  "logograms_per_game": 0.99,
+  "mulligans_per_game": 1.63
+ },
+ "skill": {
+  "agents": [
+   "greedy",
+   "balanced"
+  ],
+  "first_scorer_win_pct": 55.7,
+  "agent_win_rates": {
+   "greedy": 0.403,
+   "balanced": 0.597
+  },
+  "seat_win_rates": {
+   "seat_0": 0.403,
+   "seat_1": 0.597
+  },
+  "balance": 92.2,
+  "median_turns": 134,
+  "steals_per_game": 1.5,
+  "logograms_per_game": 1.01,
+  "mulligans_per_game": 1.63
+ }
+}

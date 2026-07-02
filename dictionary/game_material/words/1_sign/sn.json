@@ -1,0 +1,812 @@
+{
+  "transliteration": "sn",
+  "english_glosses": [
+    "they",
+    "reveal",
+    "open",
+    "smell (perfume)",
+    "suff. and dep. pron. 3pl. they",
+    "smell perfume"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T22"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "O34"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N37",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "O34"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "D19"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "M17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "T22"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "D19"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "N37"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N37",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "N35",
+        "D19"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "T22",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "N35",
+        "D19"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "N35",
+        "O34",
+        "D56"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "D19",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "N18",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N18",
+          "mnemonic": "iw",
+          "class": "biliteral",
+          "description": "sandy tract"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "N37",
+        "R4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "R4",
+          "mnemonic": "Htp",
+          "class": "triliteral",
+          "description": "loaf on mat"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "N35",
+        "D19",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "T22",
+        "N35",
+        "D19"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "N35",
+        "D19",
+        "D19"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "N35",
+        "N35",
+        "W24"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N37",
+        "M17",
+        "Z7",
+        "D56"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "T22",
+        "N35",
+        "W24",
+        "Z7"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    }
+  ]
+}

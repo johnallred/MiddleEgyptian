@@ -1,0 +1,53 @@
+{
+  "transliteration": "r-DAw",
+  "english_glosses": [
+    "mellay"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "U28",
+        "G1",
+        "G43"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "U28",
+          "mnemonic": "DA",
+          "class": "biliteral",
+          "description": "fire-drill"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

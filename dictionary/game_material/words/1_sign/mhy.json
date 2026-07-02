@@ -1,0 +1,84 @@
+{
+  "transliteration": "mhy",
+  "english_glosses": [
+    "be forgetful",
+    "vb. 3inf. be forgetful"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O4"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G17",
+        "O4"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G17",
+        "D36",
+        "O4"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        }
+      ]
+    }
+  ]
+}

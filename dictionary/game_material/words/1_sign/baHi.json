@@ -1,0 +1,290 @@
+{
+  "transliteration": "baHi",
+  "english_glosses": [
+    "have abundance",
+    "be flooded",
+    "abundance",
+    "flood",
+    "BaH Priest of Dendera"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G32"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "V28"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G32",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "D36",
+        "V28"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "V28",
+        "G32"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "V28",
+        "G36"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "V28",
+        "G43",
+        "G32"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "D36",
+        "V28",
+        "G32",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "D36",
+        "V28",
+        "G32",
+        "X1",
+        "W22"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    }
+  ]
+}

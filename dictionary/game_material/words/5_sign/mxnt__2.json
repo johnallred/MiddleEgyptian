@@ -1,0 +1,105 @@
+{
+  "transliteration": "mxnt",
+  "english_glosses": [
+    "face"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "W17",
+        "D19",
+        "X1",
+        "N35"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G17",
+        "W17",
+        "N35",
+        "X1",
+        "D19"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D19",
+          "mnemonic": "fnD",
+          "class": "triliteral",
+          "description": "nose, eye and cheek"
+        }
+      ]
+    }
+  ]
+}

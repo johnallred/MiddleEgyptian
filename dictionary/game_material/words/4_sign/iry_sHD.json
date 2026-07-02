@@ -1,0 +1,53 @@
+{
+  "transliteration": "iry sHD",
+  "english_glosses": [
+    "Controller of leprosy"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "A47",
+        "S29",
+        "T3",
+        "I10"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "A47",
+          "mnemonic": "iry",
+          "class": "triliteral",
+          "description": "shepherd seated and wrapped in mantle, holding stick"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "T3",
+          "mnemonic": "HD",
+          "class": "biliteral",
+          "description": "mace with round head vertically"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    }
+  ]
+}

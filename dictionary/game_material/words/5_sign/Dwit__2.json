@@ -1,0 +1,60 @@
+{
+  "transliteration": "Dwit",
+  "english_glosses": [
+    "(a bird)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N26",
+        "G43",
+        "M17",
+        "X1",
+        "G39"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N26",
+          "mnemonic": "Dw",
+          "class": "biliteral",
+          "description": "two hills"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "transliteration": "sn Dt",
+  "english_glosses": [
+    "person sharing in funerary offerings",
+    "person sharing in funerary offerings {uncertain of Z8}"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T22",
+        "I10",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "I10",
+        "X1",
+        "N16"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T22",
+        "I10",
+        "X1",
+        "N35"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    }
+  ]
+}

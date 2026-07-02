@@ -1,0 +1,174 @@
+{
+  "transliteration": "pH",
+  "english_glosses": [
+    "end by (doing something)",
+    "hit (someone with comment)",
+    "reach (a person or place)",
+    "attacker",
+    "reach a person or place",
+    "result"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F22"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F22",
+          "mnemonic": "pH",
+          "class": "biliteral",
+          "description": "hind-quarters of lion"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N41"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N41",
+          "mnemonic": "id",
+          "class": "biliteral",
+          "description": "well with ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F22",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F22",
+          "mnemonic": "pH",
+          "class": "biliteral",
+          "description": "hind-quarters of lion"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F22",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F22",
+          "mnemonic": "pH",
+          "class": "biliteral",
+          "description": "hind-quarters of lion"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F22",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F22",
+          "mnemonic": "pH",
+          "class": "biliteral",
+          "description": "hind-quarters of lion"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "V28"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "F18",
+        "D27",
+        "D27"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "F18",
+          "mnemonic": "Hw",
+          "class": "biliteral",
+          "description": "tusk"
+        },
+        {
+          "sign": "D27",
+          "mnemonic": "mnD",
+          "class": "triliteral",
+          "description": "small breast"
+        },
+        {
+          "sign": "D27",
+          "mnemonic": "mnD",
+          "class": "triliteral",
+          "description": "small breast"
+        }
+      ]
+    }
+  ]
+}

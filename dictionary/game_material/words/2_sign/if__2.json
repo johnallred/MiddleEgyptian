@@ -1,0 +1,72 @@
+{
+  "transliteration": "if",
+  "english_glosses": [
+    "flesh",
+    "see under iwf ‘flesh’.",
+    "to injure",
+    "flesh of man"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "I9"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "G43",
+        "I9"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    }
+  ]
+}

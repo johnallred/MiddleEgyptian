@@ -1,0 +1,112 @@
+{
+  "transliteration": "rmt",
+  "english_glosses": [
+    "cry",
+    "tears",
+    "(unknown)"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D10"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D10",
+          "mnemonic": "wDAt",
+          "class": "4plus",
+          "description": "wDAt -eye"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "G17",
+        "D4"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D4",
+          "mnemonic": "ir",
+          "class": "biliteral",
+          "description": "eye"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "G17",
+        "D36",
+        "U33",
+        "M17",
+        "M3"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    }
+  ]
+}

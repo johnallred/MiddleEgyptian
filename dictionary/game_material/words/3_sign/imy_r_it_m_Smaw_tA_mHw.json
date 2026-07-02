@@ -1,0 +1,46 @@
+{
+  "transliteration": "imy r it m Smaw tA mHw",
+  "english_glosses": [
+    "Overseer of the barley of Upper & Lower Egypt"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F20",
+        "G17",
+        "M26"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F20",
+          "mnemonic": "ns",
+          "class": "biliteral",
+          "description": "tongue"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "transliteration": "siAtw",
+  "english_glosses": [
+    "Decan"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S32",
+        "G1",
+        "X1",
+        "N14"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S32",
+          "mnemonic": "siA",
+          "class": "triliteral",
+          "description": "cloth with fringe on the side"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        }
+      ]
+    }
+  ]
+}

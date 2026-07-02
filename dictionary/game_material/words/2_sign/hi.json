@@ -1,0 +1,127 @@
+{
+  "transliteration": "hi",
+  "english_glosses": [
+    "husband",
+    "var. of hi ‘husband’.",
+    "secure a rope"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O4",
+        "D52"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D52",
+          "mnemonic": "mt",
+          "class": "biliteral",
+          "description": "phallus"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O4",
+        "M17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O4",
+        "M17",
+        "D52"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "D52",
+          "mnemonic": "mt",
+          "class": "biliteral",
+          "description": "phallus"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O4",
+        "M17",
+        "M17",
+        "D52"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "D52",
+          "mnemonic": "mt",
+          "class": "biliteral",
+          "description": "phallus"
+        }
+      ]
+    }
+  ]
+}

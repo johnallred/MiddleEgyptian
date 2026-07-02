@@ -1,0 +1,194 @@
+{
+  "transliteration": "saq",
+  "english_glosses": [
+    "cause to enter",
+    "entrance",
+    "caus. cause to enter",
+    "to make to enter",
+    "(grain)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O34",
+        "G35",
+        "N29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "D36",
+        "N29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "G35",
+        "N29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "G35",
+        "N29",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "D36",
+        "N29",
+        "Z7",
+        "T14",
+        "T14"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        }
+      ]
+    }
+  ]
+}

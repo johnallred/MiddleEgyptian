@@ -1,0 +1,178 @@
+{
+  "transliteration": "wrs",
+  "english_glosses": [
+    "head - rest",
+    "headrest",
+    "(ship's) mast crutch",
+    "head-rest",
+    "necropolis"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G36",
+        "D21",
+        "S29",
+        "M3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G36",
+        "D21",
+        "S29",
+        "N25"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G36",
+        "D21",
+        "M23",
+        "G43",
+        "M3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G36",
+        "D21",
+        "M23",
+        "Z7",
+        "M3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    }
+  ]
+}

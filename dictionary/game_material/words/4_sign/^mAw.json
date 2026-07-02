@@ -1,0 +1,53 @@
+{
+  "transliteration": "^mAw",
+  "english_glosses": [
+    "n. loc. Upper Egypt"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M26",
+        "D36",
+        "G43",
+        "N24"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "N24",
+          "mnemonic": "spAt",
+          "class": "4plus",
+          "description": "irrigation canal system"
+        }
+      ]
+    }
+  ]
+}

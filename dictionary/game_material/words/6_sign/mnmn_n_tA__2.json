@@ -1,0 +1,67 @@
+{
+  "transliteration": "mnmn n tA",
+  "english_glosses": [
+    "earthquake"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Y5",
+        "N35",
+        "Y5",
+        "N35",
+        "N35",
+        "N16"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        }
+      ]
+    }
+  ]
+}

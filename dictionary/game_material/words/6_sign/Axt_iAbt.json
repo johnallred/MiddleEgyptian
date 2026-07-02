@@ -1,0 +1,67 @@
+{
+  "transliteration": "Axt iAbt",
+  "english_glosses": [
+    "eastern horizon"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N27",
+        "X1",
+        "O1",
+        "R15",
+        "X1",
+        "N25"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "N27",
+          "mnemonic": "Axt",
+          "class": "triliteral",
+          "description": "sun over mountain"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    }
+  ]
+}

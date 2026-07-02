@@ -1,0 +1,83 @@
+{
+  "transliteration": "wDf",
+  "english_glosses": [
+    "(a bird)",
+    "var. of wdf ‘delay’."
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G43",
+        "I10",
+        "I9"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "I10",
+        "I9",
+        "G38"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "G38",
+          "mnemonic": "gb",
+          "class": "biliteral",
+          "description": "white-fronted goose"
+        }
+      ]
+    }
+  ]
+}

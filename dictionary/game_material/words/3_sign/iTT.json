@@ -1,0 +1,121 @@
+{
+  "transliteration": "iTT",
+  "english_glosses": [
+    "fly up",
+    "fly",
+    "the Emerger (of crocodile) ?"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "V13",
+        "V13"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "V13",
+        "V13",
+        "G40"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "G40",
+          "mnemonic": "pA",
+          "class": "biliteral",
+          "description": "pintail flying"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "X1",
+        "X1",
+        "G41"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G41",
+          "mnemonic": "xn",
+          "class": "biliteral",
+          "description": "pintail alighting"
+        }
+      ]
+    }
+  ]
+}

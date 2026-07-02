@@ -1,0 +1,46 @@
+{
+  "transliteration": "stA / sTA",
+  "english_glosses": [
+    "to carry"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "V2"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V2",
+          "mnemonic": "sTA",
+          "class": "triliteral",
+          "description": "combination of O34 O34 and V1 V1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "transliteration": "DbAw",
+  "english_glosses": [
+    "payments",
+    "floats (of net)",
+    "floats",
+    "floats of net",
+    "crowning",
+    "tomb equipment"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T25",
+        "D58"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T25",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T25",
+        "D58",
+        "G43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T25",
+        "D58",
+        "G43",
+        "M3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T25",
+        "D58",
+        "G43",
+        "V12"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V12",
+          "mnemonic": "arq",
+          "class": "triliteral",
+          "description": "string"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T25",
+        "D58",
+        "G43",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T25",
+        "D58",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T25",
+        "D58",
+        "G1",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "D58",
+        "G29",
+        "G1",
+        "Z7",
+        "T25",
+        "Y1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T25",
+          "mnemonic": "DbA",
+          "class": "triliteral",
+          "description": "floats"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

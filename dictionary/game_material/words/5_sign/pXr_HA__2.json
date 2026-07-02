@@ -1,0 +1,60 @@
+{
+  "transliteration": "pXr HA",
+  "english_glosses": [
+    "to walk around"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F46",
+        "D21",
+        "M16",
+        "G1",
+        "D1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        }
+      ]
+    }
+  ]
+}

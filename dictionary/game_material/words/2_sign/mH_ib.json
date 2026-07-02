@@ -1,0 +1,68 @@
+{
+  "transliteration": "mH ib",
+  "english_glosses": [
+    "one who is trusted"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V22",
+        "F34"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "Y1",
+        "F34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        }
+      ]
+    }
+  ]
+}

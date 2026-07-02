@@ -1,0 +1,46 @@
+{
+  "transliteration": "msDi / msd",
+  "english_glosses": [
+    "dislike"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F31",
+        "S29",
+        "D46"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F31",
+          "mnemonic": "ms",
+          "class": "biliteral",
+          "description": "three skins tied together"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    }
+  ]
+}

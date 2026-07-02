@@ -1,0 +1,142 @@
+{
+  "transliteration": "wnb",
+  "english_glosses": [
+    "flower",
+    "(part of the eyes)",
+    "(a flower)",
+    "(part of the eyes) {uncertain of M44}",
+    "a weed"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "E34",
+        "N35",
+        "D58"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "E34",
+        "N35",
+        "D58",
+        "M2"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V4",
+        "G1",
+        "N35",
+        "G1",
+        "D58",
+        "Z7",
+        "M2"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "V4",
+          "mnemonic": "wA",
+          "class": "biliteral",
+          "description": "lasso"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

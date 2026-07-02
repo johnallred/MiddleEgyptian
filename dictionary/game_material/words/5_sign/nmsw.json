@@ -1,0 +1,103 @@
+{
+  "transliteration": "nmsw",
+  "english_glosses": [
+    "covering",
+    "discharge (from womb)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N35",
+        "T34",
+        "G17",
+        "S29",
+        "D3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D3",
+          "mnemonic": "Sny",
+          "class": "triliteral",
+          "description": "hair"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "T34",
+        "G17",
+        "S29",
+        "Z7"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T34",
+          "mnemonic": "nm",
+          "class": "biliteral",
+          "description": "butcher&#x27;s knife"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    }
+  ]
+}

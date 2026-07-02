@@ -1,0 +1,53 @@
+{
+  "transliteration": "wrD ib",
+  "english_glosses": [
+    "languish"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G36",
+        "D21",
+        "I10",
+        "F34"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        }
+      ]
+    }
+  ]
+}

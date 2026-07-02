@@ -1,0 +1,53 @@
+{
+  "transliteration": "smA / smAi",
+  "english_glosses": [
+    "ramp ?"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "U1",
+        "G1",
+        "F36"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "F36",
+          "mnemonic": "zmA",
+          "class": "triliteral",
+          "description": "lung and windpipe"
+        }
+      ]
+    }
+  ]
+}

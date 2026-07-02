@@ -1,0 +1,89 @@
+{
+  "transliteration": "sntt",
+  "english_glosses": [
+    "foundation"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V5",
+        "X1",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V5",
+          "mnemonic": "snT",
+          "class": "triliteral",
+          "description": "looped rope"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "N35",
+        "X1",
+        "X1",
+        "V5"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V5",
+          "mnemonic": "snT",
+          "class": "triliteral",
+          "description": "looped rope"
+        }
+      ]
+    }
+  ]
+}

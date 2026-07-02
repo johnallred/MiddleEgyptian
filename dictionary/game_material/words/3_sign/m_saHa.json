@@ -1,0 +1,46 @@
+{
+  "transliteration": "m saHa",
+  "english_glosses": [
+    "in (a)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "preposition",
+  "all_pos": [
+    "preposition"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "S29",
+        "P6"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        }
+      ]
+    }
+  ]
+}

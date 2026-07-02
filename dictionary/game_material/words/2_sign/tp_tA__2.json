@@ -1,0 +1,148 @@
+{
+  "transliteration": "tp tA",
+  "english_glosses": [
+    "Beginning-of-the-Season festival",
+    "beginning of the season festival",
+    "upon earth"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "preposition"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D1",
+        "M6"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "M6",
+          "mnemonic": "tr",
+          "class": "biliteral",
+          "description": "combination of M4 M4 and D21 D21"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D1",
+        "N16"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D1",
+        "M4",
+        "W3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "M4",
+          "mnemonic": "rnp",
+          "class": "triliteral",
+          "description": "palm branch"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D1",
+        "Q3",
+        "V13",
+        "D21",
+        "G43",
+        "M4",
+        "N5"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "M4",
+          "mnemonic": "rnp",
+          "class": "triliteral",
+          "description": "palm branch"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    }
+  ]
+}

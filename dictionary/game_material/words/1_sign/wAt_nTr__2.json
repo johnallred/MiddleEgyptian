@@ -1,0 +1,74 @@
+{
+  "transliteration": "wAt nTr",
+  "english_glosses": [
+    "the Temple road"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "R8"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "R8",
+          "mnemonic": "nTr",
+          "class": "triliteral",
+          "description": "cloth on pole"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R8",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "R8",
+          "mnemonic": "nTr",
+          "class": "triliteral",
+          "description": "cloth on pole"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "R8"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "R8",
+          "mnemonic": "nTr",
+          "class": "triliteral",
+          "description": "cloth on pole"
+        }
+      ]
+    }
+  ]
+}

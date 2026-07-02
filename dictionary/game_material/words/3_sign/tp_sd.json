@@ -1,0 +1,46 @@
+{
+  "transliteration": "tp sd",
+  "english_glosses": [
+    "headband"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D1",
+        "S29",
+        "D46"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    }
+  ]
+}

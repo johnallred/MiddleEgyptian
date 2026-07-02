@@ -1,0 +1,53 @@
+{
+  "transliteration": "Hriw pHwy",
+  "english_glosses": [
+    "descendants"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D2",
+        "D21",
+        "F22",
+        "G43"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "F22",
+          "mnemonic": "pH",
+          "class": "biliteral",
+          "description": "hind-quarters of lion"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

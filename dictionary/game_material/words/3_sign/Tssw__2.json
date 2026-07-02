@@ -1,0 +1,131 @@
+{
+  "transliteration": "Tssw",
+  "english_glosses": [
+    "(a fish)",
+    "knot"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S24",
+        "O34",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S24",
+          "mnemonic": "Tz",
+          "class": "biliteral",
+          "description": "girdle knot"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S24",
+        "O34",
+        "M23",
+        "Z7",
+        "K1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S24",
+          "mnemonic": "Tz",
+          "class": "biliteral",
+          "description": "girdle knot"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "M23",
+          "mnemonic": "sw",
+          "class": "biliteral",
+          "description": "sedge"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S24",
+        "O34",
+        "O34",
+        "Z7",
+        "K1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S24",
+          "mnemonic": "Tz",
+          "class": "biliteral",
+          "description": "girdle knot"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    }
+  ]
+}

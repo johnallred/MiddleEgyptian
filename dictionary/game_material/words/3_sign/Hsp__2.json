@@ -1,0 +1,82 @@
+{
+  "transliteration": "Hsp",
+  "english_glosses": [
+    "garden"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V28",
+        "S29",
+        "Q3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "O34",
+        "Q3",
+        "N24"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "N24",
+          "mnemonic": "spAt",
+          "class": "4plus",
+          "description": "irrigation canal system"
+        }
+      ]
+    }
+  ]
+}

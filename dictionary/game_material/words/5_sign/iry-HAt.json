@@ -1,0 +1,60 @@
+{
+  "transliteration": "iry-HAt",
+  "english_glosses": [
+    "pilot"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "D21",
+        "A47",
+        "F4",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "A47",
+          "mnemonic": "iry",
+          "class": "triliteral",
+          "description": "shepherd seated and wrapped in mantle, holding stick"
+        },
+        {
+          "sign": "F4",
+          "mnemonic": "HAt",
+          "class": "triliteral",
+          "description": "forepart of lion"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

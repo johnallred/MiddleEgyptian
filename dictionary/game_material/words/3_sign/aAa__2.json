@@ -1,0 +1,131 @@
+{
+  "transliteration": "aAa",
+  "english_glosses": [
+    "evil influence (causing disease)",
+    "divine seed (sperm)",
+    "(an unknown) disease",
+    "ejaculate",
+    "divine seed",
+    "evil influence causing disease"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D36",
+        "G1",
+        "D36"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O29",
+        "D36",
+        "G1",
+        "D36"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O29",
+        "D36",
+        "G1",
+        "D36",
+        "D3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D3",
+          "mnemonic": "Sny",
+          "class": "triliteral",
+          "description": "hair"
+        }
+      ]
+    }
+  ]
+}

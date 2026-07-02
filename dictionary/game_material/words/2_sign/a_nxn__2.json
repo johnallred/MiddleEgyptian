@@ -1,0 +1,39 @@
+{
+  "transliteration": "a nxn",
+  "english_glosses": [
+    "Arm of Neken"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D36",
+        "O47"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "O47",
+          "mnemonic": "nxn",
+          "class": "triliteral",
+          "description": "enclosed mound"
+        }
+      ]
+    }
+  ]
+}

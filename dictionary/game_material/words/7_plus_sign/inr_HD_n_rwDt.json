@@ -1,0 +1,74 @@
+{
+  "transliteration": "inr HD n rwDt",
+  "english_glosses": [
+    "sandstone"
+  ],
+  "shortest_sign_count": 7,
+  "difficulty_tier": "expert",
+  "point_value": 15,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17",
+        "N35",
+        "D21",
+        "T3",
+        "N35",
+        "T12",
+        "X1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "T3",
+          "mnemonic": "HD",
+          "class": "biliteral",
+          "description": "mace with round head vertically"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

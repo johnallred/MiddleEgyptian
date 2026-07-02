@@ -1,0 +1,81 @@
+{
+  "transliteration": "pXr wr nhrn",
+  "english_glosses": [
+    "River Euphrates"
+  ],
+  "shortest_sign_count": 8,
+  "difficulty_tier": "expert",
+  "point_value": 20,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F46",
+        "D21",
+        "G36",
+        "N35",
+        "O4",
+        "D21",
+        "N35",
+        "N25"
+      ],
+      "sign_count": 8,
+      "annotated": [
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    }
+  ]
+}

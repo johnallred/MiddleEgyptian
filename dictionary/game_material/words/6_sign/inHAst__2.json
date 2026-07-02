@@ -1,0 +1,67 @@
+{
+  "transliteration": "inHAst",
+  "english_glosses": [
+    "lotus-leaves ?"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W25",
+        "N35",
+        "M16",
+        "G1",
+        "S29",
+        "X1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "W25",
+          "mnemonic": "ini",
+          "class": "triliteral",
+          "description": "combination of W24 W24 and D54 D54"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

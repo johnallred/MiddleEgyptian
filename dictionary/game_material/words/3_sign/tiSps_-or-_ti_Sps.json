@@ -1,0 +1,74 @@
+{
+  "transliteration": "tiSps / ti Sps",
+  "english_glosses": [
+    "cinnamon (Cinnamonium zeylanicum)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U33",
+        "A50",
+        "S29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "A50",
+          "mnemonic": "Sps",
+          "class": "triliteral",
+          "description": "noble on chair"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U33",
+        "A51",
+        "M3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "A51",
+          "mnemonic": "Spsi",
+          "class": "4plus",
+          "description": "noble on chair with S45 S45"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    }
+  ]
+}

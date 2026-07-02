@@ -1,0 +1,61 @@
+{
+  "transliteration": "r qr",
+  "english_glosses": [
+    "next to",
+    "in the company of"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "preposition",
+  "all_pos": [
+    "preposition"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "N29",
+        "G1",
+        "E23",
+        "D56"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "E23",
+          "mnemonic": "l",
+          "class": "uniliteral",
+          "description": "lying lion"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "transliteration": "st awy",
+  "english_glosses": [
+    "grasp"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q1",
+        "X1",
+        "D36",
+        "D36"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    }
+  ]
+}

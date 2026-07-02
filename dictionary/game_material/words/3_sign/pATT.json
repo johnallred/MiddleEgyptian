@@ -1,0 +1,81 @@
+{
+  "transliteration": "pATT",
+  "english_glosses": [
+    "baboon"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G40",
+        "V13",
+        "V13"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G40",
+          "mnemonic": "pA",
+          "class": "biliteral",
+          "description": "pintail flying"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "G40",
+        "V13",
+        "V13"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "G40",
+          "mnemonic": "pA",
+          "class": "biliteral",
+          "description": "pintail flying"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        }
+      ]
+    }
+  ]
+}

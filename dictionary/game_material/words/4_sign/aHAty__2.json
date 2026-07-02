@@ -1,0 +1,90 @@
+{
+  "transliteration": "aHAty",
+  "english_glosses": [
+    "quarrel",
+    "male"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D34",
+        "G1",
+        "Z7",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D34",
+        "X1",
+        "G43",
+        "A12"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "A12",
+          "mnemonic": "mSa",
+          "class": "triliteral",
+          "description": "soldier with bow and quiver"
+        }
+      ]
+    }
+  ]
+}

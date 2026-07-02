@@ -1,0 +1,74 @@
+{
+  "transliteration": "sipty-",
+  "english_glosses": [
+    "inventory"
+  ],
+  "shortest_sign_count": 7,
+  "difficulty_tier": "expert",
+  "point_value": 15,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "M17",
+        "Q3",
+        "X1",
+        "G36",
+        "D21",
+        "V12"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "V12",
+          "mnemonic": "arq",
+          "class": "triliteral",
+          "description": "string"
+        }
+      ]
+    }
+  ]
+}

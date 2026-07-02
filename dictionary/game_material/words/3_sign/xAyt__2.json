@@ -1,0 +1,255 @@
+{
+  "transliteration": "xAyt",
+  "english_glosses": [
+    "disease",
+    "condition",
+    "slaughter",
+    "illness"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M12",
+        "G1",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M12",
+        "G1",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M12",
+        "G1",
+        "M17",
+        "M17",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M12",
+        "G1",
+        "M17",
+        "X1",
+        "A15"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "A15",
+          "mnemonic": "xr",
+          "class": "biliteral",
+          "description": "man falling"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M12",
+        "G1",
+        "X1",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M12",
+        "M17",
+        "M17",
+        "X1",
+        "A15"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "A15",
+          "mnemonic": "xr",
+          "class": "biliteral",
+          "description": "man falling"
+        }
+      ]
+    }
+  ]
+}

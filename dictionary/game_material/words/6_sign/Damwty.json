@@ -1,0 +1,67 @@
+{
+  "transliteration": "Damwty",
+  "english_glosses": [
+    "Sceptre Bearer"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I10",
+        "D36",
+        "G17",
+        "G43",
+        "X1",
+        "S40"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "S40",
+          "mnemonic": "wAs",
+          "class": "triliteral",
+          "description": "sceptre"
+        }
+      ]
+    }
+  ]
+}

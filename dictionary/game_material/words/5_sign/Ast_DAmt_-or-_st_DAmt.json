@@ -1,0 +1,60 @@
+{
+  "transliteration": "Ast DAmt / st DAmt",
+  "english_glosses": [
+    "Hippopotamus (name of a constellation)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q1",
+        "X1",
+        "U28",
+        "X1",
+        "G14"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U28",
+          "mnemonic": "DA",
+          "class": "biliteral",
+          "description": "fire-drill"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G14",
+          "mnemonic": "mwt",
+          "class": "triliteral",
+          "description": "vulture"
+        }
+      ]
+    }
+  ]
+}

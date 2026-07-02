@@ -1,0 +1,81 @@
+{
+  "transliteration": "xpr wr",
+  "english_glosses": [
+    "wild carrot ?(from Wadi Natron)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "L1",
+        "D21",
+        "D21"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "L1",
+          "mnemonic": "xpr",
+          "class": "triliteral",
+          "description": "dung beetle"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "L1",
+        "D21",
+        "G36",
+        "D21"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "L1",
+          "mnemonic": "xpr",
+          "class": "triliteral",
+          "description": "dung beetle"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    }
+  ]
+}

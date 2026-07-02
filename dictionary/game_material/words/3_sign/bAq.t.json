@@ -1,0 +1,124 @@
+{
+  "transliteration": "bAq.t",
+  "english_glosses": [
+    "(a designation of) Egypt",
+    "Egypt"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M1",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G29",
+        "N29",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G29",
+          "mnemonic": "bA",
+          "class": "biliteral",
+          "description": "saddle-billed stork"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "N29",
+        "M1",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    }
+  ]
+}

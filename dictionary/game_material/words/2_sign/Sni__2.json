@@ -1,0 +1,236 @@
+{
+  "transliteration": "Sni",
+  "english_glosses": [
+    "suffer in (oneself)",
+    "vb. 3inf. suffer in oneself",
+    "dispel (strife)",
+    "dispel strife",
+    "curse",
+    "(unknown)"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V7",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N37",
+        "N35",
+        "M17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N37",
+        "V7",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N37",
+        "N35",
+        "V7",
+        "M17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "M17",
+        "K1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "M17",
+        "N4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "N4",
+          "mnemonic": "iAdt",
+          "class": "4plus",
+          "description": "sky with rain"
+        }
+      ]
+    }
+  ]
+}

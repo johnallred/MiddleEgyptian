@@ -1,0 +1,502 @@
+{
+  "transliteration": "Hb",
+  "english_glosses": [
+    "catch (of fish and fowl)",
+    "festival",
+    "a festival",
+    "mourn",
+    "celebrate a triumph",
+    "catch of fish and fowl"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O22"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "O22",
+          "mnemonic": "zH",
+          "class": "biliteral",
+          "description": "booth with pole"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W3"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G39",
+        "K1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "O22"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "O22",
+          "mnemonic": "zH",
+          "class": "biliteral",
+          "description": "booth with pole"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "W3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "W3",
+        "D58"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W3",
+        "X1",
+        "N5"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "G39",
+        "K1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "W3",
+        "N5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "W3",
+        "O1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "W3",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "W3",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "N5",
+        "W3",
+        "D58"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "D58",
+        "W3",
+        "N5",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "W3",
+        "D58",
+        "G39",
+        "K1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    }
+  ]
+}

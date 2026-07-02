@@ -1,0 +1,71 @@
+{
+  "transliteration": "imy r ab wHmt Swt nSmt",
+  "english_glosses": [
+    "verseer of horn",
+    "Overseer of horn",
+    "Overseer of livestock (horn"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "D21",
+        "F16",
+        "F25",
+        "H6",
+        "K6"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F25",
+          "mnemonic": "wHm",
+          "class": "triliteral",
+          "description": "leg of ox"
+        },
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        },
+        {
+          "sign": "K6",
+          "mnemonic": "nSmt",
+          "class": "4plus",
+          "description": "fish scale"
+        }
+      ]
+    }
+  ]
+}

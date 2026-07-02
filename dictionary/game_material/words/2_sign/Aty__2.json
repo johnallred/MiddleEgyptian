@@ -1,0 +1,74 @@
+{
+  "transliteration": "Aty",
+  "english_glosses": [
+    "have a care (for)",
+    "which not",
+    "to lack",
+    "need",
+    "to become angry",
+    "misery"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "particle",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G1",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G1",
+        "X1",
+        "I3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "I3",
+          "mnemonic": "mzH",
+          "class": "triliteral",
+          "description": "crocodile"
+        }
+      ]
+    }
+  ]
+}

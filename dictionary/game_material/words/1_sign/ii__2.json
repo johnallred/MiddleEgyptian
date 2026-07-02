@@ -1,0 +1,328 @@
+{
+  "transliteration": "ii",
+  "english_glosses": [
+    "old negative particle",
+    "old neg. part.",
+    "come",
+    "vb. ult. weak come",
+    "welcome",
+    "follow {cryptic}"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "particle",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M17"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "M17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "G1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "M17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M2",
+        "M2"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "G1",
+        "M17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "M17",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "M18",
+        "M17",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "G1",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "M17",
+        "U33",
+        "M17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

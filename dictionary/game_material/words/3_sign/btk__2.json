@@ -1,0 +1,55 @@
+{
+  "transliteration": "btk",
+  "english_glosses": [
+    "squalor ?",
+    "squalor (?)",
+    "squalor",
+    "mucus",
+    "sink (of the heart) ?",
+    "sink (of the heart) {with 'ib' sorrowful}"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D58",
+        "X1",
+        "V31"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        }
+      ]
+    }
+  ]
+}

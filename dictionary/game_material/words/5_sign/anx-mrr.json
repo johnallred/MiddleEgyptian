@@ -1,0 +1,60 @@
+{
+  "transliteration": "anx-mrr",
+  "english_glosses": [
+    "(a beetle shaped amulet)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S34",
+        "U6",
+        "D21",
+        "D21",
+        "L1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S34",
+          "mnemonic": "anx",
+          "class": "triliteral",
+          "description": "sandle-strap"
+        },
+        {
+          "sign": "U6",
+          "mnemonic": "mr",
+          "class": "biliteral",
+          "description": "diagonal hoe"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "L1",
+          "mnemonic": "xpr",
+          "class": "triliteral",
+          "description": "dung beetle"
+        }
+      ]
+    }
+  ]
+}

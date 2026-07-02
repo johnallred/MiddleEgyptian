@@ -1,0 +1,96 @@
+{
+  "transliteration": "amdy",
+  "english_glosses": [
+    "fallow field ?",
+    "(part of chariot)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D36",
+        "G17",
+        "D36",
+        "D46"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O29",
+        "Y1",
+        "U1",
+        "G1",
+        "D46"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    }
+  ]
+}

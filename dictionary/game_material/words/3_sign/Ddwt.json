@@ -1,0 +1,239 @@
+{
+  "transliteration": "Ddwt",
+  "english_glosses": [
+    "Mendes (Tell er-Ruba)",
+    "Mendes (Tell er Ruba)",
+    "Mendes",
+    "sayings"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I10",
+        "D46",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R11",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "R11",
+          "mnemonic": "dd",
+          "class": "biliteral",
+          "description": "reed column"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R11",
+        "D46",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "R11",
+          "mnemonic": "dd",
+          "class": "biliteral",
+          "description": "reed column"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R11",
+        "X1",
+        "X1",
+        "N25"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "R11",
+          "mnemonic": "dd",
+          "class": "biliteral",
+          "description": "reed column"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R11",
+        "R11",
+        "Z7",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "R11",
+          "mnemonic": "dd",
+          "class": "biliteral",
+          "description": "reed column"
+        },
+        {
+          "sign": "R11",
+          "mnemonic": "dd",
+          "class": "biliteral",
+          "description": "reed column"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "I10",
+        "D46",
+        "R11",
+        "G43",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "R11",
+          "mnemonic": "dd",
+          "class": "biliteral",
+          "description": "reed column"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    }
+  ]
+}

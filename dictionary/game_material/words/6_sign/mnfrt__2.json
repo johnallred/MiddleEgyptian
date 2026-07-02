@@ -1,0 +1,69 @@
+{
+  "transliteration": "mnfrt",
+  "english_glosses": [
+    "band (for arm or ankle)",
+    "band for arm or ankle"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Y5",
+        "N35",
+        "I9",
+        "D21",
+        "X1",
+        "M29"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M29",
+          "mnemonic": "nDm",
+          "class": "triliteral",
+          "description": "pod"
+        }
+      ]
+    }
+  ]
+}

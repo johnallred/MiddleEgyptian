@@ -1,0 +1,53 @@
+{
+  "transliteration": "imyw Dw",
+  "english_glosses": [
+    "mountain people"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Z11",
+        "N26",
+        "G43",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Z11",
+          "mnemonic": "imi",
+          "class": "triliteral",
+          "description": "cross"
+        },
+        {
+          "sign": "N26",
+          "mnemonic": "Dw",
+          "class": "biliteral",
+          "description": "two hills"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

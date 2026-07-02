@@ -1,0 +1,119 @@
+{
+  "transliteration": "stw",
+  "english_glosses": [
+    "target",
+    "arrow",
+    "(spreading ?"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F29",
+        "X1",
+        "G43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F29",
+          "mnemonic": "sti",
+          "class": "triliteral",
+          "description": "cow&#x27;s skin pierced by arrow"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F29",
+        "X1",
+        "Z7",
+        "T19"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F29",
+          "mnemonic": "sti",
+          "class": "triliteral",
+          "description": "cow&#x27;s skin pierced by arrow"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "T19",
+          "mnemonic": "qs",
+          "class": "biliteral",
+          "description": "harpoon head"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "F29",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "F29",
+          "mnemonic": "sti",
+          "class": "triliteral",
+          "description": "cow&#x27;s skin pierced by arrow"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "transliteration": "Ts Hwrw",
+  "english_glosses": [
+    "reproach"
+  ],
+  "shortest_sign_count": 7,
+  "difficulty_tier": "expert",
+  "point_value": 15,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S24",
+        "O34",
+        "Y1",
+        "V28",
+        "G36",
+        "D21",
+        "G43"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "S24",
+          "mnemonic": "Tz",
+          "class": "biliteral",
+          "description": "girdle knot"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

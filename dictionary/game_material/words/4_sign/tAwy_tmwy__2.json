@@ -1,0 +1,53 @@
+{
+  "transliteration": "tAwy tmwy",
+  "english_glosses": [
+    "all Egyptians"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N16",
+        "N16",
+        "X1",
+        "U15"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U15",
+          "mnemonic": "tm",
+          "class": "biliteral",
+          "description": "sledge"
+        }
+      ]
+    }
+  ]
+}

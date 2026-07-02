@@ -1,0 +1,53 @@
+{
+  "transliteration": "m grg",
+  "english_glosses": [
+    "unjustly"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "adverb",
+  "all_pos": [
+    "adverb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "W11",
+        "D21",
+        "U17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "U17",
+          "mnemonic": "grg",
+          "class": "triliteral",
+          "description": "pick in ground"
+        }
+      ]
+    }
+  ]
+}

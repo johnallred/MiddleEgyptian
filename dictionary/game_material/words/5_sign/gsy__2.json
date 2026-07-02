@@ -1,0 +1,60 @@
+{
+  "transliteration": "gsy",
+  "english_glosses": [
+    "dull red bull with white on the face"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V33",
+        "V33",
+        "V33",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

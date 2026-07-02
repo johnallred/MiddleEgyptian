@@ -1,0 +1,105 @@
+{
+  "transliteration": "nbwt",
+  "english_glosses": [
+    "the isles (of the Aegean)",
+    "the isles of the Aegean",
+    "(unknown)"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V30",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V30",
+        "V30",
+        "V30"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "D58",
+        "G43",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

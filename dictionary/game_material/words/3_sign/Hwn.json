@@ -1,0 +1,138 @@
+{
+  "transliteration": "Hwn",
+  "english_glosses": [
+    "child",
+    "youthful vigour",
+    "pupil (of eye)",
+    "rib-roast",
+    "rib (with flesh)",
+    "youth"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V28",
+        "E34",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "E34",
+        "N35",
+        "A17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "E34",
+        "N35",
+        "W24",
+        "Z7",
+        "A17"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    }
+  ]
+}

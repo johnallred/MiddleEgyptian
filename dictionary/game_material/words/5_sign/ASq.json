@@ -1,0 +1,60 @@
+{
+  "transliteration": "ASq",
+  "english_glosses": [
+    "region of the Medjay {in Nubia}"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F40",
+        "G43",
+        "N37",
+        "N29",
+        "N25"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    }
+  ]
+}

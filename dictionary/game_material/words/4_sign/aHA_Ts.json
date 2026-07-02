@@ -1,0 +1,53 @@
+{
+  "transliteration": "aHA Ts",
+  "english_glosses": [
+    "(an oil)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D34",
+        "V13",
+        "S29",
+        "V33"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D34",
+          "mnemonic": "aHA",
+          "class": "triliteral",
+          "description": "arms holding shield and battle-axe"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        }
+      ]
+    }
+  ]
+}

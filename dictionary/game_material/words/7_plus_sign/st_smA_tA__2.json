@@ -1,0 +1,74 @@
+{
+  "transliteration": "st smA tA",
+  "english_glosses": [
+    "interment"
+  ],
+  "shortest_sign_count": 7,
+  "difficulty_tier": "expert",
+  "point_value": 15,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q1",
+        "X1",
+        "O1",
+        "F36",
+        "G1",
+        "Y1",
+        "N16"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "F36",
+          "mnemonic": "zmA",
+          "class": "triliteral",
+          "description": "lung and windpipe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        }
+      ]
+    }
+  ]
+}

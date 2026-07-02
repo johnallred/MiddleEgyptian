@@ -1,0 +1,318 @@
+{
+  "transliteration": "Abd",
+  "english_glosses": [
+    "month",
+    "1st {used in dates}",
+    "monthly festival",
+    "2nd {used in dates}",
+    "3rd {used in dates}",
+    "Priest (in his month of service)"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N11"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N11"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N14"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N11",
+        "N11"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N14",
+        "D46"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N14",
+        "W3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N14",
+        "D46",
+        "N5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N14",
+        "D46",
+        "W3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N14",
+        "D46",
+        "G43",
+        "N5"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "N14",
+        "D46",
+        "Z7",
+        "N5"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "transliteration": "msDr.wy.fy",
+  "english_glosses": [
+    "his two ears"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F21",
+        "F21",
+        "I9"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F21",
+          "mnemonic": "idn",
+          "class": "triliteral",
+          "description": "ear of bovine"
+        },
+        {
+          "sign": "F21",
+          "mnemonic": "idn",
+          "class": "triliteral",
+          "description": "ear of bovine"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    }
+  ]
+}

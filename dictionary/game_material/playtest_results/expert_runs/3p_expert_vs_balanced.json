@@ -1,0 +1,25 @@
+{
+ "matchup": "3p_expert_vs_balanced",
+ "agents": [
+  "expert",
+  "balanced",
+  "balanced"
+ ],
+ "games": 500,
+ "seed": 1000,
+ "agent_win_rates": {
+  "expert": 0.364,
+  "balanced": 0.318
+ },
+ "seat_win_rates": {
+  "seat_0": 0.364,
+  "seat_1": 0.216,
+  "seat_2": 0.42
+ },
+ "balance": 90.6,
+ "median_turns": 123,
+ "steals_per_game": 2.65,
+ "logograms_per_game": 1.24,
+ "first_scorer_win_pct": 42.6,
+ "victory_pct": 100.0
+}

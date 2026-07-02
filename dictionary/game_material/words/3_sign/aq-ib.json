@@ -1,0 +1,46 @@
+{
+  "transliteration": "aq-ib",
+  "english_glosses": [
+    "intimate friend"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "pronoun",
+  "all_pos": [
+    "pronoun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G35",
+        "N29",
+        "F34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "transliteration": "aq",
+  "english_glosses": [
+    "enter (into)",
+    "set (of sun",
+    "enter",
+    "arise (from illness)",
+    "access",
+    "enter {cryptic}"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D36"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G35"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "N29"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G35",
+        "N29"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G39",
+        "N29"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W10",
+        "N29"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G35",
+        "N29",
+        "G43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G35",
+        "N29",
+        "Z7"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G35",
+        "N29",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G35",
+          "mnemonic": "aq",
+          "class": "biliteral",
+          "description": "cormorant"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

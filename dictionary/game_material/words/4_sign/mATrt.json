@@ -1,0 +1,88 @@
+{
+  "transliteration": "mATrt",
+  "english_glosses": [
+    "sodom apple tree"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U1",
+        "V13",
+        "X1",
+        "M1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U1",
+        "V13",
+        "X1",
+        "M2"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

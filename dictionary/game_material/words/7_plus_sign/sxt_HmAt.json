@@ -1,0 +1,81 @@
+{
+  "transliteration": "sxt HmAt",
+  "english_glosses": [
+    "Field of Salt (Wadi Natron)"
+  ],
+  "shortest_sign_count": 8,
+  "difficulty_tier": "expert",
+  "point_value": 20,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M20",
+        "X1",
+        "V28",
+        "U1",
+        "G1",
+        "X1",
+        "U32",
+        "O49"
+      ],
+      "sign_count": 8,
+      "annotated": [
+        {
+          "sign": "M20",
+          "mnemonic": "sxt",
+          "class": "triliteral",
+          "description": "field of reeds"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U32",
+          "mnemonic": "zmn",
+          "class": "triliteral",
+          "description": "pestle and mortar"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    }
+  ]
+}

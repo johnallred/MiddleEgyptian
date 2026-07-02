@@ -1,0 +1,341 @@
+{
+  "transliteration": "mHt",
+  "english_glosses": [
+    "the delta marshes",
+    "bowl",
+    "(boat part",
+    "(cake",
+    "plume (as decoration)",
+    "(used to show ordinal numbers greater than 10)"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "participle"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V22",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "X1",
+        "W10"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "X1",
+        "W22"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "X1",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G17",
+        "V22",
+        "X1",
+        "M3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "D36",
+        "Z7",
+        "W22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "V28",
+        "X1",
+        "D3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D3",
+          "mnemonic": "Sny",
+          "class": "triliteral",
+          "description": "hair"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "V28",
+        "X1",
+        "H6"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "X1",
+        "X1",
+        "W10"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "X1",
+        "X1",
+        "W22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    }
+  ]
+}

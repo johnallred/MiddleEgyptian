@@ -1,0 +1,68 @@
+{
+  "transliteration": "XAXAti",
+  "english_glosses": [
+    "storm"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "K4",
+        "G1",
+        "K4",
+        "G1",
+        "U33",
+        "N4"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "K4",
+          "mnemonic": "XA",
+          "class": "biliteral",
+          "description": "elephant-snout fish"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "K4",
+          "mnemonic": "XA",
+          "class": "biliteral",
+          "description": "elephant-snout fish"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "N4",
+          "mnemonic": "iAdt",
+          "class": "4plus",
+          "description": "sky with rain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "transliteration": "imy r Smaw",
+  "english_glosses": [
+    "Overseer of Upper Egypt"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "D21",
+        "M26",
+        "D36",
+        "N24"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M26",
+          "mnemonic": "Sma",
+          "class": "triliteral",
+          "description": "flowering sedge"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N24",
+          "mnemonic": "spAt",
+          "class": "4plus",
+          "description": "irrigation canal system"
+        }
+      ]
+    }
+  ]
+}

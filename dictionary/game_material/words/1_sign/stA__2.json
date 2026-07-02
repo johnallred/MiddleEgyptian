@@ -1,0 +1,54 @@
+{
+  "transliteration": "stA",
+  "english_glosses": [
+    "var. of sTA ‘drag’",
+    "for words written with this sign see under sTA."
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V2"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "V2",
+          "mnemonic": "sTA",
+          "class": "triliteral",
+          "description": "combination of O34 O34 and V1 V1"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F29",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F29",
+          "mnemonic": "sti",
+          "class": "triliteral",
+          "description": "cow&#x27;s skin pierced by arrow"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

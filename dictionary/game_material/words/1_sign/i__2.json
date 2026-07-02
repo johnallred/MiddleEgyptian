@@ -1,0 +1,125 @@
+{
+  "transliteration": "i",
+  "english_glosses": [
+    "I",
+    "O!",
+    "interj. O!",
+    "vb. say",
+    "n. utterance",
+    "O !"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "pronoun",
+  "all_pos": [
+    "interjection",
+    "noun",
+    "pronoun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "A50"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "A50",
+          "mnemonic": "Sps",
+          "class": "triliteral",
+          "description": "noble on chair"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M2"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "M2"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "R8"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "R8",
+          "mnemonic": "nTr",
+          "class": "triliteral",
+          "description": "cloth on pole"
+        }
+      ]
+    }
+  ]
+}

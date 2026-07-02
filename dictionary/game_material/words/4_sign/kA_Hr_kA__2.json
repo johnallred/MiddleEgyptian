@@ -1,0 +1,133 @@
+{
+  "transliteration": "kA Hr kA",
+  "english_glosses": [
+    "fifth month",
+    "Koiak",
+    "Khoiakh feast"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D28",
+        "D2",
+        "D28",
+        "W22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D28",
+        "D28",
+        "W3",
+        "N5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D28",
+        "D2",
+        "D28",
+        "W3",
+        "N5"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    }
+  ]
+}

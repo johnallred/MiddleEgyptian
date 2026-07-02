@@ -1,0 +1,46 @@
+{
+  "transliteration": "imy r mSa",
+  "english_glosses": [
+    "General"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "D21",
+        "A12"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "A12",
+          "mnemonic": "mSa",
+          "class": "triliteral",
+          "description": "soldier with bow and quiver"
+        }
+      ]
+    }
+  ]
+}

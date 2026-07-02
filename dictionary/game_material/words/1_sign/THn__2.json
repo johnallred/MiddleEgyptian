@@ -1,0 +1,215 @@
+{
+  "transliteration": "THn",
+  "english_glosses": [
+    "gleam",
+    "the gleaming",
+    "lance ? (an infected place)",
+    "lance (?) infected place",
+    "meet",
+    "faience"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S15"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S15",
+          "mnemonic": "tHn",
+          "class": "triliteral",
+          "description": "pectoral"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "V28",
+        "N35"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U33",
+        "V28",
+        "N35",
+        "S15"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "S15",
+          "mnemonic": "tHn",
+          "class": "triliteral",
+          "description": "pectoral"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "V28",
+        "N35",
+        "D36"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "V28",
+        "N35",
+        "S15"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "S15",
+          "mnemonic": "tHn",
+          "class": "triliteral",
+          "description": "pectoral"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "N35",
+        "V28",
+        "Z7",
+        "D56"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    }
+  ]
+}

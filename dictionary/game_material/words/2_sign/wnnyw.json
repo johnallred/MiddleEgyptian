@@ -1,0 +1,168 @@
+{
+  "transliteration": "wnnyw",
+  "english_glosses": [
+    "residents",
+    "people",
+    "beings (gods)",
+    "mankind"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "E34",
+        "N35"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "E34",
+        "N35",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "E34",
+        "N35",
+        "M17",
+        "M17",
+        "R8"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "R8",
+          "mnemonic": "nTr",
+          "class": "triliteral",
+          "description": "cloth on pole"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "E34",
+        "N35",
+        "N35",
+        "M17",
+        "M17",
+        "G43"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "transliteration": "Sd Abd",
+  "english_glosses": [
+    "do the monthly Temple duty"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F30",
+        "D46",
+        "N11",
+        "N14"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F30",
+          "mnemonic": "Sd",
+          "class": "biliteral",
+          "description": "water-skin"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F30",
+        "D46",
+        "N11",
+        "N14",
+        "W3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F30",
+          "mnemonic": "Sd",
+          "class": "biliteral",
+          "description": "water-skin"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        }
+      ]
+    }
+  ]
+}

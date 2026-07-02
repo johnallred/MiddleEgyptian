@@ -1,0 +1,2391 @@
+{
+  "name": "Hieroglyph Quest: Proposed Base Sign Library",
+  "version": "1.0",
+  "expansion_type": "base_sign_library_proposal",
+  "sign_deck": [
+    {
+      "card_id": "sign_A12",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A12",
+      "mnemonic": "mSa",
+      "description": "soldier with bow and quiver",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_A15",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "A15",
+      "mnemonic": "xr",
+      "description": "man falling",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_A17",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A17",
+      "mnemonic": "Xrd",
+      "description": "child sitting with hand to mouth",
+      "usage_in_word_pool": 4,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_A21",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "A21",
+      "mnemonic": "sr",
+      "description": "man holding staff with handkerchief",
+      "usage_in_word_pool": 3,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_A33",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "A33",
+      "mnemonic": "mniw",
+      "description": "man with stick and bundle on shoulder",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_A47",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A47",
+      "mnemonic": "iry",
+      "description": "shepherd seated and wrapped in mantle, holding stick",
+      "usage_in_word_pool": 0,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_A50",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "A50",
+      "mnemonic": "Sps",
+      "description": "noble on chair",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_A51",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "A51",
+      "mnemonic": "Spsi",
+      "description": "noble on chair with S45 S45",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_AA1",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "AA1",
+      "mnemonic": "x",
+      "description": "basket from above",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_AA13",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "AA13",
+      "mnemonic": "im",
+      "description": "sharp half",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_AA17",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "AA17",
+      "mnemonic": "sA",
+      "description": "lid",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_AA28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "AA28",
+      "mnemonic": "qd",
+      "description": "level",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_C11",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "C11",
+      "mnemonic": "HH",
+      "description": "god with arms supporting (the sky) and M4 M4 on head",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_C3",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "C3",
+      "mnemonic": "DHwty",
+      "description": "god with head of ibis",
+      "usage_in_word_pool": 3,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_C4",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "C4",
+      "mnemonic": "Xnmw",
+      "description": "god with head of ram",
+      "usage_in_word_pool": 5,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_C6",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "C6",
+      "mnemonic": "inpw",
+      "description": "god with head of jackal",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_C7",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "C7",
+      "mnemonic": "stX",
+      "description": "god with head of Seth-animal",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D1",
+      "mnemonic": "tp",
+      "description": "head in profile",
+      "usage_in_word_pool": 4,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D10",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "D10",
+      "mnemonic": "wDAt",
+      "description": "wDAt -eye",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D19",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D19",
+      "mnemonic": "fnD",
+      "description": "nose, eye and cheek",
+      "usage_in_word_pool": 4,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_D2",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D2",
+      "mnemonic": "Hr",
+      "description": "face",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D21",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D21",
+      "mnemonic": "r",
+      "description": "mouth",
+      "usage_in_word_pool": 145,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D24",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D24",
+      "mnemonic": "spt",
+      "description": "upper lip with teeth",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D28",
+      "mnemonic": "kA",
+      "description": "arms in kA -posture",
+      "usage_in_word_pool": 4,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D3",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D3",
+      "mnemonic": "Sny",
+      "description": "hair",
+      "usage_in_word_pool": 10,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_D34",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D34",
+      "mnemonic": "aHA",
+      "description": "arms holding shield and battle-axe",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D36",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D36",
+      "mnemonic": "a",
+      "description": "forearm",
+      "usage_in_word_pool": 108,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D4",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D4",
+      "mnemonic": "ir",
+      "description": "eye",
+      "usage_in_word_pool": 6,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D46",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D46",
+      "mnemonic": "d",
+      "description": "hand",
+      "usage_in_word_pool": 44,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D50",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D50",
+      "mnemonic": "Dba",
+      "description": "finger vertically",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_D56",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "D56",
+      "mnemonic": "rd",
+      "description": "leg",
+      "usage_in_word_pool": 11,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D58",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "D58",
+      "mnemonic": "b",
+      "description": "foot",
+      "usage_in_word_pool": 66,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_D9",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "D9",
+      "mnemonic": "rmi",
+      "description": "eye with flowing tears",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_E17",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "E17",
+      "mnemonic": "zAb",
+      "description": "jackal",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_E22",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "E22",
+      "mnemonic": "mAi",
+      "description": "lion",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_E23",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "E23",
+      "mnemonic": "l",
+      "description": "lying lion",
+      "usage_in_word_pool": 8,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_E34",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "E34",
+      "mnemonic": "wn",
+      "description": "hare",
+      "usage_in_word_pool": 21,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_E6",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "E6",
+      "mnemonic": "zzmt",
+      "description": "horse",
+      "usage_in_word_pool": 3,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F13",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F13",
+      "mnemonic": "wp",
+      "description": "horns",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F16",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F16",
+      "mnemonic": "db",
+      "description": "horn",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F18",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F18",
+      "mnemonic": "Hw",
+      "description": "tusk",
+      "usage_in_word_pool": 28,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_F20",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F20",
+      "mnemonic": "ns",
+      "description": "tongue",
+      "usage_in_word_pool": 1,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_F21",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F21",
+      "mnemonic": "idn",
+      "description": "ear of bovine",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F22",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F22",
+      "mnemonic": "pH",
+      "description": "hind-quarters of lion",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F23",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F23",
+      "mnemonic": "xpS",
+      "description": "foreleg of ox",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F25",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F25",
+      "mnemonic": "wHm",
+      "description": "leg of ox",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F26",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F26",
+      "mnemonic": "Xn",
+      "description": "skin of goat",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F30",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F30",
+      "mnemonic": "Sd",
+      "description": "water-skin",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F31",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F31",
+      "mnemonic": "ms",
+      "description": "three skins tied together",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F32",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "F32",
+      "mnemonic": "X",
+      "description": "animal&#x27;s belly",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_F34",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F34",
+      "mnemonic": "ib",
+      "description": "heart",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F35",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F35",
+      "mnemonic": "nfr",
+      "description": "heart and windpipe",
+      "usage_in_word_pool": 0,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_F36",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F36",
+      "mnemonic": "zmA",
+      "description": "lung and windpipe",
+      "usage_in_word_pool": 38,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_F39",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "F39",
+      "mnemonic": "imAx",
+      "description": "backbone and spinal cord",
+      "usage_in_word_pool": 4,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F4",
+      "mnemonic": "HAt",
+      "description": "forepart of lion",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F40",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "F40",
+      "mnemonic": "Aw",
+      "description": "backbone and spinal cords",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F44",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F44",
+      "mnemonic": "iwa",
+      "description": "leg-bone with meat",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_F46",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F46",
+      "mnemonic": "pXr",
+      "description": "intestine",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_F5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "F5",
+      "mnemonic": "SsA",
+      "description": "head of bubalis or hartebeest",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G1",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "G1",
+      "mnemonic": "A",
+      "description": "Egyptian vulture",
+      "usage_in_word_pool": 170,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G14",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "G14",
+      "mnemonic": "mwt",
+      "description": "vulture",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_G17",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "G17",
+      "mnemonic": "m",
+      "description": "owl",
+      "usage_in_word_pool": 66,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G21",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G21",
+      "mnemonic": "nH",
+      "description": "guinea-fowl",
+      "usage_in_word_pool": 9,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G25",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G25",
+      "mnemonic": "Ax",
+      "description": "northern bald ibis",
+      "usage_in_word_pool": 0,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G27",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "G27",
+      "mnemonic": "dSr",
+      "description": "flamingo",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G28",
+      "mnemonic": "gm",
+      "description": "glossy ibis",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G29",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G29",
+      "mnemonic": "bA",
+      "description": "saddle-billed stork",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G32",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "G32",
+      "mnemonic": "baHi",
+      "description": "heron on perch",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G35",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G35",
+      "mnemonic": "aq",
+      "description": "cormorant",
+      "usage_in_word_pool": 5,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G36",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G36",
+      "mnemonic": "wr",
+      "description": "swallow",
+      "usage_in_word_pool": 5,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G38",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G38",
+      "mnemonic": "gb",
+      "description": "white-fronted goose",
+      "usage_in_word_pool": 2,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G39",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G39",
+      "mnemonic": "zA",
+      "description": "pintail",
+      "usage_in_word_pool": 60,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "G4",
+      "mnemonic": "tyw",
+      "description": "buzzard",
+      "usage_in_word_pool": 1,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G40",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G40",
+      "mnemonic": "pA",
+      "description": "pintail flying",
+      "usage_in_word_pool": 5,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_G41",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G41",
+      "mnemonic": "xn",
+      "description": "pintail alighting",
+      "usage_in_word_pool": 31,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G42",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "G42",
+      "mnemonic": "wSA",
+      "description": "widgeon",
+      "usage_in_word_pool": 2,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_G43",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "G43",
+      "mnemonic": "w",
+      "description": "quail chick",
+      "usage_in_word_pool": 118,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_G47",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "G47",
+      "mnemonic": "TA",
+      "description": "duckling",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_G54",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "G54",
+      "mnemonic": "snD",
+      "description": "plucked bird",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_H2",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "H2",
+      "mnemonic": "wSm",
+      "description": "head of crested bird",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_H3",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "H3",
+      "mnemonic": "pAq",
+      "description": "head of spoonbill",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_H6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "H6",
+      "mnemonic": "Sw",
+      "description": "feather",
+      "usage_in_word_pool": 18,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_I10",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "I10",
+      "mnemonic": "D",
+      "description": "cobra",
+      "usage_in_word_pool": 39,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_I3",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "I3",
+      "mnemonic": "mzH",
+      "description": "crocodile",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_I5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "I5",
+      "mnemonic": "sAq",
+      "description": "crocodile with curved tail",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_I9",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "I9",
+      "mnemonic": "f",
+      "description": "horned viper",
+      "usage_in_word_pool": 37,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_K1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "K1",
+      "mnemonic": "in",
+      "description": "tilapia",
+      "usage_in_word_pool": 13,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_K3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "K3",
+      "mnemonic": "ad",
+      "description": "mullet",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_K4",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "K4",
+      "mnemonic": "XA",
+      "description": "elephant-snout fish",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_K5",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "K5",
+      "mnemonic": "bz",
+      "description": "Petrocephalus bane",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_K6",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "K6",
+      "mnemonic": "nSmt",
+      "description": "fish scale",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_L1",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "L1",
+      "mnemonic": "xpr",
+      "description": "dung beetle",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_L2",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "L2",
+      "mnemonic": "bit",
+      "description": "bee",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M1",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M1",
+      "mnemonic": "iAm",
+      "description": "tree",
+      "usage_in_word_pool": 5,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_M11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M11",
+      "mnemonic": "wdn",
+      "description": "flower on long twisted stalk",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M12",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M12",
+      "mnemonic": "xA",
+      "description": "lotus plant",
+      "usage_in_word_pool": 23,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M13",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M13",
+      "mnemonic": "wAD",
+      "description": "papyrus",
+      "usage_in_word_pool": 0,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_M16",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M16",
+      "mnemonic": "HA",
+      "description": "clump of papyrus",
+      "usage_in_word_pool": 1,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M17",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "M17",
+      "mnemonic": "i",
+      "description": "reed",
+      "usage_in_word_pool": 179,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M18",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M18",
+      "mnemonic": "ii",
+      "description": "combination of M17 M17 and D54 D54",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M2",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M2",
+      "mnemonic": "Hn",
+      "description": "plant",
+      "usage_in_word_pool": 27,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M21",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M21",
+      "mnemonic": "sm",
+      "description": "reeds with root",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M23",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M23",
+      "mnemonic": "sw",
+      "description": "sedge",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M24",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M24",
+      "mnemonic": "rsw",
+      "description": "combination of M23 M23 and D21 D21",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_M3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M3",
+      "mnemonic": "xt",
+      "description": "branch",
+      "usage_in_word_pool": 29,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M34",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M34",
+      "mnemonic": "bdt",
+      "description": "ear of emmer",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_M36",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M36",
+      "mnemonic": "Dr",
+      "description": "bundle of flax showing bolls",
+      "usage_in_word_pool": 3,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M4",
+      "mnemonic": "rnp",
+      "description": "palm branch",
+      "usage_in_word_pool": 9,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_M40",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M40",
+      "mnemonic": "iz",
+      "description": "bundle of reeds",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M6",
+      "mnemonic": "tr",
+      "description": "combination of M4 M4 and D21 D21",
+      "usage_in_word_pool": 11,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M8",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "M8",
+      "mnemonic": "SA",
+      "description": "pool with lotus flowers",
+      "usage_in_word_pool": 14,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_M9",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "M9",
+      "mnemonic": "zSn",
+      "description": "lotus flower",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N1",
+      "mnemonic": "pt",
+      "description": "sky",
+      "usage_in_word_pool": 2,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N11",
+      "mnemonic": "Abd",
+      "description": "crescent moon",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N14",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N14",
+      "mnemonic": "sbA",
+      "description": "star",
+      "usage_in_word_pool": 2,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_N16",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N16",
+      "mnemonic": "tA",
+      "description": "land with grains",
+      "usage_in_word_pool": 2,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_N18",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N18",
+      "mnemonic": "iw",
+      "description": "sandy tract",
+      "usage_in_word_pool": 1,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_N20",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N20",
+      "mnemonic": "wDb",
+      "description": "tongue of land",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N24",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N24",
+      "mnemonic": "spAt",
+      "description": "irrigation canal system",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N25",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N25",
+      "mnemonic": "xAst",
+      "description": "three hills",
+      "usage_in_word_pool": 5,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N26",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N26",
+      "mnemonic": "Dw",
+      "description": "two hills",
+      "usage_in_word_pool": 6,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_N27",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N27",
+      "mnemonic": "Axt",
+      "description": "sun over mountain",
+      "usage_in_word_pool": 5,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_N29",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "N29",
+      "mnemonic": "q",
+      "description": "slope of hill",
+      "usage_in_word_pool": 56,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N30",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N30",
+      "mnemonic": "iAt",
+      "description": "mound of earth",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N35",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "N35",
+      "mnemonic": "n",
+      "description": "ripple of water",
+      "usage_in_word_pool": 202,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N35A",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N35A",
+      "mnemonic": "mw",
+      "description": "three ripples of water",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N37",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "N37",
+      "mnemonic": "S",
+      "description": "pool",
+      "usage_in_word_pool": 59,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N4",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N4",
+      "mnemonic": "iAdt",
+      "description": "sky with rain",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N41",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N41",
+      "mnemonic": "id",
+      "description": "well with ripple of water",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N5",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "N5",
+      "mnemonic": "ra",
+      "description": "sun",
+      "usage_in_word_pool": 36,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_N8",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "N8",
+      "mnemonic": "Hnmmt",
+      "description": "sunshine",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_N9",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "N9",
+      "mnemonic": "pzD",
+      "description": "moon with lower half obscured",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_O1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O1",
+      "mnemonic": "pr",
+      "description": "house",
+      "usage_in_word_pool": 20,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_O11",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O11",
+      "mnemonic": "aH",
+      "description": "palace",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O25",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O25",
+      "mnemonic": "txn",
+      "description": "obelisk",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O28",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O28",
+      "mnemonic": "iwn",
+      "description": "column",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_O29",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O29",
+      "mnemonic": "aA",
+      "description": "horizontal wooden column",
+      "usage_in_word_pool": 11,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_O34",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "O34",
+      "mnemonic": "z",
+      "description": "bolt",
+      "usage_in_word_pool": 45,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_O35",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O35",
+      "mnemonic": "zb",
+      "description": "combination of O34 O34 and D54 D54",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O36",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O36",
+      "mnemonic": "inb",
+      "description": "wall",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_O4",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "O4",
+      "mnemonic": "h",
+      "description": "shelter",
+      "usage_in_word_pool": 58,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_O42",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O42",
+      "mnemonic": "Szp",
+      "description": "fence",
+      "usage_in_word_pool": 15,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_O45",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O45",
+      "mnemonic": "ipt",
+      "description": "domed building",
+      "usage_in_word_pool": 6,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_O49",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "O49",
+      "mnemonic": "niwt",
+      "description": "village",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O50",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "O50",
+      "mnemonic": "zp",
+      "description": "threshing floor",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_O6",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "O6",
+      "mnemonic": "Hwt",
+      "description": "enclosure",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_P4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "P4",
+      "mnemonic": "wHa",
+      "description": "boat with net",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_P5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "P5",
+      "mnemonic": "nfw",
+      "description": "sail",
+      "usage_in_word_pool": 4,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_P6",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "P6",
+      "mnemonic": "aHa",
+      "description": "mast",
+      "usage_in_word_pool": 23,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_P8",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "P8",
+      "mnemonic": "xrw",
+      "description": "oar",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Q1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "Q1",
+      "mnemonic": "st",
+      "description": "seat",
+      "usage_in_word_pool": 7,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_Q2",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "Q2",
+      "mnemonic": "wz",
+      "description": "portable seat",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Q3",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "Q3",
+      "mnemonic": "p",
+      "description": "stool",
+      "usage_in_word_pool": 44,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_Q6",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "Q6",
+      "mnemonic": "qrsw",
+      "description": "coffin",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R1",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "R1",
+      "mnemonic": "xAwt",
+      "description": "high table with offerings",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R11",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "R11",
+      "mnemonic": "dd",
+      "description": "reed column",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R14",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "R14",
+      "mnemonic": "imnt",
+      "description": "feather on standard",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R15",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "R15",
+      "mnemonic": "iAb",
+      "description": "spear emblem",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R4",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "R4",
+      "mnemonic": "Htp",
+      "description": "loaf on mat",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_R5",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "R5",
+      "mnemonic": "kAp",
+      "description": "narrow censer",
+      "usage_in_word_pool": 11,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_R7",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "R7",
+      "mnemonic": "snTr",
+      "description": "bowl with smoke",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_R8",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "R8",
+      "mnemonic": "nTr",
+      "description": "cloth on pole",
+      "usage_in_word_pool": 1,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_R9",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "R9",
+      "mnemonic": "bd",
+      "description": "combination of R8 R8 and V33 V33",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_S1",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S1",
+      "mnemonic": "HDt",
+      "description": "white crown",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S11",
+      "mnemonic": "wsx",
+      "description": "broad collar",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S12",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S12",
+      "mnemonic": "nbw",
+      "description": "collar of beads",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S20",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S20",
+      "mnemonic": "xtm",
+      "description": "necklace with seal from front",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S23",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S23",
+      "mnemonic": "dmD",
+      "description": "knotted cloth",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_S24",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "S24",
+      "mnemonic": "Tz",
+      "description": "girdle knot",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S27",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "S27",
+      "mnemonic": "mnxt",
+      "description": "cloth with two strands",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S29",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "S29",
+      "mnemonic": "s",
+      "description": "folded cloth",
+      "usage_in_word_pool": 72,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_S3",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "S3",
+      "mnemonic": "dSrt",
+      "description": "red crown",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S30",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "S30",
+      "mnemonic": "sf",
+      "description": "combination of S29 S29 and I9 I9",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S34",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S34",
+      "mnemonic": "anx",
+      "description": "sandle-strap",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S35",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S35",
+      "mnemonic": "Swt",
+      "description": "sunshade",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S38",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S38",
+      "mnemonic": "HqA",
+      "description": "crook",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S42",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "S42",
+      "mnemonic": "abA",
+      "description": "sceptre of authority",
+      "usage_in_word_pool": 5,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_S43",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "S43",
+      "mnemonic": "md",
+      "description": "walking stick",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_S6",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "S6",
+      "mnemonic": "sxmty",
+      "description": "combination of S5 S5 and V30 V30",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T10",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T10",
+      "mnemonic": "pD",
+      "description": "composite bow",
+      "usage_in_word_pool": 9,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_T11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "T11",
+      "mnemonic": "zin",
+      "description": "arrow",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T12",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T12",
+      "mnemonic": "Ai",
+      "description": "bow-string",
+      "usage_in_word_pool": 0,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_T13",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T13",
+      "mnemonic": "rs",
+      "description": "joined pieces of wood",
+      "usage_in_word_pool": 9,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_T14",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "T14",
+      "mnemonic": "qmA",
+      "description": "throw stick vertically",
+      "usage_in_word_pool": 30,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_T19",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T19",
+      "mnemonic": "qs",
+      "description": "harpoon head",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_T22",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T22",
+      "mnemonic": "sn",
+      "description": "arrowhead",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_T24",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T24",
+      "mnemonic": "iH",
+      "description": "fishing-net",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_T25",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "T25",
+      "mnemonic": "DbA",
+      "description": "floats",
+      "usage_in_word_pool": 19,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_T28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T28",
+      "mnemonic": "Xr",
+      "description": "butcher&#x27;s block",
+      "usage_in_word_pool": 0,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_T3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T3",
+      "mnemonic": "HD",
+      "description": "mace with round head vertically",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_T31",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "T31",
+      "mnemonic": "sSm",
+      "description": "knife-sharpener",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_T34",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T34",
+      "mnemonic": "nm",
+      "description": "butcher&#x27;s knife",
+      "usage_in_word_pool": 1,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_T9",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "T9",
+      "mnemonic": "pd",
+      "description": "bow",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U1",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U1",
+      "mnemonic": "mA",
+      "description": "sickle",
+      "usage_in_word_pool": 36,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_U10",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U10",
+      "mnemonic": "it",
+      "description": "U9 U9 beneath M33 M33",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_U13",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U13",
+      "mnemonic": "hb",
+      "description": "plough",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U15",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U15",
+      "mnemonic": "tm",
+      "description": "sledge",
+      "usage_in_word_pool": 10,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_U16",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "U16",
+      "mnemonic": "biA",
+      "description": "sledge with head of jackal",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U21",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "U21",
+      "mnemonic": "stp",
+      "description": "adze on wood",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U23",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U23",
+      "mnemonic": "Ab",
+      "description": "chisel",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U28",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U28",
+      "mnemonic": "DA",
+      "description": "fire-drill",
+      "usage_in_word_pool": 16,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_U31",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "U31",
+      "mnemonic": "rtH",
+      "description": "baker&#x27;s rake",
+      "usage_in_word_pool": 2,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_U32",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "U32",
+      "mnemonic": "zmn",
+      "description": "pestle and mortar",
+      "usage_in_word_pool": 7,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_U33",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U33",
+      "mnemonic": "ti",
+      "description": "pestle",
+      "usage_in_word_pool": 7,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_U6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "U6",
+      "mnemonic": "mr",
+      "description": "diagonal hoe",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V12",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V12",
+      "mnemonic": "arq",
+      "description": "string",
+      "usage_in_word_pool": 1,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_V13",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "V13",
+      "mnemonic": "T",
+      "description": "rope",
+      "usage_in_word_pool": 18,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V19",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V19",
+      "mnemonic": "mDt",
+      "description": "hobble with cross-bar",
+      "usage_in_word_pool": 3,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V2",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V2",
+      "mnemonic": "sTA",
+      "description": "combination of O34 O34 and V1 V1",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_V22",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V22",
+      "mnemonic": "mH",
+      "description": "whip",
+      "usage_in_word_pool": 7,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V24",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V24",
+      "mnemonic": "wD",
+      "description": "cord on stick",
+      "usage_in_word_pool": 1,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V28",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "V28",
+      "mnemonic": "H",
+      "description": "wick",
+      "usage_in_word_pool": 140,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V29",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V29",
+      "mnemonic": "wAH",
+      "description": "swab",
+      "usage_in_word_pool": 7,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_V30",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V30",
+      "mnemonic": "nb",
+      "description": "basket",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V31",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "V31",
+      "mnemonic": "k",
+      "description": "basket with right handle",
+      "usage_in_word_pool": 34,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V32",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V32",
+      "mnemonic": "msn",
+      "description": "frail",
+      "usage_in_word_pool": 1,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V33",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "V33",
+      "mnemonic": "sSr",
+      "description": "bag",
+      "usage_in_word_pool": 2,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_V4",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V4",
+      "mnemonic": "wA",
+      "description": "lasso",
+      "usage_in_word_pool": 5,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_V6",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V6",
+      "mnemonic": "Ss",
+      "description": "cord with ends upward",
+      "usage_in_word_pool": 3,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_V7",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "V7",
+      "mnemonic": "Sn",
+      "description": "cord with ends downward",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_W10",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "W10",
+      "mnemonic": "iab",
+      "description": "cup",
+      "usage_in_word_pool": 5,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_W11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "W11",
+      "mnemonic": "nzt",
+      "description": "round ring stand",
+      "usage_in_word_pool": 29,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_W14",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W14",
+      "mnemonic": "Hz",
+      "description": "water jar",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W19",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W19",
+      "mnemonic": "mi",
+      "description": "milk jug in net",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W22",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "W22",
+      "mnemonic": "Hnqt",
+      "description": "beer jug",
+      "usage_in_word_pool": 8,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_W24",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W24",
+      "mnemonic": "nw",
+      "description": "bowl",
+      "usage_in_word_pool": 29,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_W25",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "W25",
+      "mnemonic": "ini",
+      "description": "combination of W24 W24 and D54 D54",
+      "usage_in_word_pool": 21,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_W3",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "W3",
+      "mnemonic": "Hb",
+      "description": "alabaster basin",
+      "usage_in_word_pool": 3,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_W9",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "W9",
+      "mnemonic": "Xnm",
+      "description": "jug with left handle",
+      "usage_in_word_pool": 0,
+      "copies": 3
+    },
+    {
+      "card_id": "sign_X1",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "X1",
+      "mnemonic": "t",
+      "description": "flat loaf",
+      "usage_in_word_pool": 231,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_X8",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "X8",
+      "mnemonic": "rdi",
+      "description": "conical loaf",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Y1",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "Y1",
+      "mnemonic": "mDAt",
+      "description": "scroll with ties",
+      "usage_in_word_pool": 83,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Y3",
+      "type": "phonetic",
+      "phonetic_class": "4plus",
+      "sign_code": "Y3",
+      "mnemonic": "mnhd",
+      "description": "scribe&#x27;s outfit with palette on left",
+      "usage_in_word_pool": 0,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Y5",
+      "type": "phonetic",
+      "phonetic_class": "biliteral",
+      "sign_code": "Y5",
+      "mnemonic": "mn",
+      "description": "game board",
+      "usage_in_word_pool": 20,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_Y6",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "Y6",
+      "mnemonic": "ibA",
+      "description": "game piece",
+      "usage_in_word_pool": 1,
+      "copies": 1
+    },
+    {
+      "card_id": "sign_Z11",
+      "type": "phonetic",
+      "phonetic_class": "triliteral",
+      "sign_code": "Z11",
+      "mnemonic": "imi",
+      "description": "cross",
+      "usage_in_word_pool": 0,
+      "copies": 2
+    },
+    {
+      "card_id": "sign_Z4",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "Z4",
+      "mnemonic": "y",
+      "description": "two diagonal strokes",
+      "usage_in_word_pool": 0,
+      "copies": 4
+    },
+    {
+      "card_id": "sign_Z7",
+      "type": "phonetic",
+      "phonetic_class": "uniliteral",
+      "sign_code": "Z7",
+      "mnemonic": "W",
+      "description": "hieratic quail chick",
+      "usage_in_word_pool": 120,
+      "copies": 4
+    }
+  ],
+  "logogram_deck": [],
+  "word_deck": [],
+  "unique_sign_count": 238,
+  "total_sign_copies": 547
+}

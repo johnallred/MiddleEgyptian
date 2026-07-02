@@ -1,0 +1,60 @@
+{
+  "transliteration": "XaA",
+  "english_glosses": [
+    "bring (to dry land)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F32",
+        "D36",
+        "G1",
+        "Z7",
+        "F22"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "F22",
+          "mnemonic": "pH",
+          "class": "biliteral",
+          "description": "hind-quarters of lion"
+        }
+      ]
+    }
+  ]
+}

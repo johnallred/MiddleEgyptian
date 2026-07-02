@@ -1,0 +1,60 @@
+{
+  "transliteration": "ma",
+  "english_glosses": [
+    "creeper ?"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U1",
+        "G1",
+        "O29",
+        "Y1",
+        "M1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "O29",
+          "mnemonic": "aA",
+          "class": "biliteral",
+          "description": "horizontal wooden column"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "M1",
+          "mnemonic": "iAm",
+          "class": "triliteral",
+          "description": "tree"
+        }
+      ]
+    }
+  ]
+}

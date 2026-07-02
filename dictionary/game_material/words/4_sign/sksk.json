@@ -1,0 +1,247 @@
+{
+  "transliteration": "sksk",
+  "english_glosses": [
+    "destroy",
+    "to destroy",
+    "wander about",
+    "serpent"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V31",
+        "O34",
+        "V31",
+        "O34"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O34",
+        "V31",
+        "S29",
+        "V29",
+        "V31"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V29",
+        "V31",
+        "S29",
+        "V29",
+        "V31"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "V29",
+        "V31",
+        "S29",
+        "V29",
+        "V31"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "V29",
+        "V31",
+        "S29",
+        "V29",
+        "V31",
+        "X1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

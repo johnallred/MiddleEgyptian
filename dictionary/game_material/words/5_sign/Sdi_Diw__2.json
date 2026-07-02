@@ -1,0 +1,60 @@
+{
+  "transliteration": "Sdi Diw",
+  "english_glosses": [
+    "Withdrawers of rations"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F30",
+        "D46",
+        "Y1",
+        "X8",
+        "U10"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F30",
+          "mnemonic": "Sd",
+          "class": "biliteral",
+          "description": "water-skin"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "X8",
+          "mnemonic": "rdi",
+          "class": "triliteral",
+          "description": "conical loaf"
+        },
+        {
+          "sign": "U10",
+          "mnemonic": "it",
+          "class": "biliteral",
+          "description": "U9 U9 beneath M33 M33"
+        }
+      ]
+    }
+  ]
+}

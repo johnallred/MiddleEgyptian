@@ -1,0 +1,126 @@
+{
+  "transliteration": "nDm ib",
+  "english_glosses": [
+    "to be glad",
+    "to be of good cheer",
+    "joy"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M29",
+        "G17",
+        "F34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M29",
+          "mnemonic": "nDm",
+          "class": "triliteral",
+          "description": "pod"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M29",
+        "G17",
+        "Y1",
+        "F34"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M29",
+          "mnemonic": "nDm",
+          "class": "triliteral",
+          "description": "pod"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "M29",
+        "G17",
+        "Y1",
+        "F34"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M29",
+          "mnemonic": "nDm",
+          "class": "triliteral",
+          "description": "pod"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "F34",
+          "mnemonic": "ib",
+          "class": "biliteral",
+          "description": "heart"
+        }
+      ]
+    }
+  ]
+}

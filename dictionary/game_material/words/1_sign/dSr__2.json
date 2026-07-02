@@ -1,0 +1,242 @@
+{
+  "transliteration": "dSr",
+  "english_glosses": [
+    "flamingo",
+    "red",
+    "adj. red",
+    "(a plant ) {used for its red dye}",
+    "{used in connection with boatbuilding } (unknown)",
+    "be red"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adjective",
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G27"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G27",
+          "mnemonic": "dSr",
+          "class": "triliteral",
+          "description": "flamingo"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S3"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S3",
+          "mnemonic": "dSrt",
+          "class": "4plus",
+          "description": "red crown"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G27",
+        "D21"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G27",
+          "mnemonic": "dSr",
+          "class": "triliteral",
+          "description": "flamingo"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N37",
+        "G27"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G27",
+          "mnemonic": "dSr",
+          "class": "triliteral",
+          "description": "flamingo"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N37",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N37",
+        "D21",
+        "G27"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G27",
+          "mnemonic": "dSr",
+          "class": "triliteral",
+          "description": "flamingo"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N37",
+        "D21",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "N37",
+        "D21",
+        "Z7",
+        "M2"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

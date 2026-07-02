@@ -1,0 +1,57 @@
+{
+  "transliteration": "mHwnw",
+  "english_glosses": [
+    "slaughter",
+    "Sacrificial Slaughterer",
+    "slaughterer"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V22",
+        "E34",
+        "N35",
+        "W24"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "E34",
+          "mnemonic": "wn",
+          "class": "biliteral",
+          "description": "hare"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        }
+      ]
+    }
+  ]
+}

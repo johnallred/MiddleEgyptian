@@ -1,0 +1,210 @@
+{
+  "transliteration": "Aw",
+  "english_glosses": [
+    "long",
+    "length",
+    "(1) adj. long",
+    "length (of space)",
+    "long (de espacio",
+    "long (of space"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F40"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F40",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F40",
+        "N25"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "N25",
+          "mnemonic": "xAst",
+          "class": "4plus",
+          "description": "three hills"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F40",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F40",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F40",
+        "G43",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F40",
+        "Z7",
+        "N18"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "N18",
+          "mnemonic": "iw",
+          "class": "biliteral",
+          "description": "sandy tract"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F40",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F40",
+          "mnemonic": "Aw",
+          "class": "biliteral",
+          "description": "backbone and spinal cords"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

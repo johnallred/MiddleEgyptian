@@ -1,0 +1,221 @@
+{
+  "transliteration": "Xrt",
+  "english_glosses": [
+    "possessions",
+    "requirements",
+    "the Hereafter",
+    "under",
+    "Lower {cryptic}"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T28"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T28",
+        "D21"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T28",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T28",
+        "D21",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T28",
+        "D21",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "D21",
+        "V13",
+        "V13"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T28",
+        "D21",
+        "X1",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

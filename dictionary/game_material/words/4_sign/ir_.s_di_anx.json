@@ -1,0 +1,53 @@
+{
+  "transliteration": "ir .s di anx",
+  "english_glosses": [
+    "that they may be given life"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "pronoun",
+  "all_pos": [
+    "pronoun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D4",
+        "O34",
+        "X8",
+        "S34"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D4",
+          "mnemonic": "ir",
+          "class": "biliteral",
+          "description": "eye"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "X8",
+          "mnemonic": "rdi",
+          "class": "triliteral",
+          "description": "conical loaf"
+        },
+        {
+          "sign": "S34",
+          "mnemonic": "anx",
+          "class": "triliteral",
+          "description": "sandle-strap"
+        }
+      ]
+    }
+  ]
+}

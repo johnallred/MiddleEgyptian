@@ -1,0 +1,82 @@
+{
+  "transliteration": "Hmsw",
+  "english_glosses": [
+    "sloth"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N41",
+        "O34",
+        "A17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N41",
+          "mnemonic": "id",
+          "class": "biliteral",
+          "description": "well with ripple of water"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N41",
+        "O34",
+        "G43",
+        "A17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N41",
+          "mnemonic": "id",
+          "class": "biliteral",
+          "description": "well with ripple of water"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    }
+  ]
+}

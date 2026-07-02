@@ -1,0 +1,60 @@
+{
+  "transliteration": "aggt",
+  "english_glosses": [
+    "(unknown)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D36",
+        "V33",
+        "V33",
+        "X1",
+        "M2"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    }
+  ]
+}

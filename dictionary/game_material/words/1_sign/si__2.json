@@ -1,0 +1,56 @@
+{
+  "transliteration": "si",
+  "english_glosses": [
+    "him {cryptic}",
+    "for other words written with this sign see under is and sb."
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "pronoun",
+  "all_pos": [
+    "noun",
+    "pronoun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O35"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "O35",
+          "mnemonic": "zb",
+          "class": "biliteral",
+          "description": "combination of O34 O34 and D54 D54"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "M17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

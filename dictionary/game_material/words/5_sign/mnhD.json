@@ -1,0 +1,104 @@
+{
+  "transliteration": "mnhD",
+  "english_glosses": [
+    "scribe's palette",
+    "scribe’s palette"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Y5",
+        "N35",
+        "O4",
+        "D46",
+        "Y3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "Y3",
+          "mnemonic": "mnhd",
+          "class": "4plus",
+          "description": "scribe&#x27;s outfit with palette on left"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Y5",
+        "N35",
+        "O4",
+        "I10",
+        "Y3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "O4",
+          "mnemonic": "h",
+          "class": "uniliteral",
+          "description": "shelter"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "Y3",
+          "mnemonic": "mnhd",
+          "class": "4plus",
+          "description": "scribe&#x27;s outfit with palette on left"
+        }
+      ]
+    }
+  ]
+}

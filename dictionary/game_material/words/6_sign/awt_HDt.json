@@ -1,0 +1,67 @@
+{
+  "transliteration": "awt HDt",
+  "english_glosses": [
+    "sheep"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S39",
+        "G43",
+        "X1",
+        "T3",
+        "X1",
+        "N5"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "S39",
+          "mnemonic": "awt",
+          "class": "triliteral",
+          "description": "shepherd&#x27;s crook"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "T3",
+          "mnemonic": "HD",
+          "class": "biliteral",
+          "description": "mace with round head vertically"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    }
+  ]
+}

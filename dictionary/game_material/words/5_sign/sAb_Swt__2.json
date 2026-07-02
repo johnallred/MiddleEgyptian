@@ -1,0 +1,65 @@
+{
+  "transliteration": "sAb Swt",
+  "english_glosses": [
+    "many coloured ofplummage (of Solar Horus)",
+    "variegated of plumage",
+    "many coloured of plummage (of Solar Horus)",
+    "variegated"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective"
+  ],
+  "sources": [
+    "Dickson",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "U23",
+        "D58",
+        "H6",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "U23",
+          "mnemonic": "Ab",
+          "class": "biliteral",
+          "description": "chisel"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

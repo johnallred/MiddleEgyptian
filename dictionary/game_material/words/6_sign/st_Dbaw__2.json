@@ -1,0 +1,67 @@
+{
+  "transliteration": "st Dbaw",
+  "english_glosses": [
+    "ability"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "Q1",
+        "X1",
+        "O1",
+        "D50",
+        "D50",
+        "D50"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "D50",
+          "mnemonic": "Dba",
+          "class": "triliteral",
+          "description": "finger vertically"
+        },
+        {
+          "sign": "D50",
+          "mnemonic": "Dba",
+          "class": "triliteral",
+          "description": "finger vertically"
+        },
+        {
+          "sign": "D50",
+          "mnemonic": "Dba",
+          "class": "triliteral",
+          "description": "finger vertically"
+        }
+      ]
+    }
+  ]
+}

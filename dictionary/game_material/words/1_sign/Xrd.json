@@ -1,0 +1,167 @@
+{
+  "transliteration": "Xrd",
+  "english_glosses": [
+    "be",
+    "child",
+    "become a child",
+    "n. child",
+    "calf (of gazelle)",
+    "calf of gazelle"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "A17"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F32",
+        "D46"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F32",
+        "D21",
+        "D46"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F32",
+        "D21",
+        "D46",
+        "A17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F32",
+        "D21",
+        "D46",
+        "Z7",
+        "A17"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    }
+  ]
+}

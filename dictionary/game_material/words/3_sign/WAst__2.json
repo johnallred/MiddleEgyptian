@@ -1,0 +1,46 @@
+{
+  "transliteration": "WAst",
+  "english_glosses": [
+    "n. loc. name and city of Thebes"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S40",
+        "X1",
+        "N24"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S40",
+          "mnemonic": "wAs",
+          "class": "triliteral",
+          "description": "sceptre"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N24",
+          "mnemonic": "spAt",
+          "class": "4plus",
+          "description": "irrigation canal system"
+        }
+      ]
+    }
+  ]
+}

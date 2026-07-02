@@ -1,0 +1,91 @@
+{
+  "transliteration": "Dd mdw",
+  "english_glosses": [
+    "recitation",
+    "words to be spoken"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I10",
+        "S43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S43",
+        "I10"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "I10",
+        "D46",
+        "S43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        }
+      ]
+    }
+  ]
+}

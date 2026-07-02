@@ -1,0 +1,124 @@
+{
+  "transliteration": "mHi",
+  "english_glosses": [
+    "drown",
+    "be concerned (for)",
+    "care",
+    "vb. 3inf. be concerned",
+    "inundate (land)",
+    "swim"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "V22"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V22",
+        "D36"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G17",
+        "V22",
+        "V28"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "G17",
+        "V22"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "V22",
+          "mnemonic": "mH",
+          "class": "biliteral",
+          "description": "whip"
+        }
+      ]
+    }
+  ]
+}

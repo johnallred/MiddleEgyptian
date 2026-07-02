@@ -1,0 +1,46 @@
+{
+  "transliteration": "Xr Hr",
+  "english_glosses": [
+    "under the control of"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "preposition",
+  "all_pos": [
+    "preposition"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T28",
+        "D21",
+        "D2"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "transliteration": "qis",
+  "english_glosses": [
+    "Cusae (El - Kusiyah)",
+    "Cusae (El Kusiyah)",
+    "vomit",
+    "vomiting"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "A38"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "A38",
+          "mnemonic": "qiz",
+          "class": "triliteral",
+          "description": "man holding necks of two emblematic animals with panther heads"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "A38",
+        "S29",
+        "O49"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "A38",
+          "mnemonic": "qiz",
+          "class": "triliteral",
+          "description": "man holding necks of two emblematic animals with panther heads"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N29",
+        "M17",
+        "S29"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N29",
+        "M17",
+        "S29",
+        "O49"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    }
+  ]
+}

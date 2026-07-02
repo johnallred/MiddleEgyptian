@@ -1,0 +1,53 @@
+{
+  "transliteration": "Dnty",
+  "english_glosses": [
+    "Sun god {uncertain of V37}"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I10",
+        "N35",
+        "X1",
+        "V37"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V37",
+          "mnemonic": "idr",
+          "class": "triliteral",
+          "description": "bandage"
+        }
+      ]
+    }
+  ]
+}

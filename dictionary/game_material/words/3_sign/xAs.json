@@ -1,0 +1,54 @@
+{
+  "transliteration": "xAs",
+  "english_glosses": [
+    "scramble ?",
+    "scramble (?)",
+    "creek ? runnel ?",
+    "creek ?",
+    "creek (?)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M12",
+        "G1",
+        "O34"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M12",
+          "mnemonic": "xA",
+          "class": "biliteral",
+          "description": "lotus plant"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    }
+  ]
+}

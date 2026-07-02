@@ -1,0 +1,118 @@
+{
+  "transliteration": "waH",
+  "english_glosses": [
+    "earth - almond ?",
+    "Tiger nut"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N11"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11",
+        "V28"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "G43",
+        "D36"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "G43",
+        "D36",
+        "N11"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        }
+      ]
+    }
+  ]
+}

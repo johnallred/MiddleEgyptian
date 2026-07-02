@@ -1,0 +1,325 @@
+{
+  "transliteration": "iwnw",
+  "english_glosses": [
+    "Heliopolis",
+    "Heliopolis (On)",
+    "Heliopolis {uncertain of N5}",
+    "Sun God",
+    "pile (of bodies)",
+    "Heliopolitan"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O28"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O28",
+        "A15"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        },
+        {
+          "sign": "A15",
+          "mnemonic": "xr",
+          "class": "biliteral",
+          "description": "man falling"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O28",
+        "O1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W3",
+        "N5"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D2",
+        "N5",
+        "D2"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        },
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O28",
+        "O28",
+        "O28"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        },
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        },
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O28",
+        "W24",
+        "O49"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W3",
+        "X1",
+        "N5"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W3",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O28",
+        "W24",
+        "O49",
+        "S43"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        },
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "K1",
+        "N35",
+        "W24",
+        "Z7",
+        "D3"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D3",
+          "mnemonic": "Sny",
+          "class": "triliteral",
+          "description": "hair"
+        }
+      ]
+    }
+  ]
+}

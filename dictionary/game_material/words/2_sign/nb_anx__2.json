@@ -1,0 +1,40 @@
+{
+  "transliteration": "nb anx",
+  "english_glosses": [
+    "Lord of life",
+    "sarcophagus"
+  ],
+  "shortest_sign_count": 2,
+  "difficulty_tier": "easy",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V30",
+        "S34"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "S34",
+          "mnemonic": "anx",
+          "class": "triliteral",
+          "description": "sandle-strap"
+        }
+      ]
+    }
+  ]
+}

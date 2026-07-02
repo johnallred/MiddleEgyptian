@@ -1,0 +1,53 @@
+{
+  "transliteration": "sDm-aS",
+  "english_glosses": [
+    "servant"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F21",
+        "G17",
+        "D36",
+        "N37"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F21",
+          "mnemonic": "idn",
+          "class": "triliteral",
+          "description": "ear of bovine"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        }
+      ]
+    }
+  ]
+}

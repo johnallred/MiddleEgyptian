@@ -1,0 +1,115 @@
+{
+  "transliteration": "Ar",
+  "english_glosses": [
+    "drive away",
+    "suppress",
+    "oppress (the poor)",
+    "watercourse ?"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G1",
+        "D21",
+        "D56"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D56",
+          "mnemonic": "rd",
+          "class": "biliteral",
+          "description": "leg"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G1",
+        "D21",
+        "T12"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G1",
+        "M17",
+        "D21",
+        "T12"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        }
+      ]
+    }
+  ]
+}

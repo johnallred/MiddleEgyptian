@@ -1,0 +1,123 @@
+{
+  "transliteration": "Tms n xntt",
+  "english_glosses": [
+    "Decan"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W17",
+        "X1",
+        "X1",
+        "V13",
+        "S29",
+        "Y3"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Y3",
+          "mnemonic": "mnhd",
+          "class": "4plus",
+          "description": "scribe&#x27;s outfit with palette on left"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "S29",
+        "Y3",
+        "N35",
+        "W17",
+        "X1",
+        "X1"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "Y3",
+          "mnemonic": "mnhd",
+          "class": "4plus",
+          "description": "scribe&#x27;s outfit with palette on left"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

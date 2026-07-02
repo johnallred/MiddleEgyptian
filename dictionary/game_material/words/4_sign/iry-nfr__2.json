@@ -1,0 +1,53 @@
+{
+  "transliteration": "iry-nfr-",
+  "english_glosses": [
+    "keeper of the diadem"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "A47",
+        "F35",
+        "F4",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "A47",
+          "mnemonic": "iry",
+          "class": "triliteral",
+          "description": "shepherd seated and wrapped in mantle, holding stick"
+        },
+        {
+          "sign": "F35",
+          "mnemonic": "nfr",
+          "class": "triliteral",
+          "description": "heart and windpipe"
+        },
+        {
+          "sign": "F4",
+          "mnemonic": "HAt",
+          "class": "triliteral",
+          "description": "forepart of lion"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "transliteration": "aHa",
+  "english_glosses": [
+    "portion",
+    "stand",
+    "unfriendly (calendar of good and bad days)",
+    "penalize",
+    "mast",
+    "position (of stars)"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "A21"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "A21",
+          "mnemonic": "sr",
+          "class": "biliteral",
+          "description": "man holding staff with handkerchief"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P5"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "P5",
+          "mnemonic": "nfw",
+          "class": "triliteral",
+          "description": "sail"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "P6"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "D36"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "W10"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "W24"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "W24",
+          "mnemonic": "nw",
+          "class": "biliteral",
+          "description": "bowl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "P6",
+        "A21"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "A21",
+          "mnemonic": "sr",
+          "class": "biliteral",
+          "description": "man holding staff with handkerchief"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "P6",
+        "D36"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "D36",
+        "A21"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "A21",
+          "mnemonic": "sr",
+          "class": "biliteral",
+          "description": "man holding staff with handkerchief"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "D36",
+        "G43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "D36",
+        "N5"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "D36",
+        "Z7"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P6",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "P6",
+          "mnemonic": "aHa",
+          "class": "triliteral",
+          "description": "mast"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

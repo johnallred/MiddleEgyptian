@@ -1,0 +1,81 @@
+{
+  "transliteration": "mHw .s",
+  "english_glosses": [
+    "Crown of Lower Egypt"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S3",
+        "O34"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S3",
+          "mnemonic": "dSrt",
+          "class": "4plus",
+          "description": "red crown"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M16",
+        "S29",
+        "S3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "S3",
+          "mnemonic": "dSrt",
+          "class": "4plus",
+          "description": "red crown"
+        }
+      ]
+    }
+  ]
+}

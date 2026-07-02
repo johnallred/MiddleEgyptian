@@ -1,0 +1,102 @@
+{
+  "transliteration": "dbn pXr HA nbwt",
+  "english_glosses": [
+    "Aegean Sea"
+  ],
+  "shortest_sign_count": 11,
+  "difficulty_tier": "expert",
+  "point_value": 30,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D46",
+        "D58",
+        "N35",
+        "F46",
+        "F46",
+        "D21",
+        "M16",
+        "V30",
+        "V30",
+        "V30",
+        "X1"
+      ],
+      "sign_count": 11,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        },
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

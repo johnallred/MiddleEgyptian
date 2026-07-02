@@ -1,0 +1,257 @@
+{
+  "transliteration": "stpt",
+  "english_glosses": [
+    "choice things (of food)",
+    "coll. choice things of food",
+    "choice",
+    "an attraction",
+    "choice (n.)",
+    "shrine"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U21"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "Q3",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U21",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "Q3",
+        "X1",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "X1",
+        "Q3",
+        "X1",
+        "U21"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "V13",
+        "Q3",
+        "X1",
+        "U21",
+        "F23",
+        "F44"
+      ],
+      "sign_count": 7,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "F23",
+          "mnemonic": "xpS",
+          "class": "triliteral",
+          "description": "foreleg of ox"
+        },
+        {
+          "sign": "F44",
+          "mnemonic": "iwa",
+          "class": "triliteral",
+          "description": "leg-bone with meat"
+        }
+      ]
+    }
+  ]
+}

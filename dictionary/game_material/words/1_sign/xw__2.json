@@ -1,0 +1,54 @@
+{
+  "transliteration": "xw",
+  "english_glosses": [
+    "fan",
+    "protection"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S37"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S37",
+          "mnemonic": "xw",
+          "class": "biliteral",
+          "description": "fan"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S37",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S37",
+          "mnemonic": "xw",
+          "class": "biliteral",
+          "description": "fan"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

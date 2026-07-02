@@ -1,0 +1,140 @@
+{
+  "transliteration": "Sny",
+  "english_glosses": [
+    "Worker",
+    "container (as a measure for ochre)",
+    "crocodile",
+    "Inquirer"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V7",
+        "M17",
+        "M17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "I3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "I3",
+          "mnemonic": "mzH",
+          "class": "triliteral",
+          "description": "crocodile"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "N35",
+        "W22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "W22",
+          "mnemonic": "Hnqt",
+          "class": "4plus",
+          "description": "beer jug"
+        }
+      ]
+    }
+  ]
+}

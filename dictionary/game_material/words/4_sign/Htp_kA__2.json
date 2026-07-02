@@ -1,0 +1,53 @@
+{
+  "transliteration": "Htp kA",
+  "english_glosses": [
+    "'Peace of the Ka' (human faeces)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "R4",
+        "X1",
+        "Q3",
+        "D28"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "R4",
+          "mnemonic": "Htp",
+          "class": "triliteral",
+          "description": "loaf on mat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        }
+      ]
+    }
+  ]
+}

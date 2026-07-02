@@ -1,0 +1,79 @@
+{
+  "transliteration": "dAr",
+  "english_glosses": [
+    "control (a tribe)",
+    "subdue (foes)",
+    "rob (someone)",
+    "control (temper)",
+    "hustle"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T12"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D46",
+        "G1",
+        "M17",
+        "D21",
+        "T12"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        }
+      ]
+    }
+  ]
+}

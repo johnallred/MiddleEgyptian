@@ -1,0 +1,53 @@
+{
+  "transliteration": "Hry tA n mnw",
+  "english_glosses": [
+    "(a Priest of Min)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N1",
+        "N18",
+        "N35",
+        "R22"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N1",
+          "mnemonic": "pt",
+          "class": "biliteral",
+          "description": "sky"
+        },
+        {
+          "sign": "N18",
+          "mnemonic": "iw",
+          "class": "biliteral",
+          "description": "sandy tract"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "R22",
+          "mnemonic": "xm",
+          "class": "biliteral",
+          "description": "two narrow belemnites"
+        }
+      ]
+    }
+  ]
+}

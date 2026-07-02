@@ -1,0 +1,51 @@
+{
+  "transliteration": "pxA",
+  "english_glosses": [
+    "decking (of ship)",
+    "veneer",
+    "to split",
+    "work off"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M3"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Y1"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

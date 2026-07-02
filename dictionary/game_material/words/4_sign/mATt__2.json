@@ -1,0 +1,53 @@
+{
+  "transliteration": "mATt",
+  "english_glosses": [
+    "(a plant)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U1",
+        "V13",
+        "X1",
+        "M34"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M34",
+          "mnemonic": "bdt",
+          "class": "triliteral",
+          "description": "ear of emmer"
+        }
+      ]
+    }
+  ]
+}

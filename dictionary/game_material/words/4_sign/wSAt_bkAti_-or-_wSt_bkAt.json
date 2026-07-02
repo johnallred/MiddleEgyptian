@@ -1,0 +1,53 @@
+{
+  "transliteration": "wSAt bkAti / wSt bkAt",
+  "english_glosses": [
+    "Decan"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G42",
+        "X1",
+        "X1",
+        "N14"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G42",
+          "mnemonic": "wSA",
+          "class": "triliteral",
+          "description": "widgeon"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "transliteration": "wD mdw",
+  "english_glosses": [
+    "command"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V24",
+        "S43",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "G43",
+        "Y1",
+        "S43",
+        "D46",
+        "G43"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

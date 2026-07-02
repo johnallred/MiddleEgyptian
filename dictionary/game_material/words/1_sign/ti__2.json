@@ -1,0 +1,82 @@
+{
+  "transliteration": "ti",
+  "english_glosses": [
+    "(not translated)",
+    "not translated",
+    "but",
+    "trample on (Horus eye)",
+    "non-encl. part.",
+    "both of you"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "particle",
+  "all_pos": [
+    "particle",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U33"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U33",
+        "M17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "M17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        }
+      ]
+    }
+  ]
+}

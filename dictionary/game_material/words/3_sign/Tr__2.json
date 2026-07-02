@@ -1,0 +1,140 @@
+{
+  "transliteration": "Tr",
+  "english_glosses": [
+    "door",
+    "(unknown)",
+    "{used in connection with carved furniture} (unknown)",
+    "red liquid (blood)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V13",
+        "D21",
+        "M3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "D21",
+        "T19"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "T19",
+          "mnemonic": "qs",
+          "class": "biliteral",
+          "description": "harpoon head"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V13",
+        "D21",
+        "Y3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "Y3",
+          "mnemonic": "mnhd",
+          "class": "4plus",
+          "description": "scribe&#x27;s outfit with palette on left"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "Z7",
+        "D21",
+        "Y3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "Y3",
+          "mnemonic": "mnhd",
+          "class": "4plus",
+          "description": "scribe&#x27;s outfit with palette on left"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "transliteration": "Tbwy",
+  "english_glosses": [
+    "soles (of feet)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "X1",
+        "D58",
+        "G43",
+        "S33",
+        "S33"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "S33",
+          "mnemonic": "Tb",
+          "class": "biliteral",
+          "description": "sandle"
+        },
+        {
+          "sign": "S33",
+          "mnemonic": "Tb",
+          "class": "biliteral",
+          "description": "sandle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "transliteration": "xntyw",
+  "english_glosses": [
+    "clothing",
+    "gods of the front hall / atrium",
+    "beginning (of a land)",
+    "clothing material"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W17",
+        "G4",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W17",
+        "X1",
+        "G4"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W17",
+        "N35",
+        "G4",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W17",
+        "N35",
+        "X1",
+        "G4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    }
+  ]
+}

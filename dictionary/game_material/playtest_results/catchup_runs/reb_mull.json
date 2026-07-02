@@ -1,0 +1,44 @@
+{
+ "variant": "reb_mull",
+ "games": 1000,
+ "seed": 1000,
+ "mirror": {
+  "agents": [
+   "balanced",
+   "balanced"
+  ],
+  "first_scorer_win_pct": 57.4,
+  "agent_win_rates": {
+   "balanced": 0.5
+  },
+  "seat_win_rates": {
+   "seat_0": 0.493,
+   "seat_1": 0.507
+  },
+  "balance": 99.4,
+  "median_turns": 126,
+  "steals_per_game": 1.42,
+  "logograms_per_game": 0.99,
+  "mulligans_per_game": 1.63
+ },
+ "skill": {
+  "agents": [
+   "greedy",
+   "balanced"
+  ],
+  "first_scorer_win_pct": 55.0,
+  "agent_win_rates": {
+   "greedy": 0.424,
+   "balanced": 0.576
+  },
+  "seat_win_rates": {
+   "seat_0": 0.424,
+   "seat_1": 0.576
+  },
+  "balance": 93.9,
+  "median_turns": 134,
+  "steals_per_game": 1.5,
+  "logograms_per_game": 1.04,
+  "mulligans_per_game": 1.65
+ }
+}

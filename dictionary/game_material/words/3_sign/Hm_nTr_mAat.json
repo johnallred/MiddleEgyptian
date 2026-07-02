@@ -1,0 +1,46 @@
+{
+  "transliteration": "Hm nTr mAat",
+  "english_glosses": [
+    "Prophet of Maat"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "R8",
+        "U36",
+        "H6"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "R8",
+          "mnemonic": "nTr",
+          "class": "triliteral",
+          "description": "cloth on pole"
+        },
+        {
+          "sign": "U36",
+          "mnemonic": "Hm",
+          "class": "biliteral",
+          "description": "club"
+        },
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        }
+      ]
+    }
+  ]
+}

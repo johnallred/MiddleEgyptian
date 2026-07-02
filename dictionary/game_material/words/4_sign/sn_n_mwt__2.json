@@ -1,0 +1,53 @@
+{
+  "transliteration": "sn n mwt",
+  "english_glosses": [
+    "maternal uncle"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T22",
+        "N35",
+        "G14",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T22",
+          "mnemonic": "sn",
+          "class": "biliteral",
+          "description": "arrowhead"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G14",
+          "mnemonic": "mwt",
+          "class": "triliteral",
+          "description": "vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

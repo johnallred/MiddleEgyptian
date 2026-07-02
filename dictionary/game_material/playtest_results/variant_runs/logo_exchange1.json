@@ -1,0 +1,50 @@
+{
+ "variant": "logo_exchange1",
+ "games": 500,
+ "seed": 1000,
+ "notes": {},
+ "by_players": {
+  "2": {
+   "balance": 98.3,
+   "victory_pct": 99.8,
+   "median_turns": 122,
+   "avg_score": 6.6,
+   "steals_per_game": 0.63,
+   "logograms_per_game": 0.26,
+   "exchanges_per_game": 28.08,
+   "seat_win_rates": {
+    "seat_0": 0.52,
+    "seat_1": 0.48
+   }
+  },
+  "3": {
+   "balance": 99.3,
+   "victory_pct": 100.0,
+   "median_turns": 96,
+   "avg_score": 4.2,
+   "steals_per_game": 1.03,
+   "logograms_per_game": 0.32,
+   "exchanges_per_game": 31.98,
+   "seat_win_rates": {
+    "seat_0": 0.324,
+    "seat_1": 0.336,
+    "seat_2": 0.34
+   }
+  },
+  "4": {
+   "balance": 97.8,
+   "victory_pct": 100.0,
+   "median_turns": 104,
+   "avg_score": 3.2,
+   "steals_per_game": 1.6,
+   "logograms_per_game": 0.44,
+   "exchanges_per_game": 37.62,
+   "seat_win_rates": {
+    "seat_0": 0.23,
+    "seat_1": 0.248,
+    "seat_2": 0.278,
+    "seat_3": 0.244
+   }
+  }
+ }
+}

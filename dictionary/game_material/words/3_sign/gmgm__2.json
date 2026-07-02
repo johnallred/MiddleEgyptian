@@ -1,0 +1,210 @@
+{
+  "transliteration": "gmgm",
+  "english_glosses": [
+    "smash (boxes)",
+    "smash boxes",
+    "tear up (books)",
+    "foolish talk ? mess about",
+    "examine",
+    "slow moving (liquid)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G28",
+        "G17",
+        "O50"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G28",
+          "mnemonic": "gm",
+          "class": "biliteral",
+          "description": "glossy ibis"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "O50",
+          "mnemonic": "zp",
+          "class": "biliteral",
+          "description": "threshing floor"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G28",
+        "G17",
+        "G28",
+        "G17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G28",
+          "mnemonic": "gm",
+          "class": "biliteral",
+          "description": "glossy ibis"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G28",
+          "mnemonic": "gm",
+          "class": "biliteral",
+          "description": "glossy ibis"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T12",
+        "G17",
+        "T12",
+        "G17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "T12",
+          "mnemonic": "Ai",
+          "class": "biliteral",
+          "description": "bow-string"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W11",
+        "G17",
+        "W11",
+        "G17"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "W11",
+          "mnemonic": "nzt",
+          "class": "triliteral",
+          "description": "round ring stand"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G28",
+        "G17",
+        "G28",
+        "G17",
+        "Y1",
+        "O50"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "G28",
+          "mnemonic": "gm",
+          "class": "biliteral",
+          "description": "glossy ibis"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G28",
+          "mnemonic": "gm",
+          "class": "biliteral",
+          "description": "glossy ibis"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "O50",
+          "mnemonic": "zp",
+          "class": "biliteral",
+          "description": "threshing floor"
+        }
+      ]
+    }
+  ]
+}

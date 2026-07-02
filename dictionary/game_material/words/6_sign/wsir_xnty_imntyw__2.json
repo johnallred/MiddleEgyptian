@@ -1,0 +1,67 @@
+{
+  "transliteration": "wsir xnty imntyw",
+  "english_glosses": [
+    "Osiris Foremost of the Westerners"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D4",
+        "Q1",
+        "W17",
+        "R14",
+        "X1",
+        "G4"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "D4",
+          "mnemonic": "ir",
+          "class": "biliteral",
+          "description": "eye"
+        },
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        },
+        {
+          "sign": "W17",
+          "mnemonic": "xnt",
+          "class": "triliteral",
+          "description": "three water jars in rack"
+        },
+        {
+          "sign": "R14",
+          "mnemonic": "imnt",
+          "class": "4plus",
+          "description": "feather on standard"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    }
+  ]
+}

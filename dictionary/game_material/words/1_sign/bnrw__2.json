@@ -1,0 +1,126 @@
+{
+  "transliteration": "bnrw",
+  "english_glosses": [
+    "sweetness",
+    "in r-bnrw ‘outside’"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "pronoun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M30"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M30",
+          "mnemonic": "bnr",
+          "class": "triliteral",
+          "description": "root"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M30",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M30",
+          "mnemonic": "bnr",
+          "class": "triliteral",
+          "description": "root"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M30",
+        "M30",
+        "M30"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M30",
+          "mnemonic": "bnr",
+          "class": "triliteral",
+          "description": "root"
+        },
+        {
+          "sign": "M30",
+          "mnemonic": "bnr",
+          "class": "triliteral",
+          "description": "root"
+        },
+        {
+          "sign": "M30",
+          "mnemonic": "bnr",
+          "class": "triliteral",
+          "description": "root"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "N35",
+        "D21",
+        "G43",
+        "O1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

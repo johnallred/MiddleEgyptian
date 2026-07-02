@@ -1,0 +1,263 @@
+{
+  "transliteration": "Hnmmt",
+  "english_glosses": [
+    "the sun-folk of Heliopolis",
+    "the sun folk of Heliopolis",
+    "the sun-folk ofHeliopolis",
+    "mankind",
+    "citizens"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N8"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N8",
+        "G17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N8",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N8",
+        "G17",
+        "G17"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N8",
+        "G18",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        },
+        {
+          "sign": "G18",
+          "mnemonic": "mm",
+          "class": "biliteral",
+          "description": "two owls"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N8",
+        "G17",
+        "G17",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "G17",
+        "G17",
+        "X1",
+        "N8"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V28",
+        "M2",
+        "N35",
+        "G17",
+        "G17",
+        "X1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

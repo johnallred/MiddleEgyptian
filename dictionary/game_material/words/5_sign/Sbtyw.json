@@ -1,0 +1,60 @@
+{
+  "transliteration": "Sbtyw",
+  "english_glosses": [
+    "ribs (as food)"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N37",
+        "D58",
+        "G4",
+        "F42",
+        "F42"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "F42",
+          "mnemonic": "spr",
+          "class": "triliteral",
+          "description": "rib"
+        },
+        {
+          "sign": "F42",
+          "mnemonic": "spr",
+          "class": "triliteral",
+          "description": "rib"
+        }
+      ]
+    }
+  ]
+}

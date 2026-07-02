@@ -1,0 +1,1723 @@
+{
+  "uniliteral": {
+    "X1": {
+      "count": 16254,
+      "primary_mnemonic": "t",
+      "description": "flat loaf"
+    },
+    "M17": {
+      "count": 12731,
+      "primary_mnemonic": "i",
+      "description": "reed"
+    },
+    "N35": {
+      "count": 9549,
+      "primary_mnemonic": "n",
+      "description": "ripple of water"
+    },
+    "G1": {
+      "count": 8088,
+      "primary_mnemonic": "A",
+      "description": "Egyptian vulture"
+    },
+    "D21": {
+      "count": 7521,
+      "primary_mnemonic": "r",
+      "description": "mouth",
+      "alt_mnemonics": [
+        "rA"
+      ]
+    },
+    "G43": {
+      "count": 6052,
+      "primary_mnemonic": "w",
+      "description": "quail chick"
+    },
+    "S29": {
+      "count": 6002,
+      "primary_mnemonic": "s",
+      "description": "folded cloth"
+    },
+    "Z7": {
+      "count": 5875,
+      "primary_mnemonic": "W",
+      "description": "hieratic quail chick"
+    },
+    "D36": {
+      "count": 5252,
+      "primary_mnemonic": "a",
+      "description": "forearm"
+    },
+    "D58": {
+      "count": 4681,
+      "primary_mnemonic": "b",
+      "description": "foot"
+    },
+    "G17": {
+      "count": 4083,
+      "primary_mnemonic": "m",
+      "description": "owl"
+    },
+    "D46": {
+      "count": 3494,
+      "primary_mnemonic": "d",
+      "description": "hand"
+    },
+    "Z4": {
+      "count": 3389,
+      "primary_mnemonic": "y",
+      "description": "two diagonal strokes"
+    },
+    "V28": {
+      "count": 3311,
+      "primary_mnemonic": "H",
+      "description": "wick"
+    },
+    "AA1": {
+      "count": 3308,
+      "primary_mnemonic": "x",
+      "description": "basket from above"
+    },
+    "Q3": {
+      "count": 2807,
+      "primary_mnemonic": "p",
+      "description": "stool"
+    },
+    "O34": {
+      "count": 2434,
+      "primary_mnemonic": "z",
+      "description": "bolt"
+    },
+    "N37": {
+      "count": 2319,
+      "primary_mnemonic": "S",
+      "description": "pool"
+    },
+    "I9": {
+      "count": 2017,
+      "primary_mnemonic": "f",
+      "description": "horned viper"
+    },
+    "N29": {
+      "count": 1971,
+      "primary_mnemonic": "q",
+      "description": "slope of hill"
+    },
+    "O4": {
+      "count": 1663,
+      "primary_mnemonic": "h",
+      "description": "shelter"
+    },
+    "V31": {
+      "count": 1567,
+      "primary_mnemonic": "k",
+      "description": "basket with right handle"
+    },
+    "I10": {
+      "count": 1238,
+      "primary_mnemonic": "D",
+      "description": "cobra"
+    },
+    "V13": {
+      "count": 1135,
+      "primary_mnemonic": "T",
+      "description": "rope"
+    },
+    "F32": {
+      "count": 508,
+      "primary_mnemonic": "X",
+      "description": "animal&#x27;s belly"
+    },
+    "E23": {
+      "count": 379,
+      "primary_mnemonic": "l",
+      "description": "lying lion",
+      "alt_mnemonics": [
+        "rw"
+      ]
+    }
+  },
+  "biliteral": {
+    "W24": {
+      "count": 2207,
+      "primary_mnemonic": "nw",
+      "description": "bowl"
+    },
+    "O1": {
+      "count": 1781,
+      "primary_mnemonic": "pr",
+      "description": "house"
+    },
+    "M3": {
+      "count": 1177,
+      "primary_mnemonic": "xt",
+      "description": "branch"
+    },
+    "M2": {
+      "count": 1121,
+      "primary_mnemonic": "Hn",
+      "description": "plant"
+    },
+    "N35A": {
+      "count": 867,
+      "primary_mnemonic": "mw",
+      "description": "three ripples of water"
+    },
+    "U33": {
+      "count": 788,
+      "primary_mnemonic": "ti",
+      "description": "pestle"
+    },
+    "N5": {
+      "count": 727,
+      "primary_mnemonic": "ra",
+      "description": "sun",
+      "alt_mnemonics": [
+        "zw",
+        "hrw"
+      ]
+    },
+    "U28": {
+      "count": 723,
+      "primary_mnemonic": "DA",
+      "description": "fire-drill"
+    },
+    "D2": {
+      "count": 670,
+      "primary_mnemonic": "Hr",
+      "description": "face"
+    },
+    "V4": {
+      "count": 655,
+      "primary_mnemonic": "wA",
+      "description": "lasso"
+    },
+    "G29": {
+      "count": 616,
+      "primary_mnemonic": "bA",
+      "description": "saddle-billed stork"
+    },
+    "Y5": {
+      "count": 606,
+      "primary_mnemonic": "mn",
+      "description": "game board"
+    },
+    "M12": {
+      "count": 579,
+      "primary_mnemonic": "xA",
+      "description": "lotus plant"
+    },
+    "D56": {
+      "count": 577,
+      "primary_mnemonic": "rd",
+      "description": "leg",
+      "alt_mnemonics": [
+        "sbq",
+        "gH",
+        "gHs"
+      ]
+    },
+    "M8": {
+      "count": 548,
+      "primary_mnemonic": "SA",
+      "description": "pool with lotus flowers"
+    },
+    "D4": {
+      "count": 530,
+      "primary_mnemonic": "ir",
+      "description": "eye"
+    },
+    "F18": {
+      "count": 526,
+      "primary_mnemonic": "Hw",
+      "description": "tusk",
+      "alt_mnemonics": [
+        "bH"
+      ]
+    },
+    "G36": {
+      "count": 526,
+      "primary_mnemonic": "wr",
+      "description": "swallow"
+    },
+    "U1": {
+      "count": 515,
+      "primary_mnemonic": "mA",
+      "description": "sickle"
+    },
+    "E34": {
+      "count": 496,
+      "primary_mnemonic": "wn",
+      "description": "hare"
+    },
+    "G39": {
+      "count": 485,
+      "primary_mnemonic": "zA",
+      "description": "pintail"
+    },
+    "G41": {
+      "count": 483,
+      "primary_mnemonic": "xn",
+      "description": "pintail alighting"
+    },
+    "V6": {
+      "count": 456,
+      "primary_mnemonic": "Ss",
+      "description": "cord with ends upward"
+    },
+    "F34": {
+      "count": 454,
+      "primary_mnemonic": "ib",
+      "description": "heart"
+    },
+    "O29": {
+      "count": 450,
+      "primary_mnemonic": "aA",
+      "description": "horizontal wooden column"
+    },
+    "D28": {
+      "count": 437,
+      "primary_mnemonic": "kA",
+      "description": "arms in kA -posture"
+    },
+    "K1": {
+      "count": 433,
+      "primary_mnemonic": "in",
+      "description": "tilapia"
+    },
+    "M16": {
+      "count": 405,
+      "primary_mnemonic": "HA",
+      "description": "clump of papyrus"
+    },
+    "D1": {
+      "count": 377,
+      "primary_mnemonic": "tp",
+      "description": "head in profile"
+    },
+    "D52": {
+      "count": 354,
+      "primary_mnemonic": "mt",
+      "description": "phallus"
+    },
+    "G47": {
+      "count": 352,
+      "primary_mnemonic": "TA",
+      "description": "duckling"
+    },
+    "F31": {
+      "count": 351,
+      "primary_mnemonic": "ms",
+      "description": "three skins tied together"
+    },
+    "N16": {
+      "count": 328,
+      "primary_mnemonic": "tA",
+      "description": "land with grains"
+    },
+    "M23": {
+      "count": 314,
+      "primary_mnemonic": "sw",
+      "description": "sedge"
+    },
+    "N1": {
+      "count": 283,
+      "primary_mnemonic": "pt",
+      "description": "sky"
+    },
+    "T34": {
+      "count": 276,
+      "primary_mnemonic": "nm",
+      "description": "butcher&#x27;s knife"
+    },
+    "T28": {
+      "count": 267,
+      "primary_mnemonic": "Xr",
+      "description": "butcher&#x27;s block"
+    },
+    "G40": {
+      "count": 261,
+      "primary_mnemonic": "pA",
+      "description": "pintail flying"
+    },
+    "M36": {
+      "count": 237,
+      "primary_mnemonic": "Dr",
+      "description": "bundle of flax showing bolls"
+    },
+    "Q1": {
+      "count": 231,
+      "primary_mnemonic": "st",
+      "description": "seat"
+    },
+    "W19": {
+      "count": 229,
+      "primary_mnemonic": "mi",
+      "description": "milk jug in net"
+    },
+    "N41": {
+      "count": 219,
+      "primary_mnemonic": "id",
+      "description": "well with ripple of water"
+    },
+    "H6": {
+      "count": 218,
+      "primary_mnemonic": "Sw",
+      "description": "feather"
+    },
+    "V7": {
+      "count": 210,
+      "primary_mnemonic": "Sn",
+      "description": "cord with ends downward"
+    },
+    "F13": {
+      "count": 209,
+      "primary_mnemonic": "wp",
+      "description": "horns"
+    },
+    "T22": {
+      "count": 206,
+      "primary_mnemonic": "sn",
+      "description": "arrowhead"
+    },
+    "F20": {
+      "count": 203,
+      "primary_mnemonic": "ns",
+      "description": "tongue"
+    },
+    "AA28": {
+      "count": 202,
+      "primary_mnemonic": "qd",
+      "description": "level"
+    },
+    "V22": {
+      "count": 200,
+      "primary_mnemonic": "mH",
+      "description": "whip"
+    },
+    "T12": {
+      "count": 198,
+      "primary_mnemonic": "Ai",
+      "description": "bow-string",
+      "alt_mnemonics": [
+        "Ar",
+        "rwd",
+        "rwD"
+      ]
+    },
+    "V30": {
+      "count": 191,
+      "primary_mnemonic": "nb",
+      "description": "basket"
+    },
+    "N26": {
+      "count": 177,
+      "primary_mnemonic": "Dw",
+      "description": "two hills"
+    },
+    "F22": {
+      "count": 176,
+      "primary_mnemonic": "pH",
+      "description": "hind-quarters of lion",
+      "alt_mnemonics": [
+        "kfA"
+      ]
+    },
+    "U23": {
+      "count": 172,
+      "primary_mnemonic": "Ab",
+      "description": "chisel"
+    },
+    "F40": {
+      "count": 170,
+      "primary_mnemonic": "Aw",
+      "description": "backbone and spinal cords"
+    },
+    "F26": {
+      "count": 168,
+      "primary_mnemonic": "Xn",
+      "description": "skin of goat"
+    },
+    "W3": {
+      "count": 168,
+      "primary_mnemonic": "Hb",
+      "description": "alabaster basin"
+    },
+    "T3": {
+      "count": 165,
+      "primary_mnemonic": "HD",
+      "description": "mace with round head vertically"
+    },
+    "AA13": {
+      "count": 162,
+      "primary_mnemonic": "im",
+      "description": "sharp half",
+      "alt_mnemonics": [
+        "gs",
+        "M"
+      ]
+    },
+    "F30": {
+      "count": 152,
+      "primary_mnemonic": "Sd",
+      "description": "water-skin"
+    },
+    "U15": {
+      "count": 147,
+      "primary_mnemonic": "tm",
+      "description": "sledge"
+    },
+    "AA17": {
+      "count": 145,
+      "primary_mnemonic": "sA",
+      "description": "lid"
+    },
+    "G25": {
+      "count": 144,
+      "primary_mnemonic": "Ax",
+      "description": "northern bald ibis"
+    },
+    "K4": {
+      "count": 141,
+      "primary_mnemonic": "XA",
+      "description": "elephant-snout fish"
+    },
+    "W14": {
+      "count": 125,
+      "primary_mnemonic": "Hz",
+      "description": "water jar"
+    },
+    "M40": {
+      "count": 124,
+      "primary_mnemonic": "iz",
+      "description": "bundle of reeds"
+    },
+    "F16": {
+      "count": 123,
+      "primary_mnemonic": "db",
+      "description": "horn"
+    },
+    "S43": {
+      "count": 122,
+      "primary_mnemonic": "md",
+      "description": "walking stick"
+    },
+    "S24": {
+      "count": 118,
+      "primary_mnemonic": "Tz",
+      "description": "girdle knot"
+    },
+    "M6": {
+      "count": 114,
+      "primary_mnemonic": "tr",
+      "description": "combination of M4 M4 and D21 D21"
+    },
+    "T19": {
+      "count": 113,
+      "primary_mnemonic": "qs",
+      "description": "harpoon head"
+    },
+    "U13": {
+      "count": 113,
+      "primary_mnemonic": "hb",
+      "description": "plough",
+      "alt_mnemonics": [
+        "Sna"
+      ]
+    },
+    "V24": {
+      "count": 112,
+      "primary_mnemonic": "wD",
+      "description": "cord on stick"
+    },
+    "O35": {
+      "count": 110,
+      "primary_mnemonic": "zb",
+      "description": "combination of O34 O34 and D54 D54"
+    },
+    "AA27": {
+      "count": 109,
+      "primary_mnemonic": "nD",
+      "description": "spindle"
+    },
+    "G28": {
+      "count": 103,
+      "primary_mnemonic": "gm",
+      "description": "glossy ibis"
+    },
+    "G21": {
+      "count": 95,
+      "primary_mnemonic": "nH",
+      "description": "guinea-fowl"
+    },
+    "N28": {
+      "count": 95,
+      "primary_mnemonic": "xa",
+      "description": "rays of sun over hill"
+    },
+    "V26": {
+      "count": 92,
+      "primary_mnemonic": "aD",
+      "description": "netting needle"
+    },
+    "N18": {
+      "count": 89,
+      "primary_mnemonic": "iw",
+      "description": "sandy tract"
+    },
+    "O50": {
+      "count": 89,
+      "primary_mnemonic": "zp",
+      "description": "threshing floor"
+    },
+    "S33": {
+      "count": 89,
+      "primary_mnemonic": "Tb",
+      "description": "sandle"
+    },
+    "A15": {
+      "count": 86,
+      "primary_mnemonic": "xr",
+      "description": "man falling"
+    },
+    "I6": {
+      "count": 76,
+      "primary_mnemonic": "km",
+      "description": "crocodile scales"
+    },
+    "T9": {
+      "count": 70,
+      "primary_mnemonic": "pd",
+      "description": "bow"
+    },
+    "A21": {
+      "count": 69,
+      "primary_mnemonic": "sr",
+      "description": "man holding staff with handkerchief"
+    },
+    "T10": {
+      "count": 69,
+      "primary_mnemonic": "pD",
+      "description": "composite bow"
+    },
+    "G35": {
+      "count": 66,
+      "primary_mnemonic": "aq",
+      "description": "cormorant"
+    },
+    "R11": {
+      "count": 61,
+      "primary_mnemonic": "dd",
+      "description": "reed column",
+      "alt_mnemonics": [
+        "Dd"
+      ]
+    },
+    "M18": {
+      "count": 57,
+      "primary_mnemonic": "ii",
+      "description": "combination of M17 M17 and D54 D54"
+    },
+    "U36": {
+      "count": 57,
+      "primary_mnemonic": "Hm",
+      "description": "club"
+    },
+    "N40": {
+      "count": 45,
+      "primary_mnemonic": "Sm",
+      "description": "combination of N37 N37 and D54 D54"
+    },
+    "AA8": {
+      "count": 44,
+      "primary_mnemonic": "qn",
+      "description": "irrigation canal"
+    },
+    "U6": {
+      "count": 41,
+      "primary_mnemonic": "mr",
+      "description": "diagonal hoe"
+    },
+    "D59": {
+      "count": 39,
+      "primary_mnemonic": "ab",
+      "description": "combination of D58 D58 and D36 D36"
+    },
+    "K5": {
+      "count": 38,
+      "primary_mnemonic": "bz",
+      "description": "Petrocephalus bane"
+    },
+    "O22": {
+      "count": 35,
+      "primary_mnemonic": "zH",
+      "description": "booth with pole"
+    },
+    "U10": {
+      "count": 31,
+      "primary_mnemonic": "it",
+      "description": "U9 U9 beneath M33 M33"
+    },
+    "S22": {
+      "count": 30,
+      "primary_mnemonic": "sT",
+      "description": "shoulder-knot"
+    },
+    "AA5": {
+      "count": 28,
+      "primary_mnemonic": "Hp",
+      "description": "navigation instrument"
+    },
+    "T13": {
+      "count": 27,
+      "primary_mnemonic": "rs",
+      "description": "joined pieces of wood"
+    },
+    "T24": {
+      "count": 27,
+      "primary_mnemonic": "iH",
+      "description": "fishing-net"
+    },
+    "G38": {
+      "count": 22,
+      "primary_mnemonic": "gb",
+      "description": "white-fronted goose"
+    },
+    "Q2": {
+      "count": 21,
+      "primary_mnemonic": "wz",
+      "description": "portable seat"
+    },
+    "R22": {
+      "count": 21,
+      "primary_mnemonic": "xm",
+      "description": "two narrow belemnites"
+    },
+    "H4": {
+      "count": 19,
+      "primary_mnemonic": "nr",
+      "description": "head of vulture"
+    },
+    "M21": {
+      "count": 19,
+      "primary_mnemonic": "sm",
+      "description": "reeds with root"
+    },
+    "O11": {
+      "count": 18,
+      "primary_mnemonic": "aH",
+      "description": "palace"
+    },
+    "K3": {
+      "count": 15,
+      "primary_mnemonic": "ad",
+      "description": "mullet"
+    },
+    "R9": {
+      "count": 14,
+      "primary_mnemonic": "bd",
+      "description": "combination of R8 R8 and V33 V33"
+    },
+    "S37": {
+      "count": 12,
+      "primary_mnemonic": "xw",
+      "description": "fan"
+    },
+    "C11": {
+      "count": 11,
+      "primary_mnemonic": "HH",
+      "description": "god with arms supporting (the sky) and M4 M4 on head"
+    },
+    "F33": {
+      "count": 11,
+      "primary_mnemonic": "sd",
+      "description": "tail"
+    },
+    "G22": {
+      "count": 4,
+      "primary_mnemonic": "Db",
+      "description": "hoopoe"
+    },
+    "G18": {
+      "count": 3,
+      "primary_mnemonic": "mm",
+      "description": "two owls"
+    },
+    "G44": {
+      "count": 3,
+      "primary_mnemonic": "ww",
+      "description": "two quail chicks"
+    },
+    "R16": {
+      "count": 2,
+      "primary_mnemonic": "wx",
+      "description": "sceptre with feathers and string"
+    },
+    "S30": {
+      "count": 1,
+      "primary_mnemonic": "sf",
+      "description": "combination of S29 S29 and I9 I9"
+    }
+  },
+  "triliteral": {
+    "W11": {
+      "count": 1474,
+      "primary_mnemonic": "nzt",
+      "description": "round ring stand",
+      "alt_mnemonics": [
+        "g"
+      ]
+    },
+    "T14": {
+      "count": 843,
+      "primary_mnemonic": "qmA",
+      "description": "throw stick vertically"
+    },
+    "N14": {
+      "count": 466,
+      "primary_mnemonic": "sbA",
+      "description": "star",
+      "alt_mnemonics": [
+        "dwA"
+      ]
+    },
+    "G4": {
+      "count": 370,
+      "primary_mnemonic": "tyw",
+      "description": "buzzard"
+    },
+    "M1": {
+      "count": 366,
+      "primary_mnemonic": "iAm",
+      "description": "tree"
+    },
+    "R8": {
+      "count": 366,
+      "primary_mnemonic": "nTr",
+      "description": "cloth on pole"
+    },
+    "V12": {
+      "count": 324,
+      "primary_mnemonic": "arq",
+      "description": "string"
+    },
+    "D19": {
+      "count": 305,
+      "primary_mnemonic": "fnD",
+      "description": "nose, eye and cheek"
+    },
+    "W10": {
+      "count": 285,
+      "primary_mnemonic": "iab",
+      "description": "cup"
+    },
+    "A17": {
+      "count": 269,
+      "primary_mnemonic": "Xrd",
+      "description": "child sitting with hand to mouth"
+    },
+    "D3": {
+      "count": 257,
+      "primary_mnemonic": "Sny",
+      "description": "hair"
+    },
+    "Z11": {
+      "count": 247,
+      "primary_mnemonic": "imi",
+      "description": "cross"
+    },
+    "S34": {
+      "count": 224,
+      "primary_mnemonic": "anx",
+      "description": "sandle-strap"
+    },
+    "F21": {
+      "count": 218,
+      "primary_mnemonic": "idn",
+      "description": "ear of bovine",
+      "alt_mnemonics": [
+        "msDr",
+        "sDm",
+        "DrD"
+      ]
+    },
+    "F35": {
+      "count": 213,
+      "primary_mnemonic": "nfr",
+      "description": "heart and windpipe"
+    },
+    "V29": {
+      "count": 162,
+      "primary_mnemonic": "wAH",
+      "description": "swab",
+      "alt_mnemonics": [
+        "sk"
+      ]
+    },
+    "S42": {
+      "count": 160,
+      "primary_mnemonic": "abA",
+      "description": "sceptre of authority",
+      "alt_mnemonics": [
+        "xrp",
+        "sxm"
+      ]
+    },
+    "O28": {
+      "count": 156,
+      "primary_mnemonic": "iwn",
+      "description": "column"
+    },
+    "M13": {
+      "count": 154,
+      "primary_mnemonic": "wAD",
+      "description": "papyrus"
+    },
+    "P5": {
+      "count": 149,
+      "primary_mnemonic": "nfw",
+      "description": "sail",
+      "alt_mnemonics": [
+        "TAw"
+      ]
+    },
+    "F4": {
+      "count": 148,
+      "primary_mnemonic": "HAt",
+      "description": "forepart of lion"
+    },
+    "R15": {
+      "count": 138,
+      "primary_mnemonic": "iAb",
+      "description": "spear emblem"
+    },
+    "P6": {
+      "count": 136,
+      "primary_mnemonic": "aHa",
+      "description": "mast"
+    },
+    "R4": {
+      "count": 136,
+      "primary_mnemonic": "Htp",
+      "description": "loaf on mat"
+    },
+    "D50": {
+      "count": 134,
+      "primary_mnemonic": "Dba",
+      "description": "finger vertically"
+    },
+    "A47": {
+      "count": 130,
+      "primary_mnemonic": "iry",
+      "description": "shepherd seated and wrapped in mantle, holding stick"
+    },
+    "V19": {
+      "count": 130,
+      "primary_mnemonic": "mDt",
+      "description": "hobble with cross-bar",
+      "alt_mnemonics": [
+        "XAr",
+        "TmA"
+      ]
+    },
+    "F46": {
+      "count": 128,
+      "primary_mnemonic": "pXr",
+      "description": "intestine",
+      "alt_mnemonics": [
+        "qAb"
+      ]
+    },
+    "G14": {
+      "count": 127,
+      "primary_mnemonic": "mwt",
+      "description": "vulture"
+    },
+    "F36": {
+      "count": 124,
+      "primary_mnemonic": "zmA",
+      "description": "lung and windpipe"
+    },
+    "W9": {
+      "count": 121,
+      "primary_mnemonic": "Xnm",
+      "description": "jug with left handle"
+    },
+    "L1": {
+      "count": 107,
+      "primary_mnemonic": "xpr",
+      "description": "dung beetle"
+    },
+    "O36": {
+      "count": 105,
+      "primary_mnemonic": "inb",
+      "description": "wall"
+    },
+    "P8": {
+      "count": 105,
+      "primary_mnemonic": "xrw",
+      "description": "oar"
+    },
+    "D34": {
+      "count": 104,
+      "primary_mnemonic": "aHA",
+      "description": "arms holding shield and battle-axe"
+    },
+    "M4": {
+      "count": 104,
+      "primary_mnemonic": "rnp",
+      "description": "palm branch"
+    },
+    "V2": {
+      "count": 100,
+      "primary_mnemonic": "sTA",
+      "description": "combination of O34 O34 and V1 V1"
+    },
+    "M29": {
+      "count": 98,
+      "primary_mnemonic": "nDm",
+      "description": "pod"
+    },
+    "U32": {
+      "count": 96,
+      "primary_mnemonic": "zmn",
+      "description": "pestle and mortar"
+    },
+    "I3": {
+      "count": 95,
+      "primary_mnemonic": "mzH",
+      "description": "crocodile"
+    },
+    "W17": {
+      "count": 95,
+      "primary_mnemonic": "xnt",
+      "description": "three water jars in rack"
+    },
+    "V33": {
+      "count": 89,
+      "primary_mnemonic": "sSr",
+      "description": "bag"
+    },
+    "O6": {
+      "count": 87,
+      "primary_mnemonic": "Hwt",
+      "description": "enclosure"
+    },
+    "T11": {
+      "count": 87,
+      "primary_mnemonic": "zin",
+      "description": "arrow",
+      "alt_mnemonics": [
+        "zwn",
+        "sXr"
+      ]
+    },
+    "W25": {
+      "count": 85,
+      "primary_mnemonic": "ini",
+      "description": "combination of W24 W24 and D54 D54"
+    },
+    "S12": {
+      "count": 82,
+      "primary_mnemonic": "nbw",
+      "description": "collar of beads"
+    },
+    "F29": {
+      "count": 81,
+      "primary_mnemonic": "sti",
+      "description": "cow&#x27;s skin pierced by arrow"
+    },
+    "S20": {
+      "count": 80,
+      "primary_mnemonic": "xtm",
+      "description": "necklace with seal from front"
+    },
+    "P4": {
+      "count": 79,
+      "primary_mnemonic": "wHa",
+      "description": "boat with net"
+    },
+    "U21": {
+      "count": 79,
+      "primary_mnemonic": "stp",
+      "description": "adze on wood"
+    },
+    "T25": {
+      "count": 78,
+      "primary_mnemonic": "DbA",
+      "description": "floats"
+    },
+    "M30": {
+      "count": 75,
+      "primary_mnemonic": "bnr",
+      "description": "root"
+    },
+    "F25": {
+      "count": 74,
+      "primary_mnemonic": "wHm",
+      "description": "leg of ox"
+    },
+    "F44": {
+      "count": 73,
+      "primary_mnemonic": "iwa",
+      "description": "leg-bone with meat",
+      "alt_mnemonics": [
+        "isw"
+      ]
+    },
+    "D60": {
+      "count": 69,
+      "primary_mnemonic": "wab",
+      "description": "D58 D58 under vase from which water flows"
+    },
+    "L2": {
+      "count": 69,
+      "primary_mnemonic": "bit",
+      "description": "bee"
+    },
+    "D45": {
+      "count": 68,
+      "primary_mnemonic": "Dsr",
+      "description": "arm with nHbt -wand"
+    },
+    "U26": {
+      "count": 67,
+      "primary_mnemonic": "wbA",
+      "description": "drill for beads"
+    },
+    "AA11": {
+      "count": 65,
+      "primary_mnemonic": "mAa",
+      "description": "platform"
+    },
+    "F12": {
+      "count": 65,
+      "primary_mnemonic": "wsr",
+      "description": "head and neck of canine"
+    },
+    "O42": {
+      "count": 63,
+      "primary_mnemonic": "Szp",
+      "description": "fence"
+    },
+    "S38": {
+      "count": 62,
+      "primary_mnemonic": "HqA",
+      "description": "crook"
+    },
+    "AA20": {
+      "count": 56,
+      "primary_mnemonic": "apr",
+      "description": "bag"
+    },
+    "N11": {
+      "count": 56,
+      "primary_mnemonic": "Abd",
+      "description": "crescent moon",
+      "alt_mnemonics": [
+        "iaH"
+      ]
+    },
+    "AA21": {
+      "count": 54,
+      "primary_mnemonic": "wDa",
+      "description": "instrument"
+    },
+    "U31": {
+      "count": 54,
+      "primary_mnemonic": "rtH",
+      "description": "baker&#x27;s rake"
+    },
+    "I1": {
+      "count": 52,
+      "primary_mnemonic": "aSA",
+      "description": "gecko"
+    },
+    "U17": {
+      "count": 52,
+      "primary_mnemonic": "grg",
+      "description": "pick in ground"
+    },
+    "U24": {
+      "count": 50,
+      "primary_mnemonic": "Hmt",
+      "description": "drill for stone"
+    },
+    "A50": {
+      "count": 48,
+      "primary_mnemonic": "Sps",
+      "description": "noble on chair"
+    },
+    "M26": {
+      "count": 48,
+      "primary_mnemonic": "Sma",
+      "description": "flowering sedge"
+    },
+    "S23": {
+      "count": 47,
+      "primary_mnemonic": "dmD",
+      "description": "knotted cloth"
+    },
+    "T18": {
+      "count": 45,
+      "primary_mnemonic": "Sms",
+      "description": "crook with package attached"
+    },
+    "R5": {
+      "count": 44,
+      "primary_mnemonic": "kAp",
+      "description": "narrow censer",
+      "alt_mnemonics": [
+        "kp"
+      ]
+    },
+    "X8": {
+      "count": 44,
+      "primary_mnemonic": "rdi",
+      "description": "conical loaf",
+      "alt_mnemonics": [
+        "di"
+      ]
+    },
+    "F5": {
+      "count": 43,
+      "primary_mnemonic": "SsA",
+      "description": "head of bubalis or hartebeest"
+    },
+    "S40": {
+      "count": 43,
+      "primary_mnemonic": "wAs",
+      "description": "sceptre"
+    },
+    "AA30": {
+      "count": 41,
+      "primary_mnemonic": "Xkr",
+      "description": "frieze"
+    },
+    "F42": {
+      "count": 41,
+      "primary_mnemonic": "spr",
+      "description": "rib"
+    },
+    "T31": {
+      "count": 41,
+      "primary_mnemonic": "sSm",
+      "description": "knife-sharpener"
+    },
+    "D27": {
+      "count": 40,
+      "primary_mnemonic": "mnD",
+      "description": "small breast"
+    },
+    "U22": {
+      "count": 40,
+      "primary_mnemonic": "mnx",
+      "description": "chisel"
+    },
+    "D61": {
+      "count": 39,
+      "primary_mnemonic": "sAH",
+      "description": "three toes oriented leftward"
+    },
+    "G54": {
+      "count": 39,
+      "primary_mnemonic": "snD",
+      "description": "plucked bird"
+    },
+    "A12": {
+      "count": 37,
+      "primary_mnemonic": "mSa",
+      "description": "soldier with bow and quiver"
+    },
+    "M24": {
+      "count": 37,
+      "primary_mnemonic": "rsw",
+      "description": "combination of M23 M23 and D21 D21"
+    },
+    "V15": {
+      "count": 37,
+      "primary_mnemonic": "iTi",
+      "description": "combination of V13 V13 and D54 D54"
+    },
+    "N27": {
+      "count": 36,
+      "primary_mnemonic": "Axt",
+      "description": "sun over mountain"
+    },
+    "M20": {
+      "count": 32,
+      "primary_mnemonic": "sxt",
+      "description": "field of reeds"
+    },
+    "U16": {
+      "count": 31,
+      "primary_mnemonic": "biA",
+      "description": "sledge with head of jackal"
+    },
+    "M34": {
+      "count": 29,
+      "primary_mnemonic": "bdt",
+      "description": "ear of emmer"
+    },
+    "B3": {
+      "count": 28,
+      "primary_mnemonic": "msi",
+      "description": "woman giving birth"
+    },
+    "V32": {
+      "count": 28,
+      "primary_mnemonic": "msn",
+      "description": "frail"
+    },
+    "F23": {
+      "count": 27,
+      "primary_mnemonic": "xpS",
+      "description": "foreleg of ox"
+    },
+    "E17": {
+      "count": 25,
+      "primary_mnemonic": "zAb",
+      "description": "jackal"
+    },
+    "Y6": {
+      "count": 25,
+      "primary_mnemonic": "ibA",
+      "description": "game piece"
+    },
+    "G42": {
+      "count": 24,
+      "primary_mnemonic": "wSA",
+      "description": "widgeon"
+    },
+    "S32": {
+      "count": 24,
+      "primary_mnemonic": "siA",
+      "description": "cloth with fringe on the side"
+    },
+    "V37": {
+      "count": 24,
+      "primary_mnemonic": "idr",
+      "description": "bandage"
+    },
+    "I5": {
+      "count": 22,
+      "primary_mnemonic": "sAq",
+      "description": "crocodile with curved tail"
+    },
+    "N30": {
+      "count": 22,
+      "primary_mnemonic": "iAt",
+      "description": "mound of earth"
+    },
+    "N9": {
+      "count": 22,
+      "primary_mnemonic": "pzD",
+      "description": "moon with lower half obscured"
+    },
+    "G27": {
+      "count": 21,
+      "primary_mnemonic": "dSr",
+      "description": "flamingo"
+    },
+    "H2": {
+      "count": 21,
+      "primary_mnemonic": "wSm",
+      "description": "head of crested bird",
+      "alt_mnemonics": [
+        "pq"
+      ]
+    },
+    "M9": {
+      "count": 21,
+      "primary_mnemonic": "zSn",
+      "description": "lotus flower"
+    },
+    "O25": {
+      "count": 21,
+      "primary_mnemonic": "txn",
+      "description": "obelisk"
+    },
+    "V5": {
+      "count": 20,
+      "primary_mnemonic": "snT",
+      "description": "looped rope"
+    },
+    "D24": {
+      "count": 19,
+      "primary_mnemonic": "spt",
+      "description": "upper lip with teeth"
+    },
+    "E22": {
+      "count": 19,
+      "primary_mnemonic": "mAi",
+      "description": "lion"
+    },
+    "N20": {
+      "count": 19,
+      "primary_mnemonic": "wDb",
+      "description": "tongue of land"
+    },
+    "S35": {
+      "count": 19,
+      "primary_mnemonic": "Swt",
+      "description": "sunshade"
+    },
+    "C7": {
+      "count": 18,
+      "primary_mnemonic": "stX",
+      "description": "god with head of Seth-animal"
+    },
+    "D9": {
+      "count": 18,
+      "primary_mnemonic": "rmi",
+      "description": "eye with flowing tears"
+    },
+    "S1": {
+      "count": 18,
+      "primary_mnemonic": "HDt",
+      "description": "white crown"
+    },
+    "U34": {
+      "count": 18,
+      "primary_mnemonic": "xsf",
+      "description": "spindle"
+    },
+    "O47": {
+      "count": 17,
+      "primary_mnemonic": "nxn",
+      "description": "enclosed mound"
+    },
+    "O18": {
+      "count": 15,
+      "primary_mnemonic": "kAr",
+      "description": "shrine in profile"
+    },
+    "S10": {
+      "count": 14,
+      "primary_mnemonic": "mDH",
+      "description": "headband"
+    },
+    "S15": {
+      "count": 14,
+      "primary_mnemonic": "tHn",
+      "description": "pectoral",
+      "alt_mnemonics": [
+        "THn"
+      ]
+    },
+    "S41": {
+      "count": 14,
+      "primary_mnemonic": "Dam",
+      "description": "sceptre with spiral shaft"
+    },
+    "M11": {
+      "count": 13,
+      "primary_mnemonic": "wdn",
+      "description": "flower on long twisted stalk"
+    },
+    "S11": {
+      "count": 12,
+      "primary_mnemonic": "wsx",
+      "description": "broad collar"
+    },
+    "W2": {
+      "count": 11,
+      "primary_mnemonic": "bAs",
+      "description": "oil jar"
+    },
+    "H3": {
+      "count": 10,
+      "primary_mnemonic": "pAq",
+      "description": "head of spoonbill"
+    },
+    "O45": {
+      "count": 10,
+      "primary_mnemonic": "ipt",
+      "description": "domed building"
+    },
+    "I8": {
+      "count": 8,
+      "primary_mnemonic": "Hfn",
+      "description": "tadpole"
+    },
+    "S39": {
+      "count": 8,
+      "primary_mnemonic": "awt",
+      "description": "shepherd&#x27;s crook"
+    },
+    "S44": {
+      "count": 8,
+      "primary_mnemonic": "Ams",
+      "description": "walking stick with S45 S45"
+    },
+    "E24": {
+      "count": 7,
+      "primary_mnemonic": "Aby",
+      "description": "panther"
+    },
+    "S8": {
+      "count": 7,
+      "primary_mnemonic": "Atf",
+      "description": "Atf -crown"
+    },
+    "A38": {
+      "count": 4,
+      "primary_mnemonic": "qiz",
+      "description": "man holding necks of two emblematic animals with panther heads"
+    },
+    "T29": {
+      "count": 4,
+      "primary_mnemonic": "nmt",
+      "description": "combination of T30 T30 and T28 T28"
+    },
+    "G46": {
+      "count": 3,
+      "primary_mnemonic": "mAw",
+      "description": "combination of G43 G43 and U1 U1"
+    },
+    "T6": {
+      "count": 2,
+      "primary_mnemonic": "HDD",
+      "description": "combination of T3 T3 and two I10 I10"
+    }
+  },
+  "4plus": {
+    "Y1": {
+      "count": 3751,
+      "primary_mnemonic": "mDAt",
+      "description": "scroll with ties"
+    },
+    "O49": {
+      "count": 527,
+      "primary_mnemonic": "niwt",
+      "description": "village"
+    },
+    "N25": {
+      "count": 463,
+      "primary_mnemonic": "xAst",
+      "description": "three hills"
+    },
+    "W22": {
+      "count": 336,
+      "primary_mnemonic": "Hnqt",
+      "description": "beer jug"
+    },
+    "N8": {
+      "count": 193,
+      "primary_mnemonic": "Hnmmt",
+      "description": "sunshine"
+    },
+    "S3": {
+      "count": 127,
+      "primary_mnemonic": "dSrt",
+      "description": "red crown",
+      "alt_mnemonics": [
+        "N"
+      ]
+    },
+    "Y3": {
+      "count": 118,
+      "primary_mnemonic": "mnhd",
+      "description": "scribe&#x27;s outfit with palette on left",
+      "alt_mnemonics": [
+        "zS"
+      ]
+    },
+    "R7": {
+      "count": 107,
+      "primary_mnemonic": "snTr",
+      "description": "bowl with smoke"
+    },
+    "A51": {
+      "count": 76,
+      "primary_mnemonic": "Spsi",
+      "description": "noble on chair with S45 S45"
+    },
+    "R14": {
+      "count": 59,
+      "primary_mnemonic": "imnt",
+      "description": "feather on standard"
+    },
+    "N4": {
+      "count": 48,
+      "primary_mnemonic": "iAdt",
+      "description": "sky with rain",
+      "alt_mnemonics": [
+        "idt"
+      ]
+    },
+    "G32": {
+      "count": 35,
+      "primary_mnemonic": "baHi",
+      "description": "heron on perch"
+    },
+    "D10": {
+      "count": 32,
+      "primary_mnemonic": "wDAt",
+      "description": "wDAt -eye"
+    },
+    "N24": {
+      "count": 28,
+      "primary_mnemonic": "spAt",
+      "description": "irrigation canal system"
+    },
+    "Q6": {
+      "count": 27,
+      "primary_mnemonic": "qrsw",
+      "description": "coffin"
+    },
+    "A33": {
+      "count": 25,
+      "primary_mnemonic": "mniw",
+      "description": "man with stick and bundle on shoulder"
+    },
+    "S19": {
+      "count": 20,
+      "primary_mnemonic": "sDAw",
+      "description": "necklace with seal from side"
+    },
+    "O51": {
+      "count": 19,
+      "primary_mnemonic": "Snwt",
+      "description": "pile of grain"
+    },
+    "G23": {
+      "count": 15,
+      "primary_mnemonic": "rxyt",
+      "description": "lawping"
+    },
+    "C10": {
+      "count": 12,
+      "primary_mnemonic": "mAat",
+      "description": "goddess with feather on head"
+    },
+    "O30": {
+      "count": 12,
+      "primary_mnemonic": "zxnt",
+      "description": "support"
+    },
+    "S45": {
+      "count": 10,
+      "primary_mnemonic": "nxxw",
+      "description": "flagellum"
+    },
+    "C4": {
+      "count": 9,
+      "primary_mnemonic": "Xnmw",
+      "description": "god with head of ram"
+    },
+    "K6": {
+      "count": 9,
+      "primary_mnemonic": "nSmt",
+      "description": "fish scale"
+    },
+    "U38": {
+      "count": 9,
+      "primary_mnemonic": "mxAt",
+      "description": "balance"
+    },
+    "Y8": {
+      "count": 9,
+      "primary_mnemonic": "zSSt",
+      "description": "sistrum"
+    },
+    "S6": {
+      "count": 8,
+      "primary_mnemonic": "sxmty",
+      "description": "combination of S5 S5 and V30 V30"
+    },
+    "C3": {
+      "count": 7,
+      "primary_mnemonic": "DHwty",
+      "description": "god with head of ibis"
+    },
+    "D25": {
+      "count": 7,
+      "primary_mnemonic": "spty",
+      "description": "lips with teeth"
+    },
+    "S26": {
+      "count": 7,
+      "primary_mnemonic": "Sndyt",
+      "description": "apron"
+    },
+    "S27": {
+      "count": 7,
+      "primary_mnemonic": "mnxt",
+      "description": "cloth with two strands"
+    },
+    "T17": {
+      "count": 7,
+      "primary_mnemonic": "wrrt",
+      "description": "chariot"
+    },
+    "F39": {
+      "count": 6,
+      "primary_mnemonic": "imAx",
+      "description": "backbone and spinal cord"
+    },
+    "I2": {
+      "count": 6,
+      "primary_mnemonic": "Styw",
+      "description": "turtle"
+    },
+    "N15": {
+      "count": 6,
+      "primary_mnemonic": "dwAt",
+      "description": "star in circle"
+    },
+    "R1": {
+      "count": 6,
+      "primary_mnemonic": "xAwt",
+      "description": "high table with offerings",
+      "alt_mnemonics": [
+        "xAt"
+      ]
+    },
+    "S18": {
+      "count": 6,
+      "primary_mnemonic": "mnit",
+      "description": "necklace with counterpoise"
+    },
+    "C6": {
+      "count": 5,
+      "primary_mnemonic": "inpw",
+      "description": "god with head of jackal"
+    },
+    "G16": {
+      "count": 5,
+      "primary_mnemonic": "nbty",
+      "description": "vulture and cobra each on V30 V30"
+    },
+    "S9": {
+      "count": 5,
+      "primary_mnemonic": "Swty",
+      "description": "two plumes"
+    },
+    "E6": {
+      "count": 4,
+      "primary_mnemonic": "zzmt",
+      "description": "horse"
+    },
+    "S7": {
+      "count": 4,
+      "primary_mnemonic": "xprS",
+      "description": "blue crown"
+    },
+    "L7": {
+      "count": 3,
+      "primary_mnemonic": "srqt",
+      "description": "scorpion"
+    },
+    "O15": {
+      "count": 3,
+      "primary_mnemonic": "wsxt",
+      "description": "enclosure with W10 W10 and X1 X1"
+    },
+    "U11": {
+      "count": 1,
+      "primary_mnemonic": "HqAt",
+      "description": "combination of S38 S38 and U9 U9"
+    }
+  }
+}

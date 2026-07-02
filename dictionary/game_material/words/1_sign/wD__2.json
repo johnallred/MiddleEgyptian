@@ -1,0 +1,460 @@
+{
+  "transliteration": "wD",
+  "english_glosses": [
+    "stela",
+    "decree",
+    "(written) decree",
+    "pectoral",
+    "command",
+    "allot"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G43"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M13",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M13",
+          "mnemonic": "wAD",
+          "class": "triliteral",
+          "description": "papyrus"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M13",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "M13",
+          "mnemonic": "wAD",
+          "class": "triliteral",
+          "description": "papyrus"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "I10"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7",
+        "I10"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M13",
+        "G43",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M13",
+          "mnemonic": "wAD",
+          "class": "triliteral",
+          "description": "papyrus"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M13",
+        "I10",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M13",
+          "mnemonic": "wAD",
+          "class": "triliteral",
+          "description": "papyrus"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "G43",
+        "D46"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "G43",
+        "I10"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "G43",
+        "V12"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "V12",
+          "mnemonic": "arq",
+          "class": "triliteral",
+          "description": "string"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "G43",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "Z7",
+        "M2"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "X1",
+        "G43",
+        "U33"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "U33",
+          "mnemonic": "ti",
+          "class": "biliteral",
+          "description": "pestle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "transliteration": "sbqty",
+  "english_glosses": [
+    "the two crocodiles"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "D58",
+        "N29",
+        "X1",
+        "I5",
+        "I5"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N29",
+          "mnemonic": "q",
+          "class": "uniliteral",
+          "description": "slope of hill"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "I5",
+          "mnemonic": "sAq",
+          "class": "triliteral",
+          "description": "crocodile with curved tail"
+        },
+        {
+          "sign": "I5",
+          "mnemonic": "sAq",
+          "class": "triliteral",
+          "description": "crocodile with curved tail"
+        }
+      ]
+    }
+  ]
+}

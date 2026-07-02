@@ -1,0 +1,22 @@
+{
+ "matchup": "2p_expert_mirror",
+ "agents": [
+  "expert",
+  "expert"
+ ],
+ "games": 500,
+ "seed": 1000,
+ "agent_win_rates": {
+  "expert": 0.5
+ },
+ "seat_win_rates": {
+  "seat_0": 0.5,
+  "seat_1": 0.5
+ },
+ "balance": 99.9,
+ "median_turns": 142,
+ "steals_per_game": 1.56,
+ "logograms_per_game": 1.04,
+ "first_scorer_win_pct": 53.2,
+ "victory_pct": 99.8
+}

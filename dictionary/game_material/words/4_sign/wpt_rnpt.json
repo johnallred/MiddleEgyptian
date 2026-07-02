@@ -1,0 +1,97 @@
+{
+  "transliteration": "wpt rnpt",
+  "english_glosses": [
+    "New Year's day (and its festival)",
+    "New Year's day"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F13",
+        "X1",
+        "M4",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M4",
+          "mnemonic": "rnp",
+          "class": "triliteral",
+          "description": "palm branch"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "X1",
+        "M4",
+        "X1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M4",
+          "mnemonic": "rnp",
+          "class": "triliteral",
+          "description": "palm branch"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

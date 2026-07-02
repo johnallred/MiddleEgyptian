@@ -1,0 +1,60 @@
+{
+  "transliteration": "Ts Xs / Ts Xsy",
+  "english_glosses": [
+    "disgrace"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S24",
+        "O34",
+        "Y1",
+        "F32",
+        "O34"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S24",
+          "mnemonic": "Tz",
+          "class": "biliteral",
+          "description": "girdle knot"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "F32",
+          "mnemonic": "X",
+          "class": "uniliteral",
+          "description": "animal&#x27;s belly"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        }
+      ]
+    }
+  ]
+}

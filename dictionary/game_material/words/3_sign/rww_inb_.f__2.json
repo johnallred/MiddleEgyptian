@@ -1,0 +1,46 @@
+{
+  "transliteration": "rww inb .f",
+  "english_glosses": [
+    "South of his wall (an epithet of Ptah of Memphis)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M24",
+        "O36",
+        "I9"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M24",
+          "mnemonic": "rsw",
+          "class": "triliteral",
+          "description": "combination of M23 M23 and D21 D21"
+        },
+        {
+          "sign": "O36",
+          "mnemonic": "inb",
+          "class": "triliteral",
+          "description": "wall"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    }
+  ]
+}

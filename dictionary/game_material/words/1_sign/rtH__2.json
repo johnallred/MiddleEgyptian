@@ -1,0 +1,139 @@
+{
+  "transliteration": "rtH",
+  "english_glosses": [
+    "blockhouse",
+    "confine",
+    "overawe",
+    "blockhouse (border post building)",
+    "bread",
+    "to catch"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U31"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "U31",
+          "mnemonic": "rtH",
+          "class": "triliteral",
+          "description": "baker&#x27;s rake"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "U31",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "U31",
+          "mnemonic": "rtH",
+          "class": "triliteral",
+          "description": "baker&#x27;s rake"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "X1",
+        "V28",
+        "U31"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "U31",
+          "mnemonic": "rtH",
+          "class": "triliteral",
+          "description": "baker&#x27;s rake"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "D46",
+        "V28",
+        "G43",
+        "G39"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+ "variant": "strip_1sign",
+ "games": 500,
+ "seed": 1000,
+ "notes": {
+  "words_with_1sign_spelling_stripped": 23,
+  "words_kept_single_1sign_spelling": 0
+ },
+ "by_players": {
+  "2": {
+   "balance": 98.2,
+   "victory_pct": 99.8,
+   "median_turns": 112,
+   "avg_score": 6.7,
+   "steals_per_game": 0.62,
+   "logograms_per_game": 0.5,
+   "exchanges_per_game": 0.0,
+   "seat_win_rates": {
+    "seat_0": 0.478,
+    "seat_1": 0.522
+   }
+  },
+  "3": {
+   "balance": 97.0,
+   "victory_pct": 100.0,
+   "median_turns": 84,
+   "avg_score": 4.2,
+   "steals_per_game": 1.06,
+   "logograms_per_game": 0.53,
+   "exchanges_per_game": 0.0,
+   "seat_win_rates": {
+    "seat_0": 0.342,
+    "seat_1": 0.362,
+    "seat_2": 0.296
+   }
+  },
+  "4": {
+   "balance": 97.1,
+   "victory_pct": 100.0,
+   "median_turns": 96,
+   "avg_score": 3.2,
+   "steals_per_game": 1.58,
+   "logograms_per_game": 0.71,
+   "exchanges_per_game": 0.0,
+   "seat_win_rates": {
+    "seat_0": 0.268,
+    "seat_1": 0.264,
+    "seat_2": 0.214,
+    "seat_3": 0.254
+   }
+  }
+ }
+}

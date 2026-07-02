@@ -1,0 +1,60 @@
+{
+  "transliteration": "iAbtt / iAbt",
+  "english_glosses": [
+    "left eye"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "R15",
+        "D58",
+        "X1",
+        "X1",
+        "D4"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D4",
+          "mnemonic": "ir",
+          "class": "biliteral",
+          "description": "eye"
+        }
+      ]
+    }
+  ]
+}

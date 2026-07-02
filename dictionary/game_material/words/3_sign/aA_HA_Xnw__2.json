@@ -1,0 +1,46 @@
+{
+  "transliteration": "aA HA Xnw",
+  "english_glosses": [
+    "Doorway behind the Residence"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M16",
+        "G1",
+        "F26"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M16",
+          "mnemonic": "HA",
+          "class": "biliteral",
+          "description": "clump of papyrus"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        }
+      ]
+    }
+  ]
+}

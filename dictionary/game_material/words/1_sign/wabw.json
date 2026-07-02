@@ -1,0 +1,75 @@
+{
+  "transliteration": "wabw",
+  "english_glosses": [
+    "sacred robe"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D60"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D60",
+          "mnemonic": "wab",
+          "class": "triliteral",
+          "description": "D58 D58 under vase from which water flows"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D60",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D60",
+          "mnemonic": "wab",
+          "class": "triliteral",
+          "description": "D58 D58 under vase from which water flows"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D60",
+        "V6"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D60",
+          "mnemonic": "wab",
+          "class": "triliteral",
+          "description": "D58 D58 under vase from which water flows"
+        },
+        {
+          "sign": "V6",
+          "mnemonic": "Ss",
+          "class": "biliteral",
+          "description": "cord with ends upward"
+        }
+      ]
+    }
+  ]
+}

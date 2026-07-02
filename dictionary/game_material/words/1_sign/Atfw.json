@@ -1,0 +1,112 @@
+{
+  "transliteration": "Atfw",
+  "english_glosses": [
+    "Atef-crown",
+    "Atef crown"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S8"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S8",
+          "mnemonic": "Atf",
+          "class": "triliteral",
+          "description": "Atf -crown"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G1",
+        "X1",
+        "I9",
+        "S8"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "S8",
+          "mnemonic": "Atf",
+          "class": "triliteral",
+          "description": "Atf -crown"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G1",
+        "X1",
+        "I9",
+        "G43",
+        "S8"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "S8",
+          "mnemonic": "Atf",
+          "class": "triliteral",
+          "description": "Atf -crown"
+        }
+      ]
+    }
+  ]
+}

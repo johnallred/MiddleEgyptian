@@ -1,0 +1,490 @@
+{
+  "transliteration": "Ssp",
+  "english_glosses": [
+    "palm (of hand)",
+    "take",
+    "statue",
+    "(1) statue",
+    "white",
+    "light"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D46"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N11"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "D24"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "D24",
+          "mnemonic": "spt",
+          "class": "triliteral",
+          "description": "upper lip with teeth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "D46"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "N11"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "N11",
+          "mnemonic": "Abd",
+          "class": "triliteral",
+          "description": "crescent moon"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "N5"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "N8"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "N8",
+          "mnemonic": "Hnmmt",
+          "class": "4plus",
+          "description": "sunshine"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "X1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "Z7"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N37",
+        "O34",
+        "Q3",
+        "O42"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "O34",
+          "mnemonic": "z",
+          "class": "uniliteral",
+          "description": "bolt"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "X1",
+        "M2"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "Z7",
+        "M2"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M2",
+          "mnemonic": "Hn",
+          "class": "biliteral",
+          "description": "plant"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "O42",
+        "Q3",
+        "Z7",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "N37",
+        "Q3",
+        "O42"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "O42",
+          "mnemonic": "Szp",
+          "class": "triliteral",
+          "description": "fence"
+        }
+      ]
+    }
+  ]
+}

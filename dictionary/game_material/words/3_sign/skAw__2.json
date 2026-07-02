@@ -1,0 +1,75 @@
+{
+  "transliteration": "skAw",
+  "english_glosses": [
+    "harvest",
+    "Ploughman"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "D28",
+        "U13"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "D28",
+          "mnemonic": "kA",
+          "class": "biliteral",
+          "description": "arms in kA -posture"
+        },
+        {
+          "sign": "U13",
+          "mnemonic": "hb",
+          "class": "biliteral",
+          "description": "plough"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V29",
+        "G43",
+        "U13"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V29",
+          "mnemonic": "wAH",
+          "class": "triliteral",
+          "description": "swab"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "U13",
+          "mnemonic": "hb",
+          "class": "biliteral",
+          "description": "plough"
+        }
+      ]
+    }
+  ]
+}

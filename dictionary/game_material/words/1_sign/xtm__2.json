@@ -1,0 +1,108 @@
+{
+  "transliteration": "xtm",
+  "english_glosses": [
+    "seal",
+    "lock",
+    "chest",
+    "lockable chest",
+    "fort"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S20"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S20",
+        "G17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S20",
+        "O1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S20",
+        "G17",
+        "O1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

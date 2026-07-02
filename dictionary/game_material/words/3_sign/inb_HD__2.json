@@ -1,0 +1,89 @@
+{
+  "transliteration": "inb HD",
+  "english_glosses": [
+    "Memphis (White walls)",
+    "Memphis"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O36",
+        "T3",
+        "O49"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O36",
+          "mnemonic": "inb",
+          "class": "triliteral",
+          "description": "wall"
+        },
+        {
+          "sign": "T3",
+          "mnemonic": "HD",
+          "class": "biliteral",
+          "description": "mace with round head vertically"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T14",
+        "O36",
+        "T3",
+        "X1",
+        "O49"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        },
+        {
+          "sign": "O36",
+          "mnemonic": "inb",
+          "class": "triliteral",
+          "description": "wall"
+        },
+        {
+          "sign": "T3",
+          "mnemonic": "HD",
+          "class": "biliteral",
+          "description": "mace with round head vertically"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O49",
+          "mnemonic": "niwt",
+          "class": "4plus",
+          "description": "village"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "transliteration": "smA-tA",
+  "english_glosses": [
+    "unite the land",
+    "land",
+    "be interred",
+    "interment",
+    "F36-G1-Y1-N16"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F36",
+        "G1",
+        "Y1",
+        "N16"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F36",
+          "mnemonic": "zmA",
+          "class": "triliteral",
+          "description": "lung and windpipe"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        }
+      ]
+    }
+  ]
+}

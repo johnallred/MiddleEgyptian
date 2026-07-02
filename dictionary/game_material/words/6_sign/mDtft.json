@@ -1,0 +1,71 @@
+{
+  "transliteration": "mDtft",
+  "english_glosses": [
+    "chisel (used in Opening-of-the-mouth ceremony)",
+    "chisel (used in Opening of the mouth ceremony)",
+    "chisel used in ‘Opening the Mouth’"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G17",
+        "I10",
+        "X1",
+        "I9",
+        "X1",
+        "U22"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "U22",
+          "mnemonic": "mnx",
+          "class": "triliteral",
+          "description": "chisel"
+        }
+      ]
+    }
+  ]
+}

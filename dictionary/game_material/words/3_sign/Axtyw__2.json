@@ -1,0 +1,85 @@
+{
+  "transliteration": "Axtyw",
+  "english_glosses": [
+    "horizon - dwellers ( a remote people)",
+    "horizon dwellers (a remote people)",
+    "horizon - dwellers",
+    "Horizon dwellers (an epithet)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N27",
+        "X1",
+        "G4"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N27",
+          "mnemonic": "Axt",
+          "class": "triliteral",
+          "description": "sun over mountain"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N27",
+        "X1",
+        "O1",
+        "G4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N27",
+          "mnemonic": "Axt",
+          "class": "triliteral",
+          "description": "sun over mountain"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        }
+      ]
+    }
+  ]
+}

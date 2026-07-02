@@ -1,0 +1,165 @@
+{
+  "transliteration": "xrw",
+  "english_glosses": [
+    "enemy",
+    "battle",
+    "voice",
+    "noise (of argument)",
+    "say",
+    "enemies"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "A15"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "A15",
+          "mnemonic": "xr",
+          "class": "biliteral",
+          "description": "man falling"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P8"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "P8",
+          "mnemonic": "xrw",
+          "class": "triliteral",
+          "description": "oar"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P8",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "P8",
+          "mnemonic": "xrw",
+          "class": "triliteral",
+          "description": "oar"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P8",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "P8",
+          "mnemonic": "xrw",
+          "class": "triliteral",
+          "description": "oar"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T28",
+        "E23",
+        "G39"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T28",
+          "mnemonic": "Xr",
+          "class": "biliteral",
+          "description": "butcher&#x27;s block"
+        },
+        {
+          "sign": "E23",
+          "mnemonic": "l",
+          "class": "uniliteral",
+          "description": "lying lion"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "P8",
+        "N37",
+        "A33",
+        "A33",
+        "A33"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "P8",
+          "mnemonic": "xrw",
+          "class": "triliteral",
+          "description": "oar"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "A33",
+          "mnemonic": "mniw",
+          "class": "4plus",
+          "description": "man with stick and bundle on shoulder"
+        },
+        {
+          "sign": "A33",
+          "mnemonic": "mniw",
+          "class": "4plus",
+          "description": "man with stick and bundle on shoulder"
+        },
+        {
+          "sign": "A33",
+          "mnemonic": "mniw",
+          "class": "4plus",
+          "description": "man with stick and bundle on shoulder"
+        }
+      ]
+    }
+  ]
+}

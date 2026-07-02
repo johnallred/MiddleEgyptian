@@ -1,0 +1,46 @@
+{
+  "transliteration": "S rsi",
+  "english_glosses": [
+    "staff"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N37",
+        "M24",
+        "S43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "M24",
+          "mnemonic": "rsw",
+          "class": "triliteral",
+          "description": "combination of M23 M23 and D21 D21"
+        },
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        }
+      ]
+    }
+  ]
+}

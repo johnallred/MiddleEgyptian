@@ -1,0 +1,607 @@
+{
+  "transliteration": "ab",
+  "english_glosses": [
+    "unite",
+    "boast",
+    "join",
+    "horn",
+    "varr. of iab ‘unite’",
+    "meal"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D59"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F16"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W10"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "W10"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F16",
+        "F16"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F16",
+        "O1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "F16"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "U23"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "U23",
+          "mnemonic": "Ab",
+          "class": "biliteral",
+          "description": "chisel"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "W10"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "W10",
+        "D58"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "F16",
+        "F16"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F16",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "W10",
+        "R7",
+        "F16"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        },
+        {
+          "sign": "R7",
+          "mnemonic": "snTr",
+          "class": "4plus",
+          "description": "bowl with smoke"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "F16",
+        "F16"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "F16",
+        "I3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "I3",
+          "mnemonic": "mzH",
+          "class": "triliteral",
+          "description": "crocodile"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "F16",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "Z7",
+        "F16"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7",
+        "D59",
+        "F16",
+        "F16"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "D58",
+        "F16",
+        "F16",
+        "F16"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "D36",
+        "X1",
+        "F16",
+        "F16"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        },
+        {
+          "sign": "F16",
+          "mnemonic": "db",
+          "class": "biliteral",
+          "description": "horn"
+        }
+      ]
+    }
+  ]
+}

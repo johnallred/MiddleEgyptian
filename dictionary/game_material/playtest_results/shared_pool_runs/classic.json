@@ -1,0 +1,80 @@
+{
+ "variant": "classic",
+ "pool_size": 0,
+ "games": 150,
+ "seed": 1000,
+ "mirror": {
+  "2": {
+   "agents": [
+    "balanced",
+    "balanced"
+   ],
+   "first_scorer_win_pct": 55.3,
+   "agent_win_rates": {
+    "balanced": 0.5
+   },
+   "balance": 98.4,
+   "victory_pct": 100.0,
+   "median_turns": 140,
+   "avg_score": 6.9,
+   "logograms_per_game": 0.82,
+   "steals_per_game": 1.44,
+   "trash_per_game": 96.54
+  },
+  "3": {
+   "agents": [
+    "balanced",
+    "balanced",
+    "balanced"
+   ],
+   "first_scorer_win_pct": 44.0,
+   "agent_win_rates": {
+    "balanced": 0.333
+   },
+   "balance": 97.3,
+   "victory_pct": 100.0,
+   "median_turns": 108,
+   "avg_score": 4.6,
+   "logograms_per_game": 0.94,
+   "steals_per_game": 2.49,
+   "trash_per_game": 75.19
+  },
+  "4": {
+   "agents": [
+    "balanced",
+    "balanced",
+    "balanced",
+    "balanced"
+   ],
+   "first_scorer_win_pct": 35.3,
+   "agent_win_rates": {
+    "balanced": 0.25
+   },
+   "balance": 98.4,
+   "victory_pct": 100.0,
+   "median_turns": 108,
+   "avg_score": 3.6,
+   "logograms_per_game": 1.31,
+   "steals_per_game": 3.7,
+   "trash_per_game": 76.39
+  }
+ },
+ "skill": {
+  "agents": [
+   "random",
+   "balanced"
+  ],
+  "first_scorer_win_pct": 70.0,
+  "agent_win_rates": {
+   "random": 0.14,
+   "balanced": 0.86
+  },
+  "balance": 49.9,
+  "victory_pct": 100.0,
+  "median_turns": 154,
+  "avg_score": 6.1,
+  "logograms_per_game": 0.78,
+  "steals_per_game": 0.95,
+  "trash_per_game": 75.63
+ }
+}

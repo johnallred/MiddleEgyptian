@@ -1,0 +1,81 @@
+{
+  "transliteration": "Xnk / Xnkt",
+  "english_glosses": [
+    "undergarment ?"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F26",
+        "X1",
+        "V31"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F26",
+        "N35",
+        "X1",
+        "V31"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F26",
+          "mnemonic": "Xn",
+          "class": "biliteral",
+          "description": "skin of goat"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V31",
+          "mnemonic": "k",
+          "class": "uniliteral",
+          "description": "basket with right handle"
+        }
+      ]
+    }
+  ]
+}

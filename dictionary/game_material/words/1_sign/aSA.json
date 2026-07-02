@@ -1,0 +1,265 @@
+{
+  "transliteration": "aSA",
+  "english_glosses": [
+    "obnoxious ?",
+    "obnoxious (?)",
+    "many",
+    "lizard",
+    "quantity",
+    "n. quantity"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective",
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I1"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "I1",
+          "mnemonic": "aSA",
+          "class": "triliteral",
+          "description": "gecko"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "N37"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "I1",
+        "G1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "I1",
+          "mnemonic": "aSA",
+          "class": "triliteral",
+          "description": "gecko"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "I1",
+        "G39"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "I1",
+          "mnemonic": "aSA",
+          "class": "triliteral",
+          "description": "gecko"
+        },
+        {
+          "sign": "G39",
+          "mnemonic": "zA",
+          "class": "biliteral",
+          "description": "pintail"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "N37",
+        "G1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "N37",
+        "I1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "I1",
+          "mnemonic": "aSA",
+          "class": "triliteral",
+          "description": "gecko"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "I1",
+        "G1",
+        "Z7"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "I1",
+          "mnemonic": "aSA",
+          "class": "triliteral",
+          "description": "gecko"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "N37",
+        "G1",
+        "I1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "I1",
+          "mnemonic": "aSA",
+          "class": "triliteral",
+          "description": "gecko"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D36",
+        "N37",
+        "M8",
+        "G1",
+        "K1"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        },
+        {
+          "sign": "M8",
+          "mnemonic": "SA",
+          "class": "biliteral",
+          "description": "pool with lotus flowers"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    }
+  ]
+}

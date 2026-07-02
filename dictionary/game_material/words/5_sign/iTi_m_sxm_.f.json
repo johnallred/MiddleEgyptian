@@ -1,0 +1,60 @@
+{
+  "transliteration": "iTi m sxm .f",
+  "english_glosses": [
+    "captures"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V15",
+        "G17",
+        "S42",
+        "G17",
+        "I9"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V15",
+          "mnemonic": "iTi",
+          "class": "triliteral",
+          "description": "combination of V13 V13 and D54 D54"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "S42",
+          "mnemonic": "abA",
+          "class": "triliteral",
+          "description": "sceptre of authority"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "I9",
+          "mnemonic": "f",
+          "class": "uniliteral",
+          "description": "horned viper"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "transliteration": "bs / bsw",
+  "english_glosses": [
+    "secret shape (of god)"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D58",
+        "S29",
+        "K5"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "K5",
+          "mnemonic": "bz",
+          "class": "biliteral",
+          "description": "Petrocephalus bane"
+        }
+      ]
+    }
+  ]
+}

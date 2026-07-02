@@ -1,0 +1,76 @@
+{
+ "variant": "baseline",
+ "games": 300,
+ "seed": 1000,
+ "mirror": {
+  "2": {
+   "first_scorer_win_pct": 54.7,
+   "agent_win_rates": {
+    "balanced": 0.5
+   },
+   "balance": 98.9,
+   "victory_pct": 100.0,
+   "end_reasons": {
+    "victory": 300
+   },
+   "median_turns": 132,
+   "avg_score": 6.8,
+   "steals_per_game": 1.46,
+   "logograms_per_game": 0.91,
+   "trash_per_game": 94.12,
+   "mulligans_per_game": 1.64
+  },
+  "3": {
+   "first_scorer_win_pct": 38.3,
+   "agent_win_rates": {
+    "balanced": 0.333
+   },
+   "balance": 98.1,
+   "victory_pct": 100.0,
+   "end_reasons": {
+    "victory": 300
+   },
+   "median_turns": 105,
+   "avg_score": 4.7,
+   "steals_per_game": 2.4,
+   "logograms_per_game": 1.05,
+   "trash_per_game": 73.35,
+   "mulligans_per_game": 2.26
+  },
+  "4": {
+   "first_scorer_win_pct": 33.0,
+   "agent_win_rates": {
+    "balanced": 0.25
+   },
+   "balance": 97.9,
+   "victory_pct": 100.0,
+   "end_reasons": {
+    "victory": 300
+   },
+   "median_turns": 108,
+   "avg_score": 3.5,
+   "steals_per_game": 3.52,
+   "logograms_per_game": 1.39,
+   "trash_per_game": 74.19,
+   "mulligans_per_game": 2.79
+  }
+ },
+ "skill": {
+  "first_scorer_win_pct": 56.7,
+  "agent_win_rates": {
+   "greedy": 0.397,
+   "balanced": 0.603
+  },
+  "balance": 91.7,
+  "victory_pct": 100.0,
+  "end_reasons": {
+   "victory": 300
+  },
+  "median_turns": 136,
+  "avg_score": 6.7,
+  "steals_per_game": 1.55,
+  "logograms_per_game": 1.02,
+  "trash_per_game": 115.3,
+  "mulligans_per_game": 1.66
+ }
+}

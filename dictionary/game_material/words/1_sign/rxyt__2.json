@@ -1,0 +1,90 @@
+{
+  "transliteration": "rxyt",
+  "english_glosses": [
+    "subjects"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Lexicon",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G23"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G23",
+          "mnemonic": "rxyt",
+          "class": "4plus",
+          "description": "lawping"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G23",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G23",
+          "mnemonic": "rxyt",
+          "class": "4plus",
+          "description": "lawping"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G23",
+        "M17",
+        "M17",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G23",
+          "mnemonic": "rxyt",
+          "class": "4plus",
+          "description": "lawping"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "transliteration": "wDb",
+  "english_glosses": [
+    "divert (offerings",
+    "fold over",
+    "turn",
+    "turn (to)",
+    "river bank",
+    "redirect"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "noun",
+    "pronoun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F46"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M11"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "M11",
+          "mnemonic": "wdn",
+          "class": "triliteral",
+          "description": "flower on long twisted stalk"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N20"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "N20",
+          "mnemonic": "wDb",
+          "class": "triliteral",
+          "description": "tongue of land"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N20",
+        "D58"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N20",
+          "mnemonic": "wDb",
+          "class": "triliteral",
+          "description": "tongue of land"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "D58"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "D58",
+        "F46"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "D58",
+        "N20"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N20",
+          "mnemonic": "wDb",
+          "class": "triliteral",
+          "description": "tongue of land"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "D46",
+        "D58",
+        "F46"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Z7",
+        "D46",
+        "D58",
+        "F46"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "F46",
+          "mnemonic": "pXr",
+          "class": "triliteral",
+          "description": "intestine"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V24",
+        "G43",
+        "I10",
+        "D58",
+        "N20"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "V24",
+          "mnemonic": "wD",
+          "class": "biliteral",
+          "description": "cord on stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "N20",
+          "mnemonic": "wDb",
+          "class": "triliteral",
+          "description": "tongue of land"
+        }
+      ]
+    }
+  ]
+}

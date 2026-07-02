@@ -1,0 +1,46 @@
+{
+  "transliteration": "Dbat",
+  "english_glosses": [
+    "signet ring"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D50",
+        "X1",
+        "S20"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D50",
+          "mnemonic": "Dba",
+          "class": "triliteral",
+          "description": "finger vertically"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        }
+      ]
+    }
+  ]
+}

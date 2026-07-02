@@ -1,0 +1,176 @@
+{
+  "transliteration": "psDw",
+  "english_glosses": [
+    "back",
+    "avoid"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G43"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "S29"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "S29",
+        "I10"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "D46",
+        "S29",
+        "G43",
+        "F39"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "F39",
+          "mnemonic": "imAx",
+          "class": "4plus",
+          "description": "backbone and spinal cord"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Q3",
+        "S29",
+        "I10",
+        "F39",
+        "F39",
+        "F39"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "F39",
+          "mnemonic": "imAx",
+          "class": "4plus",
+          "description": "backbone and spinal cord"
+        },
+        {
+          "sign": "F39",
+          "mnemonic": "imAx",
+          "class": "4plus",
+          "description": "backbone and spinal cord"
+        },
+        {
+          "sign": "F39",
+          "mnemonic": "imAx",
+          "class": "4plus",
+          "description": "backbone and spinal cord"
+        }
+      ]
+    }
+  ]
+}

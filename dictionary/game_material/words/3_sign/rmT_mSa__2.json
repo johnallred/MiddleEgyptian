@@ -1,0 +1,46 @@
+{
+  "transliteration": "rmT mSa",
+  "english_glosses": [
+    "Mercenary"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "V13",
+        "A12"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "A12",
+          "mnemonic": "mSa",
+          "class": "triliteral",
+          "description": "soldier with bow and quiver"
+        }
+      ]
+    }
+  ]
+}

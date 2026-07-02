@@ -1,0 +1,177 @@
+{
+  "transliteration": "iAb",
+  "english_glosses": [
+    "the east wind",
+    "finger",
+    "foul smelling",
+    "left arm",
+    "ditchwater"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "R15"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R15",
+        "D58"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R15",
+        "P5"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        },
+        {
+          "sign": "P5",
+          "mnemonic": "nfw",
+          "class": "triliteral",
+          "description": "sail"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "R15",
+        "D58",
+        "T19"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "T19",
+          "mnemonic": "qs",
+          "class": "biliteral",
+          "description": "harpoon head"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "G1",
+        "D58",
+        "P5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "P5",
+          "mnemonic": "nfw",
+          "class": "triliteral",
+          "description": "sail"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M17",
+        "G1",
+        "D58",
+        "R15"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "R15",
+          "mnemonic": "iAb",
+          "class": "triliteral",
+          "description": "spear emblem"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "transliteration": "stp Ax",
+  "english_glosses": [
+    "protect"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S29",
+        "V13",
+        "Q3",
+        "U21",
+        "G25"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "U21",
+          "mnemonic": "stp",
+          "class": "triliteral",
+          "description": "adze on wood"
+        },
+        {
+          "sign": "G25",
+          "mnemonic": "Ax",
+          "class": "biliteral",
+          "description": "northern bald ibis"
+        }
+      ]
+    }
+  ]
+}

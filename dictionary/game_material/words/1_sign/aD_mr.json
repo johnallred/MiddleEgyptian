@@ -1,0 +1,61 @@
+{
+  "transliteration": "aD mr",
+  "english_glosses": [
+    "administrator"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "K3"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "K3",
+          "mnemonic": "ad",
+          "class": "biliteral",
+          "description": "mullet"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V26",
+        "D46",
+        "K1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V26",
+          "mnemonic": "aD",
+          "class": "biliteral",
+          "description": "netting needle"
+        },
+        {
+          "sign": "D46",
+          "mnemonic": "d",
+          "class": "uniliteral",
+          "description": "hand"
+        },
+        {
+          "sign": "K1",
+          "mnemonic": "in",
+          "class": "biliteral",
+          "description": "tilapia"
+        }
+      ]
+    }
+  ]
+}

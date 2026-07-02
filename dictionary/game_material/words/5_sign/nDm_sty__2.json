@@ -1,0 +1,60 @@
+{
+  "transliteration": "nDm sty",
+  "english_glosses": [
+    "aroma"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M29",
+        "G17",
+        "S29",
+        "X1",
+        "V33"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "M29",
+          "mnemonic": "nDm",
+          "class": "triliteral",
+          "description": "pod"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "V33",
+          "mnemonic": "sSr",
+          "class": "triliteral",
+          "description": "bag"
+        }
+      ]
+    }
+  ]
+}

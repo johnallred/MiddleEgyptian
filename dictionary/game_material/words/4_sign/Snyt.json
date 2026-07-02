@@ -1,0 +1,189 @@
+{
+  "transliteration": "Snyt",
+  "english_glosses": [
+    "storm",
+    "(a place in the Hereafter)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "M17",
+        "X1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "X1",
+        "M17",
+        "N4"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "N4",
+          "mnemonic": "iAdt",
+          "class": "4plus",
+          "description": "sky with rain"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "M17",
+        "M17",
+        "X1",
+        "N4"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "N4",
+          "mnemonic": "iAdt",
+          "class": "4plus",
+          "description": "sky with rain"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V7",
+        "N35",
+        "M17",
+        "M17",
+        "X1",
+        "O1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "V7",
+          "mnemonic": "Sn",
+          "class": "biliteral",
+          "description": "cord with ends downward"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    }
+  ]
+}

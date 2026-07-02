@@ -1,0 +1,53 @@
+{
+  "transliteration": "aSA-xrw",
+  "english_glosses": [
+    "noisy"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I1",
+        "G1",
+        "P8",
+        "Z7"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "I1",
+          "mnemonic": "aSA",
+          "class": "triliteral",
+          "description": "gecko"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "P8",
+          "mnemonic": "xrw",
+          "class": "triliteral",
+          "description": "oar"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "transliteration": "mnx",
+  "english_glosses": [
+    "potent (of king etc...)",
+    "potent (of king etc)",
+    "beneficent"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "adjective",
+  "all_pos": [
+    "adjective"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U22"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "U22",
+          "mnemonic": "mnx",
+          "class": "triliteral",
+          "description": "chisel"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "N35",
+        "N37"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        },
+        {
+          "sign": "N37",
+          "mnemonic": "S",
+          "class": "uniliteral",
+          "description": "pool"
+        }
+      ]
+    }
+  ]
+}

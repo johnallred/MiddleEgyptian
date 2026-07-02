@@ -1,0 +1,81 @@
+{
+  "transliteration": "rmi / rmw",
+  "english_glosses": [
+    "cry"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "G17",
+        "D9"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D9",
+          "mnemonic": "rmi",
+          "class": "triliteral",
+          "description": "eye with flowing tears"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "G17",
+        "G17",
+        "D9"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D9",
+          "mnemonic": "rmi",
+          "class": "triliteral",
+          "description": "eye with flowing tears"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "transliteration": "msi",
+  "english_glosses": [
+    "calve (of gazelle)",
+    "be born",
+    "bear",
+    "create (of god)",
+    "vb. 3inf. bear",
+    "create"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "B3"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "B3",
+          "mnemonic": "msi",
+          "class": "triliteral",
+          "description": "woman giving birth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F31"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F31",
+          "mnemonic": "ms",
+          "class": "biliteral",
+          "description": "three skins tied together"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F31",
+        "A17"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F31",
+          "mnemonic": "ms",
+          "class": "biliteral",
+          "description": "three skins tied together"
+        },
+        {
+          "sign": "A17",
+          "mnemonic": "Xrd",
+          "class": "triliteral",
+          "description": "child sitting with hand to mouth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F31",
+        "B3"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F31",
+          "mnemonic": "ms",
+          "class": "biliteral",
+          "description": "three skins tied together"
+        },
+        {
+          "sign": "B3",
+          "mnemonic": "msi",
+          "class": "triliteral",
+          "description": "woman giving birth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F31",
+        "S29"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F31",
+          "mnemonic": "ms",
+          "class": "biliteral",
+          "description": "three skins tied together"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F31",
+        "S29",
+        "B3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F31",
+          "mnemonic": "ms",
+          "class": "biliteral",
+          "description": "three skins tied together"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "B3",
+          "mnemonic": "msi",
+          "class": "triliteral",
+          "description": "woman giving birth"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F31",
+        "S29",
+        "X1",
+        "Y1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F31",
+          "mnemonic": "ms",
+          "class": "biliteral",
+          "description": "three skins tied together"
+        },
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

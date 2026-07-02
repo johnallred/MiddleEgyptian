@@ -1,0 +1,50 @@
+{
+ "variant": "baseline",
+ "games": 500,
+ "seed": 1000,
+ "notes": {},
+ "by_players": {
+  "2": {
+   "balance": 98.2,
+   "victory_pct": 99.8,
+   "median_turns": 106,
+   "avg_score": 6.8,
+   "steals_per_game": 0.75,
+   "logograms_per_game": 0.47,
+   "exchanges_per_game": 0.0,
+   "seat_win_rates": {
+    "seat_0": 0.478,
+    "seat_1": 0.522
+   }
+  },
+  "3": {
+   "balance": 98.7,
+   "victory_pct": 100.0,
+   "median_turns": 84,
+   "avg_score": 4.3,
+   "steals_per_game": 1.27,
+   "logograms_per_game": 0.48,
+   "exchanges_per_game": 0.0,
+   "seat_win_rates": {
+    "seat_0": 0.35,
+    "seat_1": 0.32,
+    "seat_2": 0.33
+   }
+  },
+  "4": {
+   "balance": 95.4,
+   "victory_pct": 100.0,
+   "median_turns": 88,
+   "avg_score": 3.2,
+   "steals_per_game": 1.88,
+   "logograms_per_game": 0.64,
+   "exchanges_per_game": 0.0,
+   "seat_win_rates": {
+    "seat_0": 0.264,
+    "seat_1": 0.294,
+    "seat_2": 0.212,
+    "seat_3": 0.23
+   }
+  }
+ }
+}

@@ -1,0 +1,242 @@
+{
+  "transliteration": "nbw",
+  "english_glosses": [
+    "gold",
+    "the Golden One (epithet of Hathor)",
+    "the Golden One (an epithet of Hathor)",
+    "Nebu (subdivision of a phyle)",
+    "(a wooden object)",
+    "pegs"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S12"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V30"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S12",
+        "S12"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        },
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S12",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V30",
+        "D58"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V30",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V30",
+        "M3"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "V30",
+        "Z7"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "V30",
+          "mnemonic": "nb",
+          "class": "biliteral",
+          "description": "basket"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S12",
+        "D58",
+        "G43"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S12",
+        "D58",
+        "Z7",
+        "M3"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "M3",
+          "mnemonic": "xt",
+          "class": "biliteral",
+          "description": "branch"
+        }
+      ]
+    }
+  ]
+}

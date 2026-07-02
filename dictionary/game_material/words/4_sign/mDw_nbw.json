@@ -1,0 +1,54 @@
+{
+  "transliteration": "mDw nbw",
+  "english_glosses": [
+    "goldsmiths"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S43",
+        "G43",
+        "S12",
+        "G43"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S43",
+          "mnemonic": "md",
+          "class": "biliteral",
+          "description": "walking stick"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "S12",
+          "mnemonic": "nbw",
+          "class": "triliteral",
+          "description": "collar of beads"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

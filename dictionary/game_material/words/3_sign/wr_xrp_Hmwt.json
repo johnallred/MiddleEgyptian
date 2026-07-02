@@ -1,0 +1,83 @@
+{
+  "transliteration": "wr xrp Hmwt",
+  "english_glosses": [
+    "Greatest of the Master Craftsmen",
+    "Master Craftsman"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G36",
+        "S42",
+        "U24"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "S42",
+          "mnemonic": "abA",
+          "class": "triliteral",
+          "description": "sceptre of authority"
+        },
+        {
+          "sign": "U24",
+          "mnemonic": "Hmt",
+          "class": "triliteral",
+          "description": "drill for stone"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G36",
+        "D21",
+        "S42",
+        "U24"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "G36",
+          "mnemonic": "wr",
+          "class": "biliteral",
+          "description": "swallow"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "S42",
+          "mnemonic": "abA",
+          "class": "triliteral",
+          "description": "sceptre of authority"
+        },
+        {
+          "sign": "U24",
+          "mnemonic": "Hmt",
+          "class": "triliteral",
+          "description": "drill for stone"
+        }
+      ]
+    }
+  ]
+}

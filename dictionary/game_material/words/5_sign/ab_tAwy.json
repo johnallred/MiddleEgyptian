@@ -1,0 +1,60 @@
+{
+  "transliteration": "ab tAwy",
+  "english_glosses": [
+    "one who knows Egypt {an epithet of Thoth}"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W10",
+        "U1",
+        "N16",
+        "N16",
+        "C3"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        },
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "N16",
+          "mnemonic": "tA",
+          "class": "biliteral",
+          "description": "land with grains"
+        },
+        {
+          "sign": "C3",
+          "mnemonic": "DHwty",
+          "class": "4plus",
+          "description": "god with head of ibis"
+        }
+      ]
+    }
+  ]
+}

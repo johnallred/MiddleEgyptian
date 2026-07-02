@@ -1,0 +1,81 @@
+{
+  "transliteration": "rs tp",
+  "english_glosses": [
+    "vigilance"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M24",
+        "D1",
+        "Q3"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "M24",
+          "mnemonic": "rsw",
+          "class": "triliteral",
+          "description": "combination of M23 M23 and D21 D21"
+        },
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T13",
+        "X1",
+        "Q3",
+        "D1"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "T13",
+          "mnemonic": "rs",
+          "class": "biliteral",
+          "description": "joined pieces of wood"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "D1",
+          "mnemonic": "tp",
+          "class": "biliteral",
+          "description": "head in profile"
+        }
+      ]
+    }
+  ]
+}

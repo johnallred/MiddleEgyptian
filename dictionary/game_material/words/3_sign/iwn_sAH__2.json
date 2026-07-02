@@ -1,0 +1,46 @@
+{
+  "transliteration": "iwn sAH",
+  "english_glosses": [
+    "Decan"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "O28",
+        "D61",
+        "N14"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "O28",
+          "mnemonic": "iwn",
+          "class": "triliteral",
+          "description": "column"
+        },
+        {
+          "sign": "D61",
+          "mnemonic": "sAH",
+          "class": "triliteral",
+          "description": "three toes oriented leftward"
+        },
+        {
+          "sign": "N14",
+          "mnemonic": "sbA",
+          "class": "triliteral",
+          "description": "star"
+        }
+      ]
+    }
+  ]
+}

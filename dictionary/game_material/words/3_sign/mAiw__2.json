@@ -1,0 +1,47 @@
+{
+  "transliteration": "mAiw",
+  "english_glosses": [
+    "lions"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "U1",
+        "G43",
+        "E22"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "U1",
+          "mnemonic": "mA",
+          "class": "biliteral",
+          "description": "sickle"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "E22",
+          "mnemonic": "mAi",
+          "class": "triliteral",
+          "description": "lion"
+        }
+      ]
+    }
+  ]
+}

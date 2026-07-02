@@ -1,0 +1,119 @@
+{
+  "transliteration": "mAat",
+  "english_glosses": [
+    "right - doing",
+    "truth",
+    "rightdoing"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "C10"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "C10",
+          "mnemonic": "mAat",
+          "class": "4plus",
+          "description": "goddess with feather on head"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "H6"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "H6",
+        "X1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "H6",
+        "Y1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "H6",
+        "X1",
+        "C10"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "C10",
+          "mnemonic": "mAat",
+          "class": "4plus",
+          "description": "goddess with feather on head"
+        }
+      ]
+    }
+  ]
+}

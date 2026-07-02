@@ -1,0 +1,131 @@
+{
+  "transliteration": "ii m Htp",
+  "english_glosses": [
+    "come in peace",
+    "Imhotep {Architect of Step Pyramid}"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "M18",
+        "M17",
+        "G17",
+        "R4",
+        "X1",
+        "Q3"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "R4",
+          "mnemonic": "Htp",
+          "class": "triliteral",
+          "description": "loaf on mat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "M18",
+        "M17",
+        "G17",
+        "R4",
+        "X1",
+        "Z7",
+        "Q3",
+        "Y1"
+      ],
+      "sign_count": 8,
+      "annotated": [
+        {
+          "sign": "M18",
+          "mnemonic": "ii",
+          "class": "biliteral",
+          "description": "combination of M17 M17 and D54 D54"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "R4",
+          "mnemonic": "Htp",
+          "class": "triliteral",
+          "description": "loaf on mat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    }
+  ]
+}

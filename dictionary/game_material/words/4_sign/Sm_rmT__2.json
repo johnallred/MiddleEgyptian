@@ -1,0 +1,53 @@
+{
+  "transliteration": "Sm rmT",
+  "english_glosses": [
+    "uraeus snake (as protective amulet)"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "N40",
+        "G17",
+        "D21",
+        "V13"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "N40",
+          "mnemonic": "Sm",
+          "class": "biliteral",
+          "description": "combination of N37 N37 and D54 D54"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        }
+      ]
+    }
+  ]
+}

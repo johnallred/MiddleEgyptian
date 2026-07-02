@@ -1,0 +1,46 @@
+{
+  "transliteration": "xnmw",
+  "english_glosses": [
+    "Khnum"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "W9",
+        "G43",
+        "C4"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "W9",
+          "mnemonic": "Xnm",
+          "class": "triliteral",
+          "description": "jug with left handle"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "C4",
+          "mnemonic": "Xnmw",
+          "class": "4plus",
+          "description": "god with head of ram"
+        }
+      ]
+    }
+  ]
+}

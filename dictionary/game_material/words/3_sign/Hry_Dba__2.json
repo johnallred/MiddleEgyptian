@@ -1,0 +1,47 @@
+{
+  "transliteration": "Hry Dba",
+  "english_glosses": [
+    "a fed calf",
+    "hornless cattle"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D2",
+        "D21",
+        "D50"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D2",
+          "mnemonic": "Hr",
+          "class": "biliteral",
+          "description": "face"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D50",
+          "mnemonic": "Dba",
+          "class": "triliteral",
+          "description": "finger vertically"
+        }
+      ]
+    }
+  ]
+}

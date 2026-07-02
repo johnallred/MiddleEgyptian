@@ -1,0 +1,115 @@
+{
+  "transliteration": "wab",
+  "english_glosses": [
+    "pure",
+    "serve as priest",
+    "Wab Priest",
+    "pure place (room in Chapel"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D60"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "D60",
+          "mnemonic": "wab",
+          "class": "triliteral",
+          "description": "D58 D58 under vase from which water flows"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D60",
+        "O1"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "D60",
+          "mnemonic": "wab",
+          "class": "triliteral",
+          "description": "D58 D58 under vase from which water flows"
+        },
+        {
+          "sign": "O1",
+          "mnemonic": "pr",
+          "class": "biliteral",
+          "description": "house"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "D36",
+        "D58"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G43",
+        "D36",
+        "D60"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "D60",
+          "mnemonic": "wab",
+          "class": "triliteral",
+          "description": "D58 D58 under vase from which water flows"
+        }
+      ]
+    }
+  ]
+}

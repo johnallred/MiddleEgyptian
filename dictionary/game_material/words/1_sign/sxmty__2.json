@@ -1,0 +1,62 @@
+{
+  "transliteration": "sxmty",
+  "english_glosses": [
+    "the Double - Crown",
+    "the double crown"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S6"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S6",
+          "mnemonic": "sxmty",
+          "class": "4plus",
+          "description": "combination of S5 S5 and V30 V30"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S42",
+        "X1",
+        "S6"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "S42",
+          "mnemonic": "abA",
+          "class": "triliteral",
+          "description": "sceptre of authority"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "S6",
+          "mnemonic": "sxmty",
+          "class": "4plus",
+          "description": "combination of S5 S5 and V30 V30"
+        }
+      ]
+    }
+  ]
+}

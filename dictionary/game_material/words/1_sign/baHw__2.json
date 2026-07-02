@@ -1,0 +1,162 @@
+{
+  "transliteration": "baHw",
+  "english_glosses": [
+    "inundation",
+    "be flooded (with rays of sun",
+    "the ejaculation of Sobek (figuratively for the inundation)"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G32"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "D36",
+        "V28"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D59",
+        "V28",
+        "G32"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "D59",
+          "mnemonic": "ab",
+          "class": "biliteral",
+          "description": "combination of D58 D58 and D36 D36"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "D36",
+        "V28",
+        "G32"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "D36",
+          "mnemonic": "a",
+          "class": "uniliteral",
+          "description": "forearm"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "G32",
+          "mnemonic": "baHi",
+          "class": "4plus",
+          "description": "heron on perch"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D58",
+        "W10",
+        "V28",
+        "D52"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "W10",
+          "mnemonic": "iab",
+          "class": "triliteral",
+          "description": "cup"
+        },
+        {
+          "sign": "V28",
+          "mnemonic": "H",
+          "class": "uniliteral",
+          "description": "wick"
+        },
+        {
+          "sign": "D52",
+          "mnemonic": "mt",
+          "class": "biliteral",
+          "description": "phallus"
+        }
+      ]
+    }
+  ]
+}

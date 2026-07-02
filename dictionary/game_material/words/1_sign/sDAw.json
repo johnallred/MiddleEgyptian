@@ -1,0 +1,117 @@
+{
+  "transliteration": "sDAw",
+  "english_glosses": [
+    "precious",
+    "seal - bearer",
+    "Seal Bearer",
+    "seal-bearer",
+    "rings ?",
+    "rings (?)"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adjective",
+    "noun"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "S19"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "S19",
+          "mnemonic": "sDAw",
+          "class": "4plus",
+          "description": "necklace with seal from side"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S19",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S19",
+          "mnemonic": "sDAw",
+          "class": "4plus",
+          "description": "necklace with seal from side"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S20",
+        "G43"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "S20",
+          "mnemonic": "xtm",
+          "class": "triliteral",
+          "description": "necklace with seal from front"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "S29",
+        "I10",
+        "G1",
+        "G43"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "S29",
+          "mnemonic": "s",
+          "class": "uniliteral",
+          "description": "folded cloth"
+        },
+        {
+          "sign": "I10",
+          "mnemonic": "D",
+          "class": "uniliteral",
+          "description": "cobra"
+        },
+        {
+          "sign": "G1",
+          "mnemonic": "A",
+          "class": "uniliteral",
+          "description": "Egyptian vulture"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "stats": {
+    "n_games": 500,
+    "n_players": 2,
+    "median_turns": 1000,
+    "avg_score": 9.0,
+    "avg_logograms_per_game": 0.0,
+    "avg_steals_per_game": 0.01,
+    "end_reasons": {
+      "turn_limit": 320,
+      "victory": 180
+    },
+    "seat_win_rates": {
+      "seat_0": 0.488,
+      "seat_1": 0.512
+    },
+    "agent_win_rates": {
+      "greedy": 0.488,
+      "balanced": 0.512
+    },
+    "top_completed_words": [
+      [
+        "sHwy",
+        18
+      ],
+      [
+        "sTy",
+        17
+      ],
+      [
+        "qni",
+        16
+      ],
+      [
+        "msdmt",
+        16
+      ],
+      [
+        "gwAt",
+        16
+      ],
+      [
+        "pSn",
+        15
+      ],
+      [
+        "tbn",
+        15
+      ],
+      [
+        "sawA",
+        15
+      ],
+      [
+        "HmAt",
+        15
+      ],
+      [
+        "ispr",
+        15
+      ],
+      [
+        "snf",
+        15
+      ],
+      [
+        "Aryt",
+        14
+      ],
+      [
+        "rkrk",
+        14
+      ],
+      [
+        "wpwty",
+        14
+      ],
+      [
+        "Sna",
+        14
+      ]
+    ],
+    "top_stolen_words": [
+      [
+        "ngyt",
+        2
+      ],
+      [
+        "Afry",
+        1
+      ],
+      [
+        "ihhy",
+        1
+      ],
+      [
+        "nfryt",
+        1
+      ],
+      [
+        "itnw",
+        1
+      ]
+    ],
+    "broken_openers": [],
+    "best_opening_word_cards": [
+      {
+        "word": "HmAt",
+        "games": 11,
+        "win_rate": 0.545
+      },
+      {
+        "word": "Aryt",
+        "games": 11,
+        "win_rate": 0.455
+      }
+    ],
+    "worst_opening_word_cards": [
+      {
+        "word": "HmAt",
+        "games": 11,
+        "win_rate": 0.545
+      },
+      {
+        "word": "Aryt",
+        "games": 11,
+        "win_rate": 0.455
+      }
+    ],
+    "balance_score": 49.8
+  },
+  "config": {
+    "n_players": 2,
+    "agents": [
+      "greedy",
+      "balanced"
+    ],
+    "n_games": 500,
+    "seed": 1000
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "transliteration": "+srt-",
+  "english_glosses": [
+    "‘the Western Holy Place’ = Medīnet Habu"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": null,
+  "all_pos": [],
+  "sources": [
+    "Faulkner"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D45",
+        "D21",
+        "X1",
+        "R14",
+        "X1",
+        "X1"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "D45",
+          "mnemonic": "Dsr",
+          "class": "triliteral",
+          "description": "arm with nHbt -wand"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "R14",
+          "mnemonic": "imnt",
+          "class": "4plus",
+          "description": "feather on standard"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "transliteration": "km / kmyt",
+  "english_glosses": [
+    "completion"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "I6",
+        "G17",
+        "M17",
+        "M17",
+        "V12"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "I6",
+          "mnemonic": "km",
+          "class": "biliteral",
+          "description": "crocodile scales"
+        },
+        {
+          "sign": "G17",
+          "mnemonic": "m",
+          "class": "uniliteral",
+          "description": "owl"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "V12",
+          "mnemonic": "arq",
+          "class": "triliteral",
+          "description": "string"
+        }
+      ]
+    }
+  ]
+}

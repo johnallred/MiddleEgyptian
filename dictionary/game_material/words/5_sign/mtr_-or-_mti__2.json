@@ -1,0 +1,62 @@
+{
+  "transliteration": "mtr / mti",
+  "english_glosses": [
+    "testify",
+    "straightforward"
+  ],
+  "shortest_sign_count": 5,
+  "difficulty_tier": "medium-hard",
+  "point_value": 7,
+  "primary_pos": "verb",
+  "all_pos": [
+    "adjective",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D52",
+        "X1",
+        "D21",
+        "D50",
+        "D50"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "D52",
+          "mnemonic": "mt",
+          "class": "biliteral",
+          "description": "phallus"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "D50",
+          "mnemonic": "Dba",
+          "class": "triliteral",
+          "description": "finger vertically"
+        },
+        {
+          "sign": "D50",
+          "mnemonic": "Dba",
+          "class": "triliteral",
+          "description": "finger vertically"
+        }
+      ]
+    }
+  ]
+}

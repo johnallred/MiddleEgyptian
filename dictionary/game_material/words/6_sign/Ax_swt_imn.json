@@ -1,0 +1,67 @@
+{
+  "transliteration": "Ax swt imn",
+  "english_glosses": [
+    "(name of a funerary temple at Deir el Bahri)"
+  ],
+  "shortest_sign_count": 6,
+  "difficulty_tier": "hard",
+  "point_value": 10,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G25",
+        "Q1",
+        "X1",
+        "M17",
+        "Y5",
+        "N35"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "G25",
+          "mnemonic": "Ax",
+          "class": "biliteral",
+          "description": "northern bald ibis"
+        },
+        {
+          "sign": "Q1",
+          "mnemonic": "st",
+          "class": "biliteral",
+          "description": "seat"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "Y5",
+          "mnemonic": "mn",
+          "class": "biliteral",
+          "description": "game board"
+        },
+        {
+          "sign": "N35",
+          "mnemonic": "n",
+          "class": "uniliteral",
+          "description": "ripple of water"
+        }
+      ]
+    }
+  ]
+}

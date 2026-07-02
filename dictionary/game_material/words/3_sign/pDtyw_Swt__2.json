@@ -1,0 +1,88 @@
+{
+  "transliteration": "pDtyw Swt",
+  "english_glosses": [
+    "one of the tribes of the nine bows"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "T10",
+        "G4",
+        "H6"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "T10",
+          "mnemonic": "pD",
+          "class": "biliteral",
+          "description": "composite bow"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "T10",
+        "X1",
+        "G4",
+        "H6",
+        "G43"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "T10",
+          "mnemonic": "pD",
+          "class": "biliteral",
+          "description": "composite bow"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "G4",
+          "mnemonic": "tyw",
+          "class": "triliteral",
+          "description": "buzzard"
+        },
+        {
+          "sign": "H6",
+          "mnemonic": "Sw",
+          "class": "biliteral",
+          "description": "feather"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        }
+      ]
+    }
+  ]
+}

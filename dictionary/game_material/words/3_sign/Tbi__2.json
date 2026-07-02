@@ -1,0 +1,76 @@
+{
+  "transliteration": "Tbi",
+  "english_glosses": [
+    "be shod",
+    "vb. 3inf. be shod"
+  ],
+  "shortest_sign_count": 3,
+  "difficulty_tier": "medium-easy",
+  "point_value": 2,
+  "primary_pos": "verb",
+  "all_pos": [
+    "verb"
+  ],
+  "sources": [
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "V13",
+        "D58",
+        "S33"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "V13",
+          "mnemonic": "T",
+          "class": "uniliteral",
+          "description": "rope"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "S33",
+          "mnemonic": "Tb",
+          "class": "biliteral",
+          "description": "sandle"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "X1",
+        "D58",
+        "S33"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "D58",
+          "mnemonic": "b",
+          "class": "uniliteral",
+          "description": "foot"
+        },
+        {
+          "sign": "S33",
+          "mnemonic": "Tb",
+          "class": "biliteral",
+          "description": "sandle"
+        }
+      ]
+    }
+  ]
+}

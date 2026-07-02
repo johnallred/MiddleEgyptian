@@ -1,0 +1,62 @@
+{
+  "transliteration": "Ax",
+  "english_glosses": [
+    "be",
+    "spirit",
+    "become a spirit",
+    "successful",
+    "the spirit-state",
+    "spiritual power"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "adjective",
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Dickson",
+    "Faulkner",
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "G25"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "G25",
+          "mnemonic": "Ax",
+          "class": "biliteral",
+          "description": "northern bald ibis"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "G25",
+        "A51"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "G25",
+          "mnemonic": "Ax",
+          "class": "biliteral",
+          "description": "northern bald ibis"
+        },
+        {
+          "sign": "A51",
+          "mnemonic": "Spsi",
+          "class": "4plus",
+          "description": "noble on chair with S45 S45"
+        }
+      ]
+    }
+  ]
+}

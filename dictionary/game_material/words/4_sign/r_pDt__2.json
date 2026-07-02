@@ -1,0 +1,88 @@
+{
+  "transliteration": "r pDt",
+  "english_glosses": [
+    "conflict"
+  ],
+  "shortest_sign_count": 4,
+  "difficulty_tier": "medium",
+  "point_value": 4,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "D21",
+        "T10",
+        "T10",
+        "T10"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "T10",
+          "mnemonic": "pD",
+          "class": "biliteral",
+          "description": "composite bow"
+        },
+        {
+          "sign": "T10",
+          "mnemonic": "pD",
+          "class": "biliteral",
+          "description": "composite bow"
+        },
+        {
+          "sign": "T10",
+          "mnemonic": "pD",
+          "class": "biliteral",
+          "description": "composite bow"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "D21",
+        "T9",
+        "X1",
+        "T14"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "D21",
+          "mnemonic": "r",
+          "class": "uniliteral",
+          "description": "mouth"
+        },
+        {
+          "sign": "T9",
+          "mnemonic": "pd",
+          "class": "biliteral",
+          "description": "bow"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "T14",
+          "mnemonic": "qmA",
+          "class": "triliteral",
+          "description": "throw stick vertically"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "transliteration": "wp",
+  "english_glosses": [
+    "divide {late egyptian}",
+    "except",
+    "Festival",
+    "festive mood",
+    "details of",
+    "double edged knife"
+  ],
+  "shortest_sign_count": 1,
+  "difficulty_tier": "trivial",
+  "point_value": 1,
+  "primary_pos": "noun",
+  "all_pos": [
+    "noun",
+    "verb"
+  ],
+  "sources": [
+    "Vygus"
+  ],
+  "spellings": [
+    {
+      "signs": [
+        "F13"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "Y1"
+      ],
+      "sign_count": 1,
+      "annotated": [
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3"
+      ],
+      "sign_count": 2,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "M9"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "M9",
+          "mnemonic": "zSn",
+          "class": "triliteral",
+          "description": "lotus flower"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "Y1"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Y1",
+          "mnemonic": "mDAt",
+          "class": "4plus",
+          "description": "scroll with ties"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "Z7"
+      ],
+      "sign_count": 3,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "Z7",
+          "mnemonic": "W",
+          "class": "uniliteral",
+          "description": "hieratic quail chick"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "W3",
+        "N5"
+      ],
+      "sign_count": 4,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "G43",
+        "W3",
+        "N5"
+      ],
+      "sign_count": 5,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "G43",
+          "mnemonic": "w",
+          "class": "uniliteral",
+          "description": "quail chick"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        },
+        {
+          "sign": "N5",
+          "mnemonic": "ra",
+          "class": "biliteral",
+          "description": "sun"
+        }
+      ]
+    },
+    {
+      "signs": [
+        "F13",
+        "Q3",
+        "M17",
+        "M17",
+        "X1",
+        "W3"
+      ],
+      "sign_count": 6,
+      "annotated": [
+        {
+          "sign": "F13",
+          "mnemonic": "wp",
+          "class": "biliteral",
+          "description": "horns"
+        },
+        {
+          "sign": "Q3",
+          "mnemonic": "p",
+          "class": "uniliteral",
+          "description": "stool"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "M17",
+          "mnemonic": "i",
+          "class": "uniliteral",
+          "description": "reed"
+        },
+        {
+          "sign": "X1",
+          "mnemonic": "t",
+          "class": "uniliteral",
+          "description": "flat loaf"
+        },
+        {
+          "sign": "W3",
+          "mnemonic": "Hb",
+          "class": "biliteral",
+          "description": "alabaster basin"
+        }
+      ]
+    }
+  ]
+}

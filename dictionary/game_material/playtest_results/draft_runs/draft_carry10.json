@@ -1,0 +1,82 @@
+{
+ "variant": "draft_carry10",
+ "board_size": 10,
+ "refill": true,
+ "carryover": true,
+ "games": 60,
+ "seed": 1000,
+ "mirror": {
+  "2": {
+   "seat_win_rates": {
+    "seat_0": 0.5,
+    "seat_1": 0.5
+   },
+   "agent_win_rates": {
+    "smart": 1.0
+   },
+   "avg_winning_score": 2.7,
+   "avg_score_spread": 1.9,
+   "avg_words_per_game": 1.8,
+   "tie_rate_pct": 25.0,
+   "logos_per_game": 0.6,
+   "avg_completion_turns": 8.5,
+   "utilization_pct": 4.9,
+   "est_wall_clock_min": 10.4
+  },
+  "3": {
+   "seat_win_rates": {
+    "seat_0": 0.367,
+    "seat_1": 0.217,
+    "seat_2": 0.417
+   },
+   "agent_win_rates": {
+    "smart": 1.0
+   },
+   "avg_winning_score": 2.6,
+   "avg_score_spread": 2.4,
+   "avg_words_per_game": 2.5,
+   "tie_rate_pct": 30.0,
+   "logos_per_game": 0.85,
+   "avg_completion_turns": 13.1,
+   "utilization_pct": 4.4,
+   "est_wall_clock_min": 10.6
+  },
+  "4": {
+   "seat_win_rates": {
+    "seat_0": 0.233,
+    "seat_1": 0.317,
+    "seat_2": 0.133,
+    "seat_3": 0.317
+   },
+   "agent_win_rates": {
+    "smart": 1.0
+   },
+   "avg_winning_score": 2.5,
+   "avg_score_spread": 2.3,
+   "avg_words_per_game": 2.7,
+   "tie_rate_pct": 26.7,
+   "logos_per_game": 0.85,
+   "avg_completion_turns": 17.3,
+   "utilization_pct": 4.1,
+   "est_wall_clock_min": 10.7
+  }
+ },
+ "skill": {
+  "seat_win_rates": {
+   "seat_0": 0.25,
+   "seat_1": 0.75
+  },
+  "agent_win_rates": {
+   "smart": 0.75,
+   "random": 0.25
+  },
+  "avg_winning_score": 2.8,
+  "avg_score_spread": 2.1,
+  "avg_words_per_game": 1.9,
+  "tie_rate_pct": 21.7,
+  "logos_per_game": 0.6,
+  "avg_completion_turns": 8.9,
+  "utilization_pct": 5.1,
+  "est_wall_clock_min": 10.5
+ }
+}
